@@ -43,3 +43,6 @@
 [submodule "ui/animation/BCGenieEffect"]
 	path = ui/animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
+[submodule "ui/image/MJParallaxCollectionView"]
+	path = ui/image/MJParallaxCollectionView
+	url = https://github.com/mayuur/MJParallaxCollectionView.git
