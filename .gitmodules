@@ -103,3 +103,6 @@
 [submodule "ui/image/SDWebImage"]
 	path = ui/image/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
+[submodule "ui/collection/PSCollectionView"]
+	path = ui/collection/PSCollectionView
+	url = https://github.com/ptshih/PSCollectionView.git
