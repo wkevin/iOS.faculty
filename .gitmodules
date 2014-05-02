@@ -10,3 +10,6 @@
 [submodule "ui/text/UIFloatLabelTextView"]
 	path = ui/text/UIFloatLabelTextView
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
+[submodule "ui/form/DCDataForm"]
+	path = ui/form/DCDataForm
+	url = https://github.com/austiniam/DCDataForm.git
