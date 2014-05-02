@@ -97,3 +97,6 @@
 [submodule "ui/scene/iCarousel"]
 	path = ui/scene/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
+[submodule "ui/menu/RESideMenu"]
+	path = ui/menu/RESideMenu
+	url = https://github.com/romaonthego/RESideMenu.git
