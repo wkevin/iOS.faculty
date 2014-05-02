@@ -67,3 +67,6 @@
 [submodule "foundation/file/FCFileManager"]
 	path = foundation/file/FCFileManager
 	url = https://github.com/fabiocaccamo/FCFileManager.git
+[submodule "coredata/KORData"]
+	path = coredata/KORData
+	url = https://github.com/olistaats/KORData.git
