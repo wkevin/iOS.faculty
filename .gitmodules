@@ -37,3 +37,9 @@
 [submodule "ui/text/MVTextInputScroller"]
 	path = ui/text/MVTextInputScroller
 	url = https://github.com/bizz84/MVTextInputScroller.git
+[submodule "foundation/date/DateTools"]
+	path = foundation/date/DateTools
+	url = https://github.com/MatthewYork/DateTools.git
+[submodule "ui/animation/BCGenieEffect"]
+	path = ui/animation/BCGenieEffect
+	url = https://github.com/Ciechan/BCGenieEffect.git
