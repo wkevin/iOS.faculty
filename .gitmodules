@@ -82,3 +82,6 @@
 [submodule "ui/scene/TutorialKit"]
 	path = ui/scene/TutorialKit
 	url = https://github.com/lostinthepines/TutorialKit.git
+[submodule "ui/scene/ACETelPrompt"]
+	path = ui/scene/ACETelPrompt
+	url = https://github.com/acerbetti/ACETelPrompt.git
