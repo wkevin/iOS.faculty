@@ -25,3 +25,6 @@
 [submodule "ui/slider/SSTTapSlider"]
 	path = ui/slider/SSTTapSlider
 	url = https://github.com/brennanMKE/SSTTapSlider.git
+[submodule "ui/slider/ASValueTrackingSlider"]
+	path = ui/slider/ASValueTrackingSlider
+	url = https://github.com/alskipp/ASValueTrackingSlider.git
