@@ -100,3 +100,6 @@
 [submodule "ui/menu/RESideMenu"]
 	path = ui/menu/RESideMenu
 	url = https://github.com/romaonthego/RESideMenu.git
+[submodule "ui/image/SDWebImage"]
+	path = ui/image/SDWebImage
+	url = https://github.com/rs/SDWebImage.git
