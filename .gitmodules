@@ -46,3 +46,6 @@
 [submodule "ui/image/MJParallaxCollectionView"]
 	path = ui/image/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
+[submodule "ui/animation/MVBouncyView"]
+	path = ui/animation/MVBouncyView
+	url = https://github.com/bizz84/MVBouncyView.git
