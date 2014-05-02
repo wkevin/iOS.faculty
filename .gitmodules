@@ -94,3 +94,6 @@
 [submodule "doc/article/objccn.io-articles"]
 	path = doc/article/objccn.io-articles
 	url = https://github.com/objccn/articles.git
+[submodule "ui/scene/iCarousel"]
+	path = ui/scene/iCarousel
+	url = https://github.com/nicklockwood/iCarousel.git
