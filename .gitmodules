@@ -1,0 +1,12 @@
+[submodule "ui/form/FormKit.m"]
+	path = ui/form/FormKit.m
+	url = https://github.com/brunow/FormKit.m.git
+[submodule "ui/date/DIDatepicker"]
+	path = ui/date/DIDatepicker
+	url = https://github.com/noxt/DIDatepicker.git
+[submodule "ui/text/UIFloatLabelTextField"]
+	path = ui/text/UIFloatLabelTextField
+	url = https://github.com/ArtSabintsev/UIFloatLabelTextField.git
+[submodule "ui/text/UIFloatLabelTextView"]
+	path = ui/text/UIFloatLabelTextView
+	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
