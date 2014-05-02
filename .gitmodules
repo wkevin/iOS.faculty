@@ -61,3 +61,6 @@
 [submodule "foundation/module/Mantle"]
 	path = foundation/module/Mantle
 	url = https://github.com/Mantle/Mantle.git
+[submodule "ui/animation/AnimatedTransitionGallery"]
+	path = ui/animation/AnimatedTransitionGallery
+	url = https://github.com/shu223/AnimatedTransitionGallery.git
