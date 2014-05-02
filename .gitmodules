@@ -13,3 +13,6 @@
 [submodule "ui/form/DCDataForm"]
 	path = ui/form/DCDataForm
 	url = https://github.com/austiniam/DCDataForm.git
+[submodule "ui/pin/THPinViewController"]
+	path = ui/pin/THPinViewController
+	url = https://github.com/antiraum/THPinViewController.git
