@@ -76,3 +76,6 @@
 [submodule "ui/segment/NYSegmentedControl"]
 	path = ui/segment/NYSegmentedControl
 	url = https://github.com/nealyoung/NYSegmentedControl.git
+[submodule "ui/menu/APHorizontalMenu"]
+	path = ui/menu/APHorizontalMenu
+	url = https://github.com/apascual/APHorizontalMenu.git
