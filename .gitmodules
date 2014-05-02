@@ -91,3 +91,6 @@
 [submodule "ui/scene/MFHWireframes"]
 	path = ui/scene/MFHWireframes
 	url = https://github.com/matt-holden/MFHWireframes.git
+[submodule "doc/article/objccn.io-articles"]
+	path = doc/article/objccn.io-articles
+	url = https://github.com/objccn/articles.git
