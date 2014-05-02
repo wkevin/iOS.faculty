@@ -19,3 +19,6 @@
 [submodule "ui/menu/iOSContextualMenu"]
 	path = ui/menu/iOSContextualMenu
 	url = https://github.com/hectormatos2011/iOSContextualMenu.git
+[submodule "ui/button/FlatButtons"]
+	path = ui/button/FlatButtons
+	url = https://github.com/brennanMKE/FlatButtons.git
