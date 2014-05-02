@@ -43,8 +43,8 @@
 [submodule "ui/animation/BCGenieEffect"]
 	path = ui/animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
-[submodule "ui/image/MJParallaxCollectionView"]
-	path = ui/image/MJParallaxCollectionView
+[submodule "ui/collection/MJParallaxCollectionView"]
+	path = ui/collection/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 [submodule "ui/animation/MVBouncyView"]
 	path = ui/animation/MVBouncyView
@@ -55,3 +55,6 @@
 [submodule "ui/collection/AsyncCollections"]
 	path = ui/collection/AsyncCollections
 	url = https://github.com/bilby91/AsyncCollections.git
+[submodule "ui/selector/BWSelectViewController"]
+	path = ui/selector/BWSelectViewController
+	url = https://github.com/brunow/BWSelectViewController.git
