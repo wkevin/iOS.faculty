@@ -22,3 +22,6 @@
 [submodule "ui/button/FlatButtons"]
 	path = ui/button/FlatButtons
 	url = https://github.com/brennanMKE/FlatButtons.git
+[submodule "ui/slider/SSTTapSlider"]
+	path = ui/slider/SSTTapSlider
+	url = https://github.com/brennanMKE/SSTTapSlider.git
