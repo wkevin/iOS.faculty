@@ -52,3 +52,6 @@
 [submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
 	path = ui/collection/UICollectionViewLeftAlignedLayout
 	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
+[submodule "ui/collection/AsyncCollections"]
+	path = ui/collection/AsyncCollections
+	url = https://github.com/bilby91/AsyncCollections.git
