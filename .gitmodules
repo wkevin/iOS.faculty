@@ -58,3 +58,6 @@
 [submodule "ui/selector/BWSelectViewController"]
 	path = ui/selector/BWSelectViewController
 	url = https://github.com/brunow/BWSelectViewController.git
+[submodule "foundation/module/Mantle"]
+	path = foundation/module/Mantle
+	url = https://github.com/Mantle/Mantle.git
