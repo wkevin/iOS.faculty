@@ -79,3 +79,6 @@
 [submodule "ui/menu/APHorizontalMenu"]
 	path = ui/menu/APHorizontalMenu
 	url = https://github.com/apascual/APHorizontalMenu.git
+[submodule "ui/scene/TutorialKit"]
+	path = ui/scene/TutorialKit
+	url = https://github.com/lostinthepines/TutorialKit.git
