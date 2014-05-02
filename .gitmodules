@@ -49,3 +49,6 @@
 [submodule "ui/animation/MVBouncyView"]
 	path = ui/animation/MVBouncyView
 	url = https://github.com/bizz84/MVBouncyView.git
+[submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
+	path = ui/collection/UICollectionViewLeftAlignedLayout
+	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
