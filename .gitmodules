@@ -64,3 +64,6 @@
 [submodule "ui/animation/AnimatedTransitionGallery"]
 	path = ui/animation/AnimatedTransitionGallery
 	url = https://github.com/shu223/AnimatedTransitionGallery.git
+[submodule "foundation/file/FCFileManager"]
+	path = foundation/file/FCFileManager
+	url = https://github.com/fabiocaccamo/FCFileManager.git
