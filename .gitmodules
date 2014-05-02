@@ -85,3 +85,9 @@
 [submodule "ui/scene/ACETelPrompt"]
 	path = ui/scene/ACETelPrompt
 	url = https://github.com/acerbetti/ACETelPrompt.git
+[submodule "ui/scene/RASlideInViewController"]
+	path = ui/scene/RASlideInViewController
+	url = https://github.com/ra1028/RASlideInViewController.git
+[submodule "ui/scene/MFHWireframes"]
+	path = ui/scene/MFHWireframes
+	url = https://github.com/matt-holden/MFHWireframes.git
