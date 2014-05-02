@@ -16,3 +16,6 @@
 [submodule "ui/pin/THPinViewController"]
 	path = ui/pin/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
+[submodule "ui/menu/iOSContextualMenu"]
+	path = ui/menu/iOSContextualMenu
+	url = https://github.com/hectormatos2011/iOSContextualMenu.git
