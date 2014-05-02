@@ -28,3 +28,6 @@
 [submodule "ui/slider/ASValueTrackingSlider"]
 	path = ui/slider/ASValueTrackingSlider
 	url = https://github.com/alskipp/ASValueTrackingSlider.git
+[submodule "ui/button/ACPButton"]
+	path = ui/button/ACPButton
+	url = https://github.com/antoniocasero/ACPButton.git
