@@ -31,3 +31,9 @@
 [submodule "ui/button/ACPButton"]
 	path = ui/button/ACPButton
 	url = https://github.com/antoniocasero/ACPButton.git
+[submodule "doc/article/objc.io-articles"]
+	path = doc/article/objc.io-articles
+	url = https://github.com/objcio/articles.git
+[submodule "ui/text/MVTextInputScroller"]
+	path = ui/text/MVTextInputScroller
+	url = https://github.com/bizz84/MVTextInputScroller.git
