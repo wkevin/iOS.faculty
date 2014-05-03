@@ -190,3 +190,6 @@
 [submodule "ui/animation/CBHazeTransitionViewController"]
 	path = ui/animation/CBHazeTransitionViewController
 	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
+[submodule "ui/image/HyperImageView"]
+	path = ui/image/HyperImageView
+	url = https://github.com/xerxes235/HyperImageView.git
