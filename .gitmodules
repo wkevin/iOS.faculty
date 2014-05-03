@@ -160,3 +160,6 @@
 [submodule "ui/text/PSPDFTextView"]
 	path = ui/text/PSPDFTextView
 	url = https://github.com/steipete/PSPDFTextView.git
+[submodule "map/annotation/OMAMovingAnnotations"]
+	path = map/annotation/OMAMovingAnnotations
+	url = https://github.com/opedge/OMAMovingAnnotations.git
