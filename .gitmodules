@@ -133,3 +133,6 @@
 [submodule "database/sqlite/fmdb"]
 	path = database/sqlite/fmdb
 	url = https://github.com/ccgus/fmdb.git
+[submodule "cloud/baas/avoscloud-sdk"]
+	path = cloud/baas/avoscloud-sdk
+	url = https://github.com/avoscloud/avoscloud-sdk.git
