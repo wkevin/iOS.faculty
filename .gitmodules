@@ -193,3 +193,6 @@
 [submodule "ui/image/HyperImageView"]
 	path = ui/image/HyperImageView
 	url = https://github.com/xerxes235/HyperImageView.git
+[submodule "ui/image/GPUImage"]
+	path = ui/image/GPUImage
+	url = https://github.com/BradLarson/GPUImage.git
