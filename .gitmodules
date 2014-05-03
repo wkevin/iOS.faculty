@@ -154,3 +154,6 @@
 [submodule "ui/keyboard/CustomKeyboard"]
 	path = ui/keyboard/CustomKeyboard
 	url = https://github.com/kalvish21/CustomKeyboard.git
+[submodule "test/integration/Subliminal"]
+	path = test/integration/Subliminal
+	url = https://github.com/inkling/Subliminal.git
