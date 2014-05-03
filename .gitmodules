@@ -136,3 +136,6 @@
 [submodule "cloud/baas/avoscloud-sdk"]
 	path = cloud/baas/avoscloud-sdk
 	url = https://github.com/avoscloud/avoscloud-sdk.git
+[submodule "foundation/language/Overline"]
+	path = foundation/language/Overline
+	url = https://github.com/yaakaito/Overline.git
