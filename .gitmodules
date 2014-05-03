@@ -157,3 +157,6 @@
 [submodule "test/integration/Subliminal"]
 	path = test/integration/Subliminal
 	url = https://github.com/inkling/Subliminal.git
+[submodule "ui/text/PSPDFTextView"]
+	path = ui/text/PSPDFTextView
+	url = https://github.com/steipete/PSPDFTextView.git
