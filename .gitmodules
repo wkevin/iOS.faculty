@@ -130,3 +130,6 @@
 [submodule "ui/alert/SIAlertView"]
 	path = ui/alert/SIAlertView
 	url = https://github.com/Sumi-Interactive/SIAlertView.git
+[submodule "database/sqlite/fmdb"]
+	path = database/sqlite/fmdb
+	url = https://github.com/ccgus/fmdb.git
