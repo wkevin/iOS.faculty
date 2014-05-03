@@ -181,3 +181,6 @@
 [submodule "coredata/MagicalRecord"]
 	path = coredata/MagicalRecord
 	url = https://github.com/magicalpanda/MagicalRecord.git
+[submodule "ui/form/XLForm"]
+	path = ui/form/XLForm
+	url = https://github.com/xmartlabs/XLForm.git
