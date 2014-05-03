@@ -142,3 +142,6 @@
 [submodule "ui/text/JVFloatLabeledTextField"]
 	path = ui/text/JVFloatLabeledTextField
 	url = https://github.com/jverdi/JVFloatLabeledTextField.git
+[submodule "ui/table/UITableViewCell-Swipe-for-Options"]
+	path = ui/table/UITableViewCell-Swipe-for-Options
+	url = https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options.git
