@@ -124,3 +124,6 @@
 [submodule "ui/table/BRFlabbyTable"]
 	path = ui/table/BRFlabbyTable
 	url = https://github.com/brocoo/BRFlabbyTable.git
+[submodule "cloud/wechat/WechatPayDemo"]
+	path = cloud/wechat/WechatPayDemo
+	url = https://github.com/gbammc/WechatPayDemo.git
