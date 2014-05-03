@@ -196,3 +196,6 @@
 [submodule "ui/image/GPUImage"]
 	path = ui/image/GPUImage
 	url = https://github.com/BradLarson/GPUImage.git
+[submodule "ui/exhibition/PWParallaxScrollView"]
+	path = ui/exhibition/PWParallaxScrollView
+	url = https://github.com/wpsteak/PWParallaxScrollView.git
