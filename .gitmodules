@@ -175,3 +175,6 @@
 [submodule "ui/text/CHChromaHashView"]
 	path = ui/text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
+[submodule "ui/search/ILRemoteSearchBar"]
+	path = ui/search/ILRemoteSearchBar
+	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
