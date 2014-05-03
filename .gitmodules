@@ -109,3 +109,6 @@
 [submodule "cloud/baas/RestKit"]
 	path = cloud/baas/RestKit
 	url = https://github.com/RestKit/RestKit.git
+[submodule "cloud/baas/ios-SDK"]
+	path = cloud/baas/ios-SDK
+	url = https://github.com/Backendless/ios-SDK.git
