@@ -178,3 +178,6 @@
 [submodule "ui/search/ILRemoteSearchBar"]
 	path = ui/search/ILRemoteSearchBar
 	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
+[submodule "coredata/MagicalRecord"]
+	path = coredata/MagicalRecord
+	url = https://github.com/magicalpanda/MagicalRecord.git
