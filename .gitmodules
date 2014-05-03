@@ -172,3 +172,6 @@
 [submodule "ui/animation/MZLoading"]
 	path = ui/animation/MZLoading
 	url = https://github.com/SergheiMazur/MZLoading.git
+[submodule "ui/text/CHChromaHashView"]
+	path = ui/text/CHChromaHashView
+	url = https://github.com/mattt/CHChromaHashView.git
