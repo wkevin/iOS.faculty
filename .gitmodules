@@ -169,3 +169,6 @@
 [submodule "ui/graph/SHLineGraphView"]
 	path = ui/graph/SHLineGraphView
 	url = https://github.com/grevolution/SHLineGraphView.git
+[submodule "ui/animation/MZLoading"]
+	path = ui/animation/MZLoading
+	url = https://github.com/SergheiMazur/MZLoading.git
