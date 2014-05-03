@@ -106,3 +106,6 @@
 [submodule "ui/collection/PSCollectionView"]
 	path = ui/collection/PSCollectionView
 	url = https://github.com/ptshih/PSCollectionView.git
+[submodule "cloud/baas/RestKit"]
+	path = cloud/baas/RestKit
+	url = https://github.com/RestKit/RestKit.git
