@@ -127,3 +127,6 @@
 [submodule "cloud/wechat/WechatPayDemo"]
 	path = cloud/wechat/WechatPayDemo
 	url = https://github.com/gbammc/WechatPayDemo.git
+[submodule "ui/alert/SIAlertView"]
+	path = ui/alert/SIAlertView
+	url = https://github.com/Sumi-Interactive/SIAlertView.git
