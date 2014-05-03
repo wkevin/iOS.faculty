@@ -121,3 +121,6 @@
 [submodule "foundation/kvo/KVOController"]
 	path = foundation/kvo/KVOController
 	url = https://github.com/facebook/KVOController.git
+[submodule "ui/table/BRFlabbyTable"]
+	path = ui/table/BRFlabbyTable
+	url = https://github.com/brocoo/BRFlabbyTable.git
