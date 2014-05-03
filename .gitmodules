@@ -187,3 +187,6 @@
 [submodule "ui/share/overshare-kit"]
 	path = ui/share/overshare-kit
 	url = https://github.com/overshare/overshare-kit.git
+[submodule "ui/animation/CBHazeTransitionViewController"]
+	path = ui/animation/CBHazeTransitionViewController
+	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
