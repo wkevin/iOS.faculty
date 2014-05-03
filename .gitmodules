@@ -199,3 +199,6 @@
 [submodule "ui/exhibition/PWParallaxScrollView"]
 	path = ui/exhibition/PWParallaxScrollView
 	url = https://github.com/wpsteak/PWParallaxScrollView.git
+[submodule "cloud/api/octokit.objc"]
+	path = cloud/api/octokit.objc
+	url = https://github.com/octokit/octokit.objc.git
