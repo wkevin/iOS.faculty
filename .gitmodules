@@ -184,3 +184,6 @@
 [submodule "ui/form/XLForm"]
 	path = ui/form/XLForm
 	url = https://github.com/xmartlabs/XLForm.git
+[submodule "ui/share/overshare-kit"]
+	path = ui/share/overshare-kit
+	url = https://github.com/overshare/overshare-kit.git
