@@ -112,3 +112,6 @@
 [submodule "cloud/baas/ios-SDK"]
 	path = cloud/baas/ios-SDK
 	url = https://github.com/Backendless/ios-SDK.git
+[submodule "cloud/network/AFNetworking"]
+	path = cloud/network/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
