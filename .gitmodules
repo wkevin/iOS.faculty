@@ -151,3 +151,6 @@
 [submodule "ui/scene/SCStackViewController"]
 	path = ui/scene/SCStackViewController
 	url = https://github.com/stefanceriu/SCStackViewController.git
+[submodule "ui/keyboard/CustomKeyboard"]
+	path = ui/keyboard/CustomKeyboard
+	url = https://github.com/kalvish21/CustomKeyboard.git
