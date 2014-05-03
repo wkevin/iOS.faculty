@@ -118,3 +118,6 @@
 [submodule "ui/menu/SMTabbedSplitViewController"]
 	path = ui/menu/SMTabbedSplitViewController
 	url = https://github.com/sergik-ru/SMTabbedSplitViewController.git
+[submodule "foundation/kvo/KVOController"]
+	path = foundation/kvo/KVOController
+	url = https://github.com/facebook/KVOController.git
