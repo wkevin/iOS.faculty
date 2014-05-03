@@ -163,3 +163,9 @@
 [submodule "map/annotation/OMAMovingAnnotations"]
 	path = map/annotation/OMAMovingAnnotations
 	url = https://github.com/opedge/OMAMovingAnnotations.git
+[submodule "ui/table/JBParallaxCell"]
+	path = ui/table/JBParallaxCell
+	url = https://github.com/jberlana/JBParallaxCell.git
+[submodule "ui/graph/SHLineGraphView"]
+	path = ui/graph/SHLineGraphView
+	url = https://github.com/grevolution/SHLineGraphView.git
