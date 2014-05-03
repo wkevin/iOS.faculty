@@ -148,3 +148,6 @@
 [submodule "ui/menu/KEYPullDownMenu"]
 	path = ui/menu/KEYPullDownMenu
 	url = https://github.com/mmackh/KEYPullDownMenu.git
+[submodule "ui/scene/SCStackViewController"]
+	path = ui/scene/SCStackViewController
+	url = https://github.com/stefanceriu/SCStackViewController.git
