@@ -94,8 +94,8 @@
 [submodule "doc/article/objccn.io-articles"]
 	path = doc/article/objccn.io-articles
 	url = https://github.com/objccn/articles.git
-[submodule "ui/scene/iCarousel"]
-	path = ui/scene/iCarousel
+[submodule "ui/exhibition/iCarousel"]
+	path = ui/exhibition/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
 [submodule "ui/menu/RESideMenu"]
 	path = ui/menu/RESideMenu
@@ -211,3 +211,6 @@
 [submodule "ui/graph/TEAChart"]
 	path = ui/graph/TEAChart
 	url = https://github.com/xhacker/TEAChart.git
+[submodule "ui/animation/PMTween"]
+	path = ui/animation/PMTween
+	url = https://github.com/poetmountain/PMTween.git
