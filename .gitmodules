@@ -232,3 +232,6 @@
 [submodule "ui/graph/GraphKit"]
 	path = ui/graph/GraphKit
 	url = https://github.com/michalkonturek/GraphKit.git
+[submodule "ui/exhibition/HAPaperViewController"]
+	path = ui/exhibition/HAPaperViewController
+	url = https://github.com/hebertialmeida/HAPaperViewController.git
