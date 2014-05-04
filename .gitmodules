@@ -43,8 +43,8 @@
 [submodule "ui/animation/BCGenieEffect"]
 	path = ui/animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
-[submodule "ui/collection/MJParallaxCollectionView"]
-	path = ui/collection/MJParallaxCollectionView
+[submodule "ui/exhibition/MJParallaxCollectionView"]
+	path = ui/exhibition/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 [submodule "ui/animation/MVBouncyView"]
 	path = ui/animation/MVBouncyView
@@ -103,8 +103,8 @@
 [submodule "ui/image/SDWebImage"]
 	path = ui/image/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
-[submodule "ui/collection/PSCollectionView"]
-	path = ui/collection/PSCollectionView
+[submodule "ui/exhibition/PSCollectionView"]
+	path = ui/exhibition/PSCollectionView
 	url = https://github.com/ptshih/PSCollectionView.git
 [submodule "cloud/baas/RestKit"]
 	path = cloud/baas/RestKit
@@ -205,3 +205,6 @@
 [submodule "foundation/language/NSString-VTSubstringOccurrences"]
 	path = foundation/language/NSString-VTSubstringOccurrences
 	url = https://github.com/vtourraine/NSString-VTSubstringOccurrences.git
+[submodule "ui/ticker/SBTickerView"]
+	path = ui/ticker/SBTickerView
+	url = https://github.com/blommegard/SBTickerView.git
