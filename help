@@ -1,0 +1,21 @@
+#!/bin/sh
+
+case $1 in
+    1 )
+        #cat .gitmodules |grep submodule |sort -k 2|nl
+        awk '/^.*path =/ {print $3}' .gitmodules |sed "s/\//	/g"|awk '{printf "%-15s%-15s%s\n",$1,$2,$3}'|sort|nl
+        exit 0
+        ;;
+    2 )
+        git submodule foreach git fetch origin
+        exit 0
+        ;;
+esac
+
+echo
+echo usage:  ./help number
+echo ==========================================
+echo number is:
+echo 1: print how many submodules in the grocery
+echo 2: fetch all submodules repo,without git pull
+echo ==========================================
