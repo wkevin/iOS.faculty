@@ -241,3 +241,6 @@
 [submodule "ui/text/DDHTextView"]
 	path = ui/text/DDHTextView
 	url = https://github.com/dasdom/DDHTextView.git
+[submodule "ui/date/FFCalendar"]
+	path = ui/date/FFCalendar
+	url = https://github.com/fggeraissate/FFCalendar.git
