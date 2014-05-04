@@ -214,3 +214,6 @@
 [submodule "ui/animation/PMTween"]
 	path = ui/animation/PMTween
 	url = https://github.com/poetmountain/PMTween.git
+[submodule "ui/image/LVImageBrowser"]
+	path = ui/image/LVImageBrowser
+	url = https://github.com/CodeEagle/LVImageBrowser.git
