@@ -238,3 +238,6 @@
 [submodule "ui/date/CalendarIOS7"]
 	path = ui/date/CalendarIOS7
 	url = https://github.com/leverdeterre/CalendarIOS7.git
+[submodule "ui/text/DDHTextView"]
+	path = ui/text/DDHTextView
+	url = https://github.com/dasdom/DDHTextView.git
