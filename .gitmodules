@@ -220,3 +220,6 @@
 [submodule "ui/pages/SSStackedPageView"]
 	path = ui/pages/SSStackedPageView
 	url = https://github.com/PlenipotentSS/SSStackedPageView.git
+[submodule "ui/actionsheet/AHKActionSheet"]
+	path = ui/actionsheet/AHKActionSheet
+	url = https://github.com/fastred/AHKActionSheet.git
