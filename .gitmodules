@@ -223,3 +223,6 @@
 [submodule "ui/actionsheet/AHKActionSheet"]
 	path = ui/actionsheet/AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
+[submodule "ui/menu/AKPickerView"]
+	path = ui/menu/AKPickerView
+	url = https://github.com/Akkyie/AKPickerView.git
