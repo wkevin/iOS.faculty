@@ -226,3 +226,6 @@
 [submodule "ui/menu/AKPickerView"]
 	path = ui/menu/AKPickerView
 	url = https://github.com/Akkyie/AKPickerView.git
+[submodule "ui/pages/AMWaveTransition"]
+	path = ui/pages/AMWaveTransition
+	url = https://github.com/andreamazz/AMWaveTransition.git
