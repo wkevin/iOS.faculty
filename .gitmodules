@@ -229,3 +229,6 @@
 [submodule "ui/pages/AMWaveTransition"]
 	path = ui/pages/AMWaveTransition
 	url = https://github.com/andreamazz/AMWaveTransition.git
+[submodule "ui/graph/GraphKit"]
+	path = ui/graph/GraphKit
+	url = https://github.com/michalkonturek/GraphKit.git
