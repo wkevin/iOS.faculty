@@ -79,17 +79,17 @@
 [submodule "ui/menu/APHorizontalMenu"]
 	path = ui/menu/APHorizontalMenu
 	url = https://github.com/apascual/APHorizontalMenu.git
-[submodule "ui/scene/TutorialKit"]
-	path = ui/scene/TutorialKit
+[submodule "ui/wizard/TutorialKit"]
+	path = ui/wizard/TutorialKit
 	url = https://github.com/lostinthepines/TutorialKit.git
-[submodule "ui/scene/ACETelPrompt"]
-	path = ui/scene/ACETelPrompt
+[submodule "ui/wizard/ACETelPrompt"]
+	path = ui/wizard/ACETelPrompt
 	url = https://github.com/acerbetti/ACETelPrompt.git
-[submodule "ui/scene/RASlideInViewController"]
-	path = ui/scene/RASlideInViewController
+[submodule "ui/pages/RASlideInViewController"]
+	path = ui/pages/RASlideInViewController
 	url = https://github.com/ra1028/RASlideInViewController.git
-[submodule "ui/scene/MFHWireframes"]
-	path = ui/scene/MFHWireframes
+[submodule "ui/wizard/MFHWireframes"]
+	path = ui/wizard/MFHWireframes
 	url = https://github.com/matt-holden/MFHWireframes.git
 [submodule "doc/article/objccn.io-articles"]
 	path = doc/article/objccn.io-articles
@@ -148,8 +148,8 @@
 [submodule "ui/menu/KEYPullDownMenu"]
 	path = ui/menu/KEYPullDownMenu
 	url = https://github.com/mmackh/KEYPullDownMenu.git
-[submodule "ui/scene/SCStackViewController"]
-	path = ui/scene/SCStackViewController
+[submodule "ui/pages/SCStackViewController"]
+	path = ui/pages/SCStackViewController
 	url = https://github.com/stefanceriu/SCStackViewController.git
 [submodule "ui/keyboard/CustomKeyboard"]
 	path = ui/keyboard/CustomKeyboard
@@ -217,3 +217,6 @@
 [submodule "ui/image/LVImageBrowser"]
 	path = ui/image/LVImageBrowser
 	url = https://github.com/CodeEagle/LVImageBrowser.git
+[submodule "ui/pages/SSStackedPageView"]
+	path = ui/pages/SSStackedPageView
+	url = https://github.com/PlenipotentSS/SSStackedPageView.git
