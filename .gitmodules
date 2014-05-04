@@ -208,3 +208,6 @@
 [submodule "ui/ticker/SBTickerView"]
 	path = ui/ticker/SBTickerView
 	url = https://github.com/blommegard/SBTickerView.git
+[submodule "ui/graph/TEAChart"]
+	path = ui/graph/TEAChart
+	url = https://github.com/xhacker/TEAChart.git
