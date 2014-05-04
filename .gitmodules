@@ -235,3 +235,6 @@
 [submodule "ui/exhibition/HAPaperViewController"]
 	path = ui/exhibition/HAPaperViewController
 	url = https://github.com/hebertialmeida/HAPaperViewController.git
+[submodule "ui/date/CalendarIOS7"]
+	path = ui/date/CalendarIOS7
+	url = https://github.com/leverdeterre/CalendarIOS7.git
