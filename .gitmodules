@@ -326,3 +326,7 @@
 	path = ui/date/FFCalendar
 	url = https://github.com/fggeraissate/FFCalendar.git
 	branch = master
+[submodule "ui/req.form/DCDataViews"]
+	path = ui/req.form/DCDataViews
+	url = https://github.com/daltoniam/DCDataViews.git
+	branch = master
