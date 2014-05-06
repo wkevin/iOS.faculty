@@ -59,7 +59,7 @@
 	url = https://github.com/Ciechan/BCGenieEffect.git
 	branch = master
 [submodule "ui/exhibition/MJParallaxCollectionView"]
-	path = ui/exhibition/MJParallaxCollectionView
+	path = ui/ext.UICollectionView/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 	branch = master
 [submodule "ui/animation/MVBouncyView"]
@@ -127,7 +127,7 @@
 	url = https://github.com/objccn/articles.git
 	branch = master
 [submodule "ui/exhibition/iCarousel"]
-	path = ui/exhibition/iCarousel
+	path = ui/req.page2page/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
 	branch = master
 [submodule "ui/menu/RESideMenu"]
@@ -139,7 +139,7 @@
 	url = https://github.com/rs/SDWebImage.git
 	branch = master
 [submodule "ui/exhibition/PSCollectionView"]
-	path = ui/exhibition/PSCollectionView
+	path = ui/ext.UICollectionView/PSCollectionView
 	url = https://github.com/ptshih/PSCollectionView.git
 	branch = master
 [submodule "cloud/baas/RestKit"]
@@ -263,7 +263,7 @@
 	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
 [submodule "ui/exhibition/PWParallaxScrollView"]
-	path = ui/exhibition/PWParallaxScrollView
+	path = ui/req.page2page/PWParallaxScrollView
 	url = https://github.com/wpsteak/PWParallaxScrollView.git
 	branch = master
 [submodule "cloud/api/octokit.objc"]
@@ -311,7 +311,7 @@
 	url = https://github.com/michalkonturek/GraphKit.git
 	branch = master
 [submodule "ui/exhibition/HAPaperViewController"]
-	path = ui/exhibition/HAPaperViewController
+	path = ui/req.page2page/HAPaperViewController
 	url = https://github.com/hebertialmeida/HAPaperViewController.git
 	branch = master
 [submodule "ui/date/CalendarIOS7"]
