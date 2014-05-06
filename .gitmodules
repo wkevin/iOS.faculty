@@ -6,12 +6,12 @@
 	path = ui/req.date/DIDatepicker
 	url = https://github.com/noxt/DIDatepicker.git
 	branch = master
-[submodule "ui/text/UIFloatLabelTextField"]
-	path = ui/text/UIFloatLabelTextField
+[submodule "ui/req.text/UIFloatLabelTextField"]
+	path = ui/req.text/UIFloatLabelTextField
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextField.git
 	branch = master
-[submodule "ui/text/UIFloatLabelTextView"]
-	path = ui/text/UIFloatLabelTextView
+[submodule "ui/req.text/UIFloatLabelTextView"]
+	path = ui/req.text/UIFloatLabelTextView
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
 	branch = master
 [submodule "ui/form/DCDataForm"]
@@ -22,8 +22,8 @@
 	path = ui/req.password/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
 	branch = master
-[submodule "ui/menu/iOSContextualMenu"]
-	path = ui/menu/iOSContextualMenu
+[submodule "ui/req.menu/iOSContextualMenu"]
+	path = ui/req.menu/iOSContextualMenu
 	url = https://github.com/hectormatos2011/iOSContextualMenu.git
 	branch = master
 [submodule "ui/button/FlatButtons"]
@@ -46,8 +46,8 @@
 	path = doc/article/objc.io-articles
 	url = https://github.com/objcio/articles.git
 	branch = master
-[submodule "ui/text/MVTextInputScroller"]
-	path = ui/text/MVTextInputScroller
+[submodule "ui/req.text/MVTextInputScroller"]
+	path = ui/req.text/MVTextInputScroller
 	url = https://github.com/bizz84/MVTextInputScroller.git
 	branch = master
 [submodule "foundation/date/DateTools"]
@@ -102,8 +102,8 @@
 	path = ui/ext.UISegmentControl/NYSegmentedControl
 	url = https://github.com/nealyoung/NYSegmentedControl.git
 	branch = master
-[submodule "ui/menu/APHorizontalMenu"]
-	path = ui/menu/APHorizontalMenu
+[submodule "ui/req.menu/APHorizontalMenu"]
+	path = ui/req.menu/APHorizontalMenu
 	url = https://github.com/apascual/APHorizontalMenu.git
 	branch = master
 [submodule "ui/wizard/TutorialKit"]
@@ -130,8 +130,8 @@
 	path = ui/req.page2page/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
 	branch = master
-[submodule "ui/menu/RESideMenu"]
-	path = ui/menu/RESideMenu
+[submodule "ui/req.menu/RESideMenu"]
+	path = ui/req.menu/RESideMenu
 	url = https://github.com/romaonthego/RESideMenu.git
 	branch = master
 [submodule "ui/image/SDWebImage"]
@@ -154,8 +154,8 @@
 	path = cloud/network/AFNetworking
 	url = https://github.com/AFNetworking/AFNetworking.git
 	branch = master
-[submodule "ui/menu/SMTabbedSplitViewController"]
-	path = ui/menu/SMTabbedSplitViewController
+[submodule "ui/req.menu/SMTabbedSplitViewController"]
+	path = ui/req.menu/SMTabbedSplitViewController
 	url = https://github.com/sergik-ru/SMTabbedSplitViewController.git
 	branch = master
 [submodule "foundation/kvo/KVOController"]
@@ -186,16 +186,16 @@
 	path = foundation/language/Overline
 	url = https://github.com/yaakaito/Overline.git
 	branch = master
-[submodule "ui/text/JVFloatLabeledTextField"]
-	path = ui/text/JVFloatLabeledTextField
+[submodule "ui/req.text/JVFloatLabeledTextField"]
+	path = ui/req.text/JVFloatLabeledTextField
 	url = https://github.com/jverdi/JVFloatLabeledTextField.git
 	branch = master
 [submodule "ui/table/UITableViewCell-Swipe-for-Options"]
 	path = ui/ext.UITableView/UITableViewCell-Swipe-for-Options
 	url = https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options.git
 	branch = master
-[submodule "ui/menu/KEYPullDownMenu"]
-	path = ui/menu/KEYPullDownMenu
+[submodule "ui/req.menu/KEYPullDownMenu"]
+	path = ui/req.menu/KEYPullDownMenu
 	url = https://github.com/mmackh/KEYPullDownMenu.git
 	branch = master
 [submodule "ui/pages/SCStackViewController"]
@@ -210,8 +210,8 @@
 	path = test/integration/Subliminal
 	url = https://github.com/inkling/Subliminal.git
 	branch = master
-[submodule "ui/text/PSPDFTextView"]
-	path = ui/text/PSPDFTextView
+[submodule "ui/req.text/PSPDFTextView"]
+	path = ui/req.text/PSPDFTextView
 	url = https://github.com/steipete/PSPDFTextView.git
 	branch = master
 [submodule "map/annotation/OMAMovingAnnotations"]
@@ -230,8 +230,8 @@
 	path = ui/animation/MZLoading
 	url = https://github.com/SergheiMazur/MZLoading.git
 	branch = master
-[submodule "ui/text/CHChromaHashView"]
-	path = ui/text/CHChromaHashView
+[submodule "ui/req.text/CHChromaHashView"]
+	path = ui/req.text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
 [submodule "ui/search/ILRemoteSearchBar"]
@@ -298,8 +298,8 @@
 	path = ui/ext.UIActionSheet//AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
 	branch = master
-[submodule "ui/menu/AKPickerView"]
-	path = ui/menu/AKPickerView
+[submodule "ui/req.menu/AKPickerView"]
+	path = ui/req.menu/AKPickerView
 	url = https://github.com/Akkyie/AKPickerView.git
 	branch = master
 [submodule "ui/pages/AMWaveTransition"]
@@ -318,8 +318,8 @@
 	path = ui/req.date/CalendarIOS7
 	url = https://github.com/leverdeterre/CalendarIOS7.git
 	branch = master
-[submodule "ui/text/DDHTextView"]
-	path = ui/text/DDHTextView
+[submodule "ui/req.text/DDHTextView"]
+	path = ui/req.text/DDHTextView
 	url = https://github.com/dasdom/DDHTextView.git
 	branch = master
 [submodule "ui/date/FFCalendar"]
