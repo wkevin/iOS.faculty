@@ -1,246 +1,328 @@
 [submodule "ui/form/FormKit.m"]
 	path = ui/form/FormKit.m
 	url = https://github.com/brunow/FormKit.m.git
+	branch = master
 [submodule "ui/date/DIDatepicker"]
 	path = ui/date/DIDatepicker
 	url = https://github.com/noxt/DIDatepicker.git
+	branch = master
 [submodule "ui/text/UIFloatLabelTextField"]
 	path = ui/text/UIFloatLabelTextField
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextField.git
+	branch = master
 [submodule "ui/text/UIFloatLabelTextView"]
 	path = ui/text/UIFloatLabelTextView
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
+	branch = master
 [submodule "ui/form/DCDataForm"]
 	path = ui/form/DCDataForm
 	url = https://github.com/austiniam/DCDataForm.git
+	branch = master
 [submodule "ui/pin/THPinViewController"]
 	path = ui/pin/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
+	branch = master
 [submodule "ui/menu/iOSContextualMenu"]
 	path = ui/menu/iOSContextualMenu
 	url = https://github.com/hectormatos2011/iOSContextualMenu.git
+	branch = master
 [submodule "ui/button/FlatButtons"]
 	path = ui/button/FlatButtons
 	url = https://github.com/brennanMKE/FlatButtons.git
+	branch = master
 [submodule "ui/slider/SSTTapSlider"]
 	path = ui/slider/SSTTapSlider
 	url = https://github.com/brennanMKE/SSTTapSlider.git
+	branch = master
 [submodule "ui/slider/ASValueTrackingSlider"]
 	path = ui/slider/ASValueTrackingSlider
 	url = https://github.com/alskipp/ASValueTrackingSlider.git
+	branch = master
 [submodule "ui/button/ACPButton"]
 	path = ui/button/ACPButton
 	url = https://github.com/antoniocasero/ACPButton.git
+	branch = master
 [submodule "doc/article/objc.io-articles"]
 	path = doc/article/objc.io-articles
 	url = https://github.com/objcio/articles.git
+	branch = master
 [submodule "ui/text/MVTextInputScroller"]
 	path = ui/text/MVTextInputScroller
 	url = https://github.com/bizz84/MVTextInputScroller.git
+	branch = master
 [submodule "foundation/date/DateTools"]
 	path = foundation/date/DateTools
 	url = https://github.com/MatthewYork/DateTools.git
+	branch = master
 [submodule "ui/animation/BCGenieEffect"]
 	path = ui/animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
+	branch = master
 [submodule "ui/exhibition/MJParallaxCollectionView"]
 	path = ui/exhibition/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
+	branch = master
 [submodule "ui/animation/MVBouncyView"]
 	path = ui/animation/MVBouncyView
 	url = https://github.com/bizz84/MVBouncyView.git
+	branch = master
 [submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
 	path = ui/collection/UICollectionViewLeftAlignedLayout
 	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
+	branch = master
 [submodule "ui/collection/AsyncCollections"]
 	path = ui/collection/AsyncCollections
 	url = https://github.com/bilby91/AsyncCollections.git
+	branch = master
 [submodule "ui/selector/BWSelectViewController"]
 	path = ui/selector/BWSelectViewController
 	url = https://github.com/brunow/BWSelectViewController.git
+	branch = master
 [submodule "foundation/module/Mantle"]
 	path = foundation/module/Mantle
 	url = https://github.com/Mantle/Mantle.git
+	branch = master
 [submodule "ui/animation/AnimatedTransitionGallery"]
 	path = ui/animation/AnimatedTransitionGallery
 	url = https://github.com/shu223/AnimatedTransitionGallery.git
+	branch = master
 [submodule "foundation/file/FCFileManager"]
 	path = foundation/file/FCFileManager
 	url = https://github.com/fabiocaccamo/FCFileManager.git
+	branch = master
 [submodule "coredata/KORData"]
 	path = coredata/KORData
 	url = https://github.com/olistaats/KORData.git
+	branch = master
 [submodule "ui/animation/UzysAnimatedGifPullToRefresh"]
 	path = ui/animation/UzysAnimatedGifPullToRefresh
 	url = https://github.com/uzysjung/UzysAnimatedGifPullToRefresh.git
+	branch = master
 [submodule "ui/segment/NYSegmentedControl"]
 	path = ui/segment/NYSegmentedControl
 	url = https://github.com/nealyoung/NYSegmentedControl.git
+	branch = master
 [submodule "ui/menu/APHorizontalMenu"]
 	path = ui/menu/APHorizontalMenu
 	url = https://github.com/apascual/APHorizontalMenu.git
+	branch = master
 [submodule "ui/wizard/TutorialKit"]
 	path = ui/wizard/TutorialKit
 	url = https://github.com/lostinthepines/TutorialKit.git
+	branch = master
 [submodule "ui/wizard/ACETelPrompt"]
 	path = ui/wizard/ACETelPrompt
 	url = https://github.com/acerbetti/ACETelPrompt.git
+	branch = master
 [submodule "ui/pages/RASlideInViewController"]
 	path = ui/pages/RASlideInViewController
 	url = https://github.com/ra1028/RASlideInViewController.git
+	branch = master
 [submodule "ui/wizard/MFHWireframes"]
 	path = ui/wizard/MFHWireframes
 	url = https://github.com/matt-holden/MFHWireframes.git
+	branch = master
 [submodule "doc/article/objccn.io-articles"]
 	path = doc/article/objccn.io-articles
 	url = https://github.com/objccn/articles.git
+	branch = master
 [submodule "ui/exhibition/iCarousel"]
 	path = ui/exhibition/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
+	branch = master
 [submodule "ui/menu/RESideMenu"]
 	path = ui/menu/RESideMenu
 	url = https://github.com/romaonthego/RESideMenu.git
+	branch = master
 [submodule "ui/image/SDWebImage"]
 	path = ui/image/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
+	branch = master
 [submodule "ui/exhibition/PSCollectionView"]
 	path = ui/exhibition/PSCollectionView
 	url = https://github.com/ptshih/PSCollectionView.git
+	branch = master
 [submodule "cloud/baas/RestKit"]
 	path = cloud/baas/RestKit
 	url = https://github.com/RestKit/RestKit.git
+	branch = master
 [submodule "cloud/baas/ios-SDK"]
 	path = cloud/baas/ios-SDK
 	url = https://github.com/Backendless/ios-SDK.git
+	branch = master
 [submodule "cloud/network/AFNetworking"]
 	path = cloud/network/AFNetworking
 	url = https://github.com/AFNetworking/AFNetworking.git
+	branch = master
 [submodule "ui/menu/SMTabbedSplitViewController"]
 	path = ui/menu/SMTabbedSplitViewController
 	url = https://github.com/sergik-ru/SMTabbedSplitViewController.git
+	branch = master
 [submodule "foundation/kvo/KVOController"]
 	path = foundation/kvo/KVOController
 	url = https://github.com/facebook/KVOController.git
+	branch = master
 [submodule "ui/table/BRFlabbyTable"]
 	path = ui/table/BRFlabbyTable
 	url = https://github.com/brocoo/BRFlabbyTable.git
+	branch = master
 [submodule "cloud/wechat/WechatPayDemo"]
 	path = cloud/wechat/WechatPayDemo
 	url = https://github.com/gbammc/WechatPayDemo.git
+	branch = master
 [submodule "ui/alert/SIAlertView"]
 	path = ui/alert/SIAlertView
 	url = https://github.com/Sumi-Interactive/SIAlertView.git
+	branch = master
 [submodule "database/sqlite/fmdb"]
 	path = database/sqlite/fmdb
 	url = https://github.com/ccgus/fmdb.git
+	branch = master
 [submodule "cloud/baas/avoscloud-sdk"]
 	path = cloud/baas/avoscloud-sdk
 	url = https://github.com/avoscloud/avoscloud-sdk.git
+	branch = master
 [submodule "foundation/language/Overline"]
 	path = foundation/language/Overline
 	url = https://github.com/yaakaito/Overline.git
+	branch = master
 [submodule "ui/text/JVFloatLabeledTextField"]
 	path = ui/text/JVFloatLabeledTextField
 	url = https://github.com/jverdi/JVFloatLabeledTextField.git
+	branch = master
 [submodule "ui/table/UITableViewCell-Swipe-for-Options"]
 	path = ui/table/UITableViewCell-Swipe-for-Options
 	url = https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options.git
+	branch = master
 [submodule "ui/menu/KEYPullDownMenu"]
 	path = ui/menu/KEYPullDownMenu
 	url = https://github.com/mmackh/KEYPullDownMenu.git
+	branch = master
 [submodule "ui/pages/SCStackViewController"]
 	path = ui/pages/SCStackViewController
 	url = https://github.com/stefanceriu/SCStackViewController.git
+	branch = master
 [submodule "ui/keyboard/CustomKeyboard"]
 	path = ui/keyboard/CustomKeyboard
 	url = https://github.com/kalvish21/CustomKeyboard.git
+	branch = master
 [submodule "test/integration/Subliminal"]
 	path = test/integration/Subliminal
 	url = https://github.com/inkling/Subliminal.git
+	branch = master
 [submodule "ui/text/PSPDFTextView"]
 	path = ui/text/PSPDFTextView
 	url = https://github.com/steipete/PSPDFTextView.git
+	branch = master
 [submodule "map/annotation/OMAMovingAnnotations"]
 	path = map/annotation/OMAMovingAnnotations
 	url = https://github.com/opedge/OMAMovingAnnotations.git
+	branch = master
 [submodule "ui/table/JBParallaxCell"]
 	path = ui/table/JBParallaxCell
 	url = https://github.com/jberlana/JBParallaxCell.git
+	branch = master
 [submodule "ui/graph/SHLineGraphView"]
 	path = ui/graph/SHLineGraphView
 	url = https://github.com/grevolution/SHLineGraphView.git
+	branch = master
 [submodule "ui/animation/MZLoading"]
 	path = ui/animation/MZLoading
 	url = https://github.com/SergheiMazur/MZLoading.git
+	branch = master
 [submodule "ui/text/CHChromaHashView"]
 	path = ui/text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
+	branch = master
 [submodule "ui/search/ILRemoteSearchBar"]
 	path = ui/search/ILRemoteSearchBar
 	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
+	branch = master
 [submodule "coredata/MagicalRecord"]
 	path = coredata/MagicalRecord
 	url = https://github.com/magicalpanda/MagicalRecord.git
+	branch = master
 [submodule "ui/form/XLForm"]
 	path = ui/form/XLForm
 	url = https://github.com/xmartlabs/XLForm.git
+	branch = master
 [submodule "ui/share/overshare-kit"]
 	path = ui/share/overshare-kit
 	url = https://github.com/overshare/overshare-kit.git
+	branch = master
 [submodule "ui/animation/CBHazeTransitionViewController"]
 	path = ui/animation/CBHazeTransitionViewController
 	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
+	branch = master
 [submodule "ui/image/HyperImageView"]
 	path = ui/image/HyperImageView
 	url = https://github.com/xerxes235/HyperImageView.git
+	branch = master
 [submodule "ui/image/GPUImage"]
 	path = ui/image/GPUImage
 	url = https://github.com/BradLarson/GPUImage.git
+	branch = master
 [submodule "ui/exhibition/PWParallaxScrollView"]
 	path = ui/exhibition/PWParallaxScrollView
 	url = https://github.com/wpsteak/PWParallaxScrollView.git
+	branch = master
 [submodule "cloud/api/octokit.objc"]
 	path = cloud/api/octokit.objc
 	url = https://github.com/octokit/octokit.objc.git
+	branch = master
 [submodule "foundation/language/NSString-VTSubstringOccurrences"]
 	path = foundation/language/NSString-VTSubstringOccurrences
 	url = https://github.com/vtourraine/NSString-VTSubstringOccurrences.git
+	branch = master
 [submodule "ui/ticker/SBTickerView"]
 	path = ui/ticker/SBTickerView
 	url = https://github.com/blommegard/SBTickerView.git
+	branch = master
 [submodule "ui/graph/TEAChart"]
 	path = ui/graph/TEAChart
 	url = https://github.com/xhacker/TEAChart.git
+	branch = master
 [submodule "ui/animation/PMTween"]
 	path = ui/animation/PMTween
 	url = https://github.com/poetmountain/PMTween.git
+	branch = master
 [submodule "ui/image/LVImageBrowser"]
 	path = ui/image/LVImageBrowser
 	url = https://github.com/CodeEagle/LVImageBrowser.git
+	branch = master
 [submodule "ui/pages/SSStackedPageView"]
 	path = ui/pages/SSStackedPageView
 	url = https://github.com/PlenipotentSS/SSStackedPageView.git
+	branch = master
 [submodule "ui/actionsheet/AHKActionSheet"]
 	path = ui/actionsheet/AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
+	branch = master
 [submodule "ui/menu/AKPickerView"]
 	path = ui/menu/AKPickerView
 	url = https://github.com/Akkyie/AKPickerView.git
+	branch = master
 [submodule "ui/pages/AMWaveTransition"]
 	path = ui/pages/AMWaveTransition
 	url = https://github.com/andreamazz/AMWaveTransition.git
+	branch = master
 [submodule "ui/graph/GraphKit"]
 	path = ui/graph/GraphKit
 	url = https://github.com/michalkonturek/GraphKit.git
+	branch = master
 [submodule "ui/exhibition/HAPaperViewController"]
 	path = ui/exhibition/HAPaperViewController
 	url = https://github.com/hebertialmeida/HAPaperViewController.git
+	branch = master
 [submodule "ui/date/CalendarIOS7"]
 	path = ui/date/CalendarIOS7
 	url = https://github.com/leverdeterre/CalendarIOS7.git
+	branch = master
 [submodule "ui/text/DDHTextView"]
 	path = ui/text/DDHTextView
 	url = https://github.com/dasdom/DDHTextView.git
+	branch = master
 [submodule "ui/date/FFCalendar"]
 	path = ui/date/FFCalendar
 	url = https://github.com/fggeraissate/FFCalendar.git
+	branch = master
