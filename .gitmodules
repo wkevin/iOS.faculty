@@ -330,3 +330,7 @@
 	path = ui/req.form/DCDataViews
 	url = https://github.com/daltoniam/DCDataViews.git
 	branch = master
+[submodule "ui/ext.UIActionSheet/AHKActionSheet"]
+	path = ui/ext.UIActionSheet/AHKActionSheet
+	url = https://github.com/fastred/AHKActionSheet.git
+	branch = master
