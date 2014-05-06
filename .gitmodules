@@ -231,7 +231,7 @@
 	url = https://github.com/SergheiMazur/MZLoading.git
 	branch = master
 [submodule "ui/text/CHChromaHashView"]
-	path = ui/req.text
+	path = ui/text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
 [submodule "ui/search/ILRemoteSearchBar"]
@@ -333,4 +333,20 @@
 [submodule "ui/ext.UIActionSheet/AHKActionSheet"]
 	path = ui/ext.UIActionSheet/AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
+	branch = master
+[submodule "ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout"]
+	path = ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout
+	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
+	branch = master
+[submodule "ui/req.chart_graph/GraphKit"]
+	path = ui/req.chart_graph/GraphKit
+	url = https://github.com/michalkonturek/GraphKit.git
+	branch = master
+[submodule "ui/req.page2page/SSStackedPageView"]
+	path = ui/req.page2page/SSStackedPageView
+	url = https://github.com/PlenipotentSS/SSStackedPageView.git
+	branch = master
+[submodule "ui/req.search/ILRemoteSearchBar"]
+	path = ui/req.search/ILRemoteSearchBar
+	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
 	branch = master
