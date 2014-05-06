@@ -1,9 +1,9 @@
 [submodule "ui/form/FormKit.m"]
-	path = ui/form/FormKit.m
+	path = ui/req.form/FormKit.m
 	url = https://github.com/brunow/FormKit.m.git
 	branch = master
-[submodule "ui/date/DIDatepicker"]
-	path = ui/date/DIDatepicker
+[submodule "ui/req.date/DIDatepicker"]
+	path = ui/req.date/DIDatepicker
 	url = https://github.com/noxt/DIDatepicker.git
 	branch = master
 [submodule "ui/text/UIFloatLabelTextField"]
@@ -15,11 +15,11 @@
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
 	branch = master
 [submodule "ui/form/DCDataForm"]
-	path = ui/form/DCDataForm
+	path = ui/req.form/DCDataForm
 	url = https://github.com/austiniam/DCDataForm.git
 	branch = master
 [submodule "ui/pin/THPinViewController"]
-	path = ui/pin/THPinViewController
+	path = ui/req.password/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
 	branch = master
 [submodule "ui/menu/iOSContextualMenu"]
@@ -31,11 +31,11 @@
 	url = https://github.com/brennanMKE/FlatButtons.git
 	branch = master
 [submodule "ui/slider/SSTTapSlider"]
-	path = ui/slider/SSTTapSlider
+	path = ui/ext.UISlider/SSTTapSlider
 	url = https://github.com/brennanMKE/SSTTapSlider.git
 	branch = master
 [submodule "ui/slider/ASValueTrackingSlider"]
-	path = ui/slider/ASValueTrackingSlider
+	path = ui/ext.UISlider/ASValueTrackingSlider
 	url = https://github.com/alskipp/ASValueTrackingSlider.git
 	branch = master
 [submodule "ui/button/ACPButton"]
@@ -75,7 +75,7 @@
 	url = https://github.com/bilby91/AsyncCollections.git
 	branch = master
 [submodule "ui/selector/BWSelectViewController"]
-	path = ui/selector/BWSelectViewController
+	path = ui/req.checkbox/BWSelectViewController
 	url = https://github.com/brunow/BWSelectViewController.git
 	branch = master
 [submodule "foundation/module/Mantle"]
@@ -99,7 +99,7 @@
 	url = https://github.com/uzysjung/UzysAnimatedGifPullToRefresh.git
 	branch = master
 [submodule "ui/segment/NYSegmentedControl"]
-	path = ui/segment/NYSegmentedControl
+	path = ui/ext.UISegmentControl/NYSegmentedControl
 	url = https://github.com/nealyoung/NYSegmentedControl.git
 	branch = master
 [submodule "ui/menu/APHorizontalMenu"]
@@ -107,19 +107,19 @@
 	url = https://github.com/apascual/APHorizontalMenu.git
 	branch = master
 [submodule "ui/wizard/TutorialKit"]
-	path = ui/wizard/TutorialKit
+	path = ui/req.wizard/TutorialKit
 	url = https://github.com/lostinthepines/TutorialKit.git
 	branch = master
 [submodule "ui/wizard/ACETelPrompt"]
-	path = ui/wizard/ACETelPrompt
+	path = ui/req.wizard/ACETelPrompt
 	url = https://github.com/acerbetti/ACETelPrompt.git
 	branch = master
 [submodule "ui/pages/RASlideInViewController"]
-	path = ui/pages/RASlideInViewController
+	path = ui/req.page2page/RASlideInViewController
 	url = https://github.com/ra1028/RASlideInViewController.git
 	branch = master
 [submodule "ui/wizard/MFHWireframes"]
-	path = ui/wizard/MFHWireframes
+	path = ui/req.wizard/MFHWireframes
 	url = https://github.com/matt-holden/MFHWireframes.git
 	branch = master
 [submodule "doc/article/objccn.io-articles"]
@@ -135,7 +135,7 @@
 	url = https://github.com/romaonthego/RESideMenu.git
 	branch = master
 [submodule "ui/image/SDWebImage"]
-	path = ui/image/SDWebImage
+	path = ui/req.image/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
 	branch = master
 [submodule "ui/exhibition/PSCollectionView"]
@@ -163,7 +163,7 @@
 	url = https://github.com/facebook/KVOController.git
 	branch = master
 [submodule "ui/table/BRFlabbyTable"]
-	path = ui/table/BRFlabbyTable
+	path = ui/ext.UITableView/BRFlabbyTable
 	url = https://github.com/brocoo/BRFlabbyTable.git
 	branch = master
 [submodule "cloud/wechat/WechatPayDemo"]
@@ -171,7 +171,7 @@
 	url = https://github.com/gbammc/WechatPayDemo.git
 	branch = master
 [submodule "ui/alert/SIAlertView"]
-	path = ui/alert/SIAlertView
+	path = ui/ext.UIAlertView/SIAlertView
 	url = https://github.com/Sumi-Interactive/SIAlertView.git
 	branch = master
 [submodule "database/sqlite/fmdb"]
@@ -191,7 +191,7 @@
 	url = https://github.com/jverdi/JVFloatLabeledTextField.git
 	branch = master
 [submodule "ui/table/UITableViewCell-Swipe-for-Options"]
-	path = ui/table/UITableViewCell-Swipe-for-Options
+	path = ui/ext.UITableView/UITableViewCell-Swipe-for-Options
 	url = https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options.git
 	branch = master
 [submodule "ui/menu/KEYPullDownMenu"]
@@ -199,11 +199,11 @@
 	url = https://github.com/mmackh/KEYPullDownMenu.git
 	branch = master
 [submodule "ui/pages/SCStackViewController"]
-	path = ui/pages/SCStackViewController
+	path = ui/req.page2page/SCStackViewController
 	url = https://github.com/stefanceriu/SCStackViewController.git
 	branch = master
 [submodule "ui/keyboard/CustomKeyboard"]
-	path = ui/keyboard/CustomKeyboard
+	path = ui/req.keyboard/CustomKeyboard
 	url = https://github.com/kalvish21/CustomKeyboard.git
 	branch = master
 [submodule "test/integration/Subliminal"]
@@ -219,11 +219,11 @@
 	url = https://github.com/opedge/OMAMovingAnnotations.git
 	branch = master
 [submodule "ui/table/JBParallaxCell"]
-	path = ui/table/JBParallaxCell
+	path = ui/ext.UITableView/JBParallaxCell
 	url = https://github.com/jberlana/JBParallaxCell.git
 	branch = master
 [submodule "ui/graph/SHLineGraphView"]
-	path = ui/graph/SHLineGraphView
+	path = ui/req.chart_graph/SHLineGraphView
 	url = https://github.com/grevolution/SHLineGraphView.git
 	branch = master
 [submodule "ui/animation/MZLoading"]
@@ -235,7 +235,7 @@
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
 [submodule "ui/search/ILRemoteSearchBar"]
-	path = ui/search/ILRemoteSearchBar
+	path = ui/req.search//ILRemoteSearchBar
 	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
 	branch = master
 [submodule "coredata/MagicalRecord"]
@@ -243,11 +243,11 @@
 	url = https://github.com/magicalpanda/MagicalRecord.git
 	branch = master
 [submodule "ui/form/XLForm"]
-	path = ui/form/XLForm
+	path = ui/req.form/XLForm
 	url = https://github.com/xmartlabs/XLForm.git
 	branch = master
 [submodule "ui/share/overshare-kit"]
-	path = ui/share/overshare-kit
+	path = ui/req.share/overshare-kit
 	url = https://github.com/overshare/overshare-kit.git
 	branch = master
 [submodule "ui/animation/CBHazeTransitionViewController"]
@@ -255,11 +255,11 @@
 	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
 	branch = master
 [submodule "ui/image/HyperImageView"]
-	path = ui/image/HyperImageView
+	path = ui/req.image/HyperImageView
 	url = https://github.com/xerxes235/HyperImageView.git
 	branch = master
 [submodule "ui/image/GPUImage"]
-	path = ui/image/GPUImage
+	path = ui/req.image/GPUImage
 	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
 [submodule "ui/exhibition/PWParallaxScrollView"]
@@ -275,11 +275,11 @@
 	url = https://github.com/vtourraine/NSString-VTSubstringOccurrences.git
 	branch = master
 [submodule "ui/ticker/SBTickerView"]
-	path = ui/ticker/SBTickerView
+	path = ui/req.ticker/SBTickerView
 	url = https://github.com/blommegard/SBTickerView.git
 	branch = master
 [submodule "ui/graph/TEAChart"]
-	path = ui/graph/TEAChart
+	path = ui/req.chart_graph/TEAChart
 	url = https://github.com/xhacker/TEAChart.git
 	branch = master
 [submodule "ui/animation/PMTween"]
@@ -287,15 +287,15 @@
 	url = https://github.com/poetmountain/PMTween.git
 	branch = master
 [submodule "ui/image/LVImageBrowser"]
-	path = ui/image/LVImageBrowser
+	path = ui/req.image/LVImageBrowser
 	url = https://github.com/CodeEagle/LVImageBrowser.git
 	branch = master
 [submodule "ui/pages/SSStackedPageView"]
-	path = ui/pages/SSStackedPageView
+	path = ui/req.page2page//SSStackedPageView
 	url = https://github.com/PlenipotentSS/SSStackedPageView.git
 	branch = master
 [submodule "ui/actionsheet/AHKActionSheet"]
-	path = ui/actionsheet/AHKActionSheet
+	path = ui/ext.UIActionSheet//AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
 	branch = master
 [submodule "ui/menu/AKPickerView"]
@@ -303,11 +303,11 @@
 	url = https://github.com/Akkyie/AKPickerView.git
 	branch = master
 [submodule "ui/pages/AMWaveTransition"]
-	path = ui/pages/AMWaveTransition
+	path = ui/req.page2page/AMWaveTransition
 	url = https://github.com/andreamazz/AMWaveTransition.git
 	branch = master
 [submodule "ui/graph/GraphKit"]
-	path = ui/graph/GraphKit
+	path = ui/req.chart_graph//GraphKit
 	url = https://github.com/michalkonturek/GraphKit.git
 	branch = master
 [submodule "ui/exhibition/HAPaperViewController"]
@@ -315,7 +315,7 @@
 	url = https://github.com/hebertialmeida/HAPaperViewController.git
 	branch = master
 [submodule "ui/date/CalendarIOS7"]
-	path = ui/date/CalendarIOS7
+	path = ui/req.date/CalendarIOS7
 	url = https://github.com/leverdeterre/CalendarIOS7.git
 	branch = master
 [submodule "ui/text/DDHTextView"]
@@ -323,7 +323,7 @@
 	url = https://github.com/dasdom/DDHTextView.git
 	branch = master
 [submodule "ui/date/FFCalendar"]
-	path = ui/date/FFCalendar
+	path = ui/req.date/FFCalendar
 	url = https://github.com/fggeraissate/FFCalendar.git
 	branch = master
 [submodule "ui/req.form/DCDataViews"]
