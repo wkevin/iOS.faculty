@@ -27,7 +27,7 @@
 	url = https://github.com/hectormatos2011/iOSContextualMenu.git
 	branch = master
 [submodule "ui/button/FlatButtons"]
-	path = ui/button/FlatButtons
+	path = ui/ext.UIButton/FlatButtons
 	url = https://github.com/brennanMKE/FlatButtons.git
 	branch = master
 [submodule "ui/slider/SSTTapSlider"]
@@ -39,7 +39,7 @@
 	url = https://github.com/alskipp/ASValueTrackingSlider.git
 	branch = master
 [submodule "ui/button/ACPButton"]
-	path = ui/button/ACPButton
+	path = ui/ext.UIButton/ACPButton
 	url = https://github.com/antoniocasero/ACPButton.git
 	branch = master
 [submodule "doc/article/objc.io-articles"]
@@ -67,11 +67,11 @@
 	url = https://github.com/bizz84/MVBouncyView.git
 	branch = master
 [submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
-	path = ui/collection/UICollectionViewLeftAlignedLayout
+	path = ui/ext.UICollectionView//UICollectionViewLeftAlignedLayout
 	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
 	branch = master
 [submodule "ui/collection/AsyncCollections"]
-	path = ui/collection/AsyncCollections
+	path = ui/ext.UICollectionView/AsyncCollections
 	url = https://github.com/bilby91/AsyncCollections.git
 	branch = master
 [submodule "ui/selector/BWSelectViewController"]
@@ -231,7 +231,7 @@
 	url = https://github.com/SergheiMazur/MZLoading.git
 	branch = master
 [submodule "ui/text/CHChromaHashView"]
-	path = ui/text/CHChromaHashView
+	path = ui/req.text
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
 [submodule "ui/search/ILRemoteSearchBar"]
