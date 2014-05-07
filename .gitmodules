@@ -55,7 +55,7 @@
 	url = https://github.com/MatthewYork/DateTools.git
 	branch = master
 [submodule "ui/animation/BCGenieEffect"]
-	path = ui/animation/BCGenieEffect
+	path = ui/req.animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
 	branch = master
 [submodule "ui/exhibition/MJParallaxCollectionView"]
@@ -63,7 +63,7 @@
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 	branch = master
 [submodule "ui/animation/MVBouncyView"]
-	path = ui/animation/MVBouncyView
+	path = ui/req.animation/MVBouncyView
 	url = https://github.com/bizz84/MVBouncyView.git
 	branch = master
 [submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
@@ -83,7 +83,7 @@
 	url = https://github.com/Mantle/Mantle.git
 	branch = master
 [submodule "ui/animation/AnimatedTransitionGallery"]
-	path = ui/animation/AnimatedTransitionGallery
+	path = ui/req.animation/AnimatedTransitionGallery
 	url = https://github.com/shu223/AnimatedTransitionGallery.git
 	branch = master
 [submodule "foundation/file/FCFileManager"]
@@ -95,7 +95,7 @@
 	url = https://github.com/olistaats/KORData.git
 	branch = master
 [submodule "ui/animation/UzysAnimatedGifPullToRefresh"]
-	path = ui/animation/UzysAnimatedGifPullToRefresh
+	path = ui/req.animation/UzysAnimatedGifPullToRefresh
 	url = https://github.com/uzysjung/UzysAnimatedGifPullToRefresh.git
 	branch = master
 [submodule "ui/segment/NYSegmentedControl"]
@@ -227,7 +227,7 @@
 	url = https://github.com/grevolution/SHLineGraphView.git
 	branch = master
 [submodule "ui/animation/MZLoading"]
-	path = ui/animation/MZLoading
+	path = ui/req.animation/MZLoading
 	url = https://github.com/SergheiMazur/MZLoading.git
 	branch = master
 [submodule "ui/req.text/CHChromaHashView"]
@@ -251,7 +251,7 @@
 	url = https://github.com/overshare/overshare-kit.git
 	branch = master
 [submodule "ui/animation/CBHazeTransitionViewController"]
-	path = ui/animation/CBHazeTransitionViewController
+	path = ui/req.animation/CBHazeTransitionViewController
 	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
 	branch = master
 [submodule "ui/image/HyperImageView"]
@@ -283,7 +283,7 @@
 	url = https://github.com/xhacker/TEAChart.git
 	branch = master
 [submodule "ui/animation/PMTween"]
-	path = ui/animation/PMTween
+	path = ui/req.animation/PMTween
 	url = https://github.com/poetmountain/PMTween.git
 	branch = master
 [submodule "ui/image/LVImageBrowser"]
