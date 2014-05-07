@@ -366,3 +366,7 @@
 	path = ui/ext.UIImage/KBTemplateImage
 	url = https://github.com/kam800/KBTemplateImage.git
 	branch = master
+[submodule "ui/req.chart_graph/JCStockGraph"]
+	path = ui/req.chart_graph/JCStockGraph
+	url = https://github.com/jconst/JCStockGraph.git
+	branch = master
