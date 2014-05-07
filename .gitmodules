@@ -362,3 +362,7 @@
 	path = ui/ext.UIAlertView/AMSmoothAlert
 	url = https://github.com/mtonio91/AMSmoothAlert.git
 	branch = master
+[submodule "ui/ext.UIImage/KBTemplateImage"]
+	path = ui/ext.UIImage/KBTemplateImage
+	url = https://github.com/kam800/KBTemplateImage.git
+	branch = master
