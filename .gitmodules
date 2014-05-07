@@ -350,3 +350,7 @@
 	path = ui/req.search/ILRemoteSearchBar
 	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
 	branch = master
+[submodule "cloud/personal/liquid-sdk-ios"]
+	path = cloud/personal/liquid-sdk-ios
+	url = https://github.com/lqd-io/liquid-sdk-ios.git
+	branch = master
