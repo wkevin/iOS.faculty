@@ -370,3 +370,7 @@
 	path = ui/req.chart_graph/JCStockGraph
 	url = https://github.com/jconst/JCStockGraph.git
 	branch = master
+[submodule "ui/req.message/JSQMessagesViewController"]
+	path = ui/req.message/JSQMessagesViewController
+	url = https://github.com/jessesquires/JSQMessagesViewController.git
+	branch = master
