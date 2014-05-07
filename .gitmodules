@@ -354,3 +354,7 @@
 	path = cloud/personal/liquid-sdk-ios
 	url = https://github.com/lqd-io/liquid-sdk-ios.git
 	branch = master
+[submodule "ui/ext.UIStepper/SAStepperControl"]
+	path = ui/ext.UIStepper/SAStepperControl
+	url = https://github.com/shams-ahmed/SAStepperControl.git
+	branch = master
