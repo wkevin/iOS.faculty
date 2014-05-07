@@ -358,3 +358,7 @@
 	path = ui/ext.UIStepper/SAStepperControl
 	url = https://github.com/shams-ahmed/SAStepperControl.git
 	branch = master
+[submodule "ui/ext.UIAlertView/AMSmoothAlert"]
+	path = ui/ext.UIAlertView/AMSmoothAlert
+	url = https://github.com/mtonio91/AMSmoothAlert.git
+	branch = master
