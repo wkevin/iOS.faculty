@@ -398,3 +398,7 @@
 	path = ui/ext.UITableView/CleanTableViewDataSource
 	url = https://github.com/phatle/CleanTableViewDataSource.git
 	branch = master
+[submodule "network/appLayer/GBLoading"]
+	path = network/appLayer/GBLoading
+	url = https://github.com/lmirosevic/GBLoading.git
+	branch = master
