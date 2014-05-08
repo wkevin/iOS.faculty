@@ -66,10 +66,6 @@
 	path = ui/req.animation/MVBouncyView
 	url = https://github.com/bizz84/MVBouncyView.git
 	branch = master
-[submodule "ui/collection/UICollectionViewLeftAlignedLayout"]
-	path = ui/ext.UICollectionView//UICollectionViewLeftAlignedLayout
-	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
-	branch = master
 [submodule "ui/collection/AsyncCollections"]
 	path = ui/ext.UICollectionView/AsyncCollections
 	url = https://github.com/bilby91/AsyncCollections.git
@@ -234,10 +230,6 @@
 	path = ui/req.text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
-[submodule "ui/search/ILRemoteSearchBar"]
-	path = ui/req.search//ILRemoteSearchBar
-	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
-	branch = master
 [submodule "coredata/MagicalRecord"]
 	path = coredata/MagicalRecord
 	url = https://github.com/magicalpanda/MagicalRecord.git
@@ -257,10 +249,6 @@
 [submodule "ui/image/HyperImageView"]
 	path = ui/req.image/HyperImageView
 	url = https://github.com/xerxes235/HyperImageView.git
-	branch = master
-[submodule "ui/image/GPUImage"]
-	path = ui/req.image/GPUImage
-	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
 [submodule "ui/exhibition/PWParallaxScrollView"]
 	path = ui/req.page2page/PWParallaxScrollView
@@ -290,14 +278,6 @@
 	path = ui/req.image/LVImageBrowser
 	url = https://github.com/CodeEagle/LVImageBrowser.git
 	branch = master
-[submodule "ui/pages/SSStackedPageView"]
-	path = ui/req.page2page//SSStackedPageView
-	url = https://github.com/PlenipotentSS/SSStackedPageView.git
-	branch = master
-[submodule "ui/actionsheet/AHKActionSheet"]
-	path = ui/ext.UIActionSheet//AHKActionSheet
-	url = https://github.com/fastred/AHKActionSheet.git
-	branch = master
 [submodule "ui/req.menu/AKPickerView"]
 	path = ui/req.menu/AKPickerView
 	url = https://github.com/Akkyie/AKPickerView.git
@@ -305,10 +285,6 @@
 [submodule "ui/pages/AMWaveTransition"]
 	path = ui/req.page2page/AMWaveTransition
 	url = https://github.com/andreamazz/AMWaveTransition.git
-	branch = master
-[submodule "ui/graph/GraphKit"]
-	path = ui/req.chart_graph//GraphKit
-	url = https://github.com/michalkonturek/GraphKit.git
 	branch = master
 [submodule "ui/exhibition/HAPaperViewController"]
 	path = ui/req.page2page/HAPaperViewController
@@ -373,4 +349,8 @@
 [submodule "ui/req.message/JSQMessagesViewController"]
 	path = ui/req.message/JSQMessagesViewController
 	url = https://github.com/jessesquires/JSQMessagesViewController.git
+	branch = master
+[submodule "ui/req.image/GPUImage"]
+	path = ui/req.image/GPUImage
+	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
