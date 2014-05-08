@@ -386,3 +386,7 @@
 	path = cloud/protocol/CocoaSSDP
 	url = https://github.com/sboisson/CocoaSSDP.git
 	branch = master
+[submodule "ui/req.page2page/TGLStackedViewController"]
+	path = ui/req.page2page/TGLStackedViewController
+	url = https://github.com/gleue/TGLStackedViewController.git
+	branch = master
