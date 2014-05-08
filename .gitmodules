@@ -426,3 +426,7 @@
 	path = ui/req.statusbar/JDStatusBarNotification
 	url = https://github.com/jaydee3/JDStatusBarNotification.git
 	branch = master
+[submodule "ui/ext.UIButton/ButtonIndicatorView"]
+	path = ui/ext.UIButton/ButtonIndicatorView
+	url = https://github.com/liaojinxing/ButtonIndicatorView.git
+	branch = master
