@@ -21,6 +21,10 @@ case $1 in
     exit 0
     ;;
     3 )
+        awk '/^.*url =/ {print $3}' .gitmodules | sed "s/\//    /g"|awk '{printf "%-20s%-30s\n",$3,$4}'|sort
+    exit 0
+    ;;
+    4 )
     git submodule foreach git fetch origin
     exit 0
     ;;
@@ -32,5 +36,6 @@ echo ==========================================
 echo number is:
 echo 1: list submodules by path
 echo 2: list submodules by size
-echo 3: update submodules with git fetch , no pull
+echo 3: list submodules by author
+echo 4: update submodules with git fetch , no pull
 echo ==========================================

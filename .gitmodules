@@ -147,7 +147,7 @@
 	url = https://github.com/Backendless/ios-SDK.git
 	branch = master
 [submodule "cloud/network/AFNetworking"]
-	path = cloud/network/AFNetworking
+	path = network/appLayer/AFNetworking
 	url = https://github.com/AFNetworking/AFNetworking.git
 	branch = master
 [submodule "ui/req.menu/SMTabbedSplitViewController"]
@@ -375,7 +375,7 @@
 	url = https://github.com/calebd/CMDAwesomeButton.git
 	branch = master
 [submodule "cloud/network/CocoaAsyncSocket"]
-	path = cloud/network/CocoaAsyncSocket
+	path = network/socket/CocoaAsyncSocket
 	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
 	branch = master
 [submodule "ui/ext.UINavigationBar/CustomNavigationBar"]
