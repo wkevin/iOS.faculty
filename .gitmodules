@@ -374,3 +374,7 @@
 	path = ui/ext.UIButton/CMDAwesomeButton
 	url = https://github.com/calebd/CMDAwesomeButton.git
 	branch = master
+[submodule "cloud/network/CocoaAsyncSocket"]
+	path = cloud/network/CocoaAsyncSocket
+	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
+	branch = master
