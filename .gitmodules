@@ -406,3 +406,7 @@
 	path = ui/req.checkbox/VDMultiplePickerView
 	url = https://github.com/vilyever/VDMultiplePickerView.git
 	branch = master
+[submodule "foundation/language/GBToolbox"]
+	path = foundation/language/GBToolbox
+	url = https://github.com/lmirosevic/GBToolbox.git
+	branch = master
