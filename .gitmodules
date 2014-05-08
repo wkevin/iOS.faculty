@@ -383,7 +383,7 @@
 	url = https://github.com/jimple/CustomNavigationBar.git
 	branch = master
 [submodule "cloud/protocol/CocoaSSDP"]
-	path = cloud/protocol/CocoaSSDP
+	path = network/appLayer/CocoaSSDP
 	url = https://github.com/sboisson/CocoaSSDP.git
 	branch = master
 [submodule "ui/req.page2page/TGLStackedViewController"]
