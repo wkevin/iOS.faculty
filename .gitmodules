@@ -394,3 +394,7 @@
 	path = app/life/AYi
 	url = https://github.com/xu54/AYi.git
 	branch = master
+[submodule "ui/ext.UITableView/CleanTableViewDataSource"]
+	path = ui/ext.UITableView/CleanTableViewDataSource
+	url = https://github.com/phatle/CleanTableViewDataSource.git
+	branch = master
