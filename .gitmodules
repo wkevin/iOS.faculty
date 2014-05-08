@@ -382,3 +382,7 @@
 	path = ui/ext.UINavigationBar/CustomNavigationBar
 	url = https://github.com/jimple/CustomNavigationBar.git
 	branch = master
+[submodule "cloud/protocol/CocoaSSDP"]
+	path = cloud/protocol/CocoaSSDP
+	url = https://github.com/sboisson/CocoaSSDP.git
+	branch = master
