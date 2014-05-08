@@ -410,3 +410,7 @@
 	path = foundation/language/GBToolbox
 	url = https://github.com/lmirosevic/GBToolbox.git
 	branch = master
+[submodule "foundation/language/GBStorageController"]
+	path = foundation/language/GBStorageController
+	url = https://github.com/lmirosevic/GBStorageController.git
+	branch = master
