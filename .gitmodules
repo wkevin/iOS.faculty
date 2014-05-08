@@ -378,3 +378,7 @@
 	path = cloud/network/CocoaAsyncSocket
 	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
 	branch = master
+[submodule "ui/ext.UINavigationBar/CustomNavigationBar"]
+	path = ui/ext.UINavigationBar/CustomNavigationBar
+	url = https://github.com/jimple/CustomNavigationBar.git
+	branch = master
