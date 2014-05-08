@@ -370,3 +370,7 @@
 	path = ui/req.progressbar/ASProgressPopUpView
 	url = https://github.com/alskipp/ASProgressPopUpView.git
 	branch = master
+[submodule "ui/ext.UIButton/CMDAwesomeButton"]
+	path = ui/ext.UIButton/CMDAwesomeButton
+	url = https://github.com/calebd/CMDAwesomeButton.git
+	branch = master
