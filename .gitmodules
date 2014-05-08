@@ -354,3 +354,7 @@
 	path = ui/req.image/GPUImage
 	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
+[submodule "ui/req.time/BEMAnalogClock"]
+	path = ui/req.time/BEMAnalogClock
+	url = https://github.com/Boris-Em/BEMAnalogClock.git
+	branch = master
