@@ -402,3 +402,7 @@
 	path = network/appLayer/GBLoading
 	url = https://github.com/lmirosevic/GBLoading.git
 	branch = master
+[submodule "ui/req.checkbox/VDMultiplePickerView"]
+	path = ui/req.checkbox/VDMultiplePickerView
+	url = https://github.com/vilyever/VDMultiplePickerView.git
+	branch = master
