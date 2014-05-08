@@ -358,3 +358,7 @@
 	path = ui/req.time/BEMAnalogClock
 	url = https://github.com/Boris-Em/BEMAnalogClock.git
 	branch = master
+[submodule "foundation/language/AutoNSCoding"]
+	path = foundation/language/AutoNSCoding
+	url = https://github.com/shjborage/AutoNSCoding.git
+	branch = master
