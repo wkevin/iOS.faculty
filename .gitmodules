@@ -418,3 +418,7 @@
 	path = cloud/sync/GBCloudBoxClient
 	url = https://github.com/lmirosevic/GBCloudBoxClient.git
 	branch = master
+[submodule "ui/req.animation/GBStickyViews"]
+	path = ui/req.animation/GBStickyViews
+	url = https://github.com/lmirosevic/GBStickyViews.git
+	branch = master
