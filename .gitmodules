@@ -390,3 +390,7 @@
 	path = ui/req.page2page/TGLStackedViewController
 	url = https://github.com/gleue/TGLStackedViewController.git
 	branch = master
+[submodule "app/life/AYi"]
+	path = app/life/AYi
+	url = https://github.com/xu54/AYi.git
+	branch = master
