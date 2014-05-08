@@ -414,3 +414,7 @@
 	path = foundation/language/GBStorageController
 	url = https://github.com/lmirosevic/GBStorageController.git
 	branch = master
+[submodule "cloud/sync/GBCloudBoxClient"]
+	path = cloud/sync/GBCloudBoxClient
+	url = https://github.com/lmirosevic/GBCloudBoxClient.git
+	branch = master
