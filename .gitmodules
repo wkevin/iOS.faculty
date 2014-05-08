@@ -422,3 +422,7 @@
 	path = ui/req.animation/GBStickyViews
 	url = https://github.com/lmirosevic/GBStickyViews.git
 	branch = master
+[submodule "ui/req.statusbar/JDStatusBarNotification"]
+	path = ui/req.statusbar/JDStatusBarNotification
+	url = https://github.com/jaydee3/JDStatusBarNotification.git
+	branch = master
