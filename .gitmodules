@@ -362,3 +362,7 @@
 	path = foundation/language/AutoNSCoding
 	url = https://github.com/shjborage/AutoNSCoding.git
 	branch = master
+[submodule "foundation/language/AutoCoding"]
+	path = foundation/language/AutoCoding
+	url = https://github.com/nicklockwood/AutoCoding.git
+	branch = master
