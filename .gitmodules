@@ -366,3 +366,7 @@
 	path = foundation/language/AutoCoding
 	url = https://github.com/nicklockwood/AutoCoding.git
 	branch = master
+[submodule "ui/req.progressbar/ASProgressPopUpView"]
+	path = ui/req.progressbar/ASProgressPopUpView
+	url = https://github.com/alskipp/ASProgressPopUpView.git
+	branch = master
