@@ -478,3 +478,7 @@
 	path = ui/ext.UIView/CustomScrollView
 	url = https://github.com/ole/CustomScrollView.git
 	branch = master
+[submodule "foundation/runtime/Aspects"]
+	path = foundation/runtime/Aspects
+	url = https://github.com/steipete/Aspects.git
+	branch = master
