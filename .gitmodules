@@ -502,3 +502,7 @@
 	path = ui/req.share/HBShare
 	url = https://github.com/lzyy/HBShare.git
 	branch = master
+[submodule "coredata/ACECoreDataManager"]
+	path = coredata/ACECoreDataManager
+	url = https://github.com/acerbetti/ACECoreDataManager.git
+	branch = master
