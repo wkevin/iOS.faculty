@@ -470,3 +470,7 @@
 	path = network/appLayer/dm-request
 	url = https://github.com/devmode/dm-request.git
 	branch = master
+[submodule "foundation/language/dm-foundation"]
+	path = foundation/language/dm-foundation
+	url = https://github.com/devmode/dm-foundation.git
+	branch = master
