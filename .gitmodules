@@ -474,3 +474,7 @@
 	path = foundation/language/dm-foundation
 	url = https://github.com/devmode/dm-foundation.git
 	branch = master
+[submodule "ui/ext.UIView/CustomScrollView"]
+	path = ui/ext.UIView/CustomScrollView
+	url = https://github.com/ole/CustomScrollView.git
+	branch = master
