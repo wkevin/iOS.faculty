@@ -442,3 +442,7 @@
 	path = ui/req.image/PhotoZoom
 	url = https://github.com/brennanMKE/PhotoZoom.git
 	branch = master
+[submodule "database/sqlite/DCFSQLite"]
+	path = database/sqlite/DCFSQLite
+	url = https://github.com/diegocfreire/DCFSQLite.git
+	branch = master
