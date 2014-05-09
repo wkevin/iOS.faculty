@@ -450,3 +450,7 @@
 	path = ui/req.keyboard/ACEAutocompleteBar
 	url = https://github.com/acerbetti/ACEAutocompleteBar.git
 	branch = master
+[submodule "ui/req.progressbar/GradientProgressView"]
+	path = ui/req.progressbar/GradientProgressView
+	url = https://github.com/nrj/GradientProgressView.git
+	branch = master
