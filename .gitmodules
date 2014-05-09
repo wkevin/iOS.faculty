@@ -458,3 +458,7 @@
 	path = ui/req.ticker/MAOFlipViewController
 	url = https://github.com/nishimao/MAOFlipViewController.git
 	branch = master
+[submodule "ui/req.text/RQShineLabel"]
+	path = ui/req.text/RQShineLabel
+	url = https://github.com/zipme/RQShineLabel.git
+	branch = master
