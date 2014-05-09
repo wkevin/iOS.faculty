@@ -462,3 +462,7 @@
 	path = ui/req.text/RQShineLabel
 	url = https://github.com/zipme/RQShineLabel.git
 	branch = master
+[submodule "ui/req.image/A3ParallaxScrollView"]
+	path = ui/req.image/A3ParallaxScrollView
+	url = https://github.com/allaboutapps/A3ParallaxScrollView.git
+	branch = master
