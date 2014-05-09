@@ -486,3 +486,7 @@
 	path = ui/req.menu/RUMSlidingMenu
 	url = https://github.com/timsearle/RUMSlidingMenu.git
 	branch = master
+[submodule "ui/ext.UITableView/SAScrollTableViewCell"]
+	path = ui/ext.UITableView/SAScrollTableViewCell
+	url = https://github.com/shams-ahmed/SAScrollTableViewCell.git
+	branch = master
