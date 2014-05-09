@@ -466,3 +466,7 @@
 	path = ui/req.image/A3ParallaxScrollView
 	url = https://github.com/allaboutapps/A3ParallaxScrollView.git
 	branch = master
+[submodule "network/appLayer/dm-request"]
+	path = network/appLayer/dm-request
+	url = https://github.com/devmode/dm-request.git
+	branch = master
