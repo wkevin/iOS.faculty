@@ -434,3 +434,7 @@
 	path = network/browser/SVWebViewController
 	url = https://github.com/samvermette/SVWebViewController.git
 	branch = master
+[submodule "ui/ext.UIView/GFTransparentView"]
+	path = ui/ext.UIView/GFTransparentView
+	url = https://github.com/fila95/GFTransparentView.git
+	branch = master
