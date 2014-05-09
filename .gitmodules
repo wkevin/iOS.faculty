@@ -454,3 +454,7 @@
 	path = ui/req.progressbar/GradientProgressView
 	url = https://github.com/nrj/GradientProgressView.git
 	branch = master
+[submodule "ui/req.ticker/MAOFlipViewController"]
+	path = ui/req.ticker/MAOFlipViewController
+	url = https://github.com/nishimao/MAOFlipViewController.git
+	branch = master
