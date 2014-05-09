@@ -446,3 +446,7 @@
 	path = database/sqlite/DCFSQLite
 	url = https://github.com/diegocfreire/DCFSQLite.git
 	branch = master
+[submodule "ui/req.keyboard/ACEAutocompleteBar"]
+	path = ui/req.keyboard/ACEAutocompleteBar
+	url = https://github.com/acerbetti/ACEAutocompleteBar.git
+	branch = master
