@@ -438,3 +438,7 @@
 	path = ui/ext.UIView/GFTransparentView
 	url = https://github.com/fila95/GFTransparentView.git
 	branch = master
+[submodule "ui/req.image/PhotoZoom"]
+	path = ui/req.image/PhotoZoom
+	url = https://github.com/brennanMKE/PhotoZoom.git
+	branch = master
