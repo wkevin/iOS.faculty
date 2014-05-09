@@ -3,31 +3,43 @@
 case $1 in
     1 )
         #cat .gitmodules |grep submodule |sort -k 2|nl
-        awk '/^.*path =/ {print $3}' .gitmodules |xargs du -sh | sed "s/\//	/g"|awk '{printf "%-10s%-15s%-25s%-30s\n",$1,$2,$3,$4}'|sort -k 2|cat -n
+        awk '/^.*path =/ {print $3}' .gitmodules |sed "s/\//	/g"| sort | awk '
+	{
+	    if ( folder == $2 ) {$2 = "    |---"}
+	    else {folder = $2}
+            printf("%-15s%-25s%s\n",$1,$2,$3);
+	}
+	' | cat -n
         exit 0
         ;;
     2 )
         awk '/^.*path =/ {print $3}' .gitmodules |xargs du -sk | sort -n | awk '
-        { if ($1 < 1024) { output("K", 1) }
-    else if ($1 < 1048576) { output("M", 1024) }
-    else { output("G", 1048576) }
-    }
+        {
+	    if ($1 < 1024) { output("K", 1) }
+            else if ($1 < 1048576) { output("M", 1024) }
+            else { output("G", 1048576) }
+        }
 
-    function output(size, div)
-    {
-        printf "%d%s\t%s\n", ($1/div), size, $2
-    }
-    ' | nl
-    exit 0
-    ;;
+        function output(size, div)
+        {
+            printf "%d%s\t%s\n", ($1/div), size, $2
+        }
+        ' | cat -n
+        exit 0
+        ;;
     3 )
-        awk '/^.*url =/ {print $3}' .gitmodules | sed "s/\//    /g"|awk '{printf "%-20s%-30s\n",$3,$4}'|sort
-    exit 0
-    ;;
+        awk '/^.*url =/ {print $3}' .gitmodules | sed "s/\//    /g"|sort -k 3|awk '
+	{
+	    if ( author == $3) {printf "%-20s%s\n"," |---",$4}
+	    else {printf "%-20s%s\n",$3,$4; author=$3}
+	}
+	' | cat -n
+        exit 0
+        ;;
     4 )
-    git submodule foreach git fetch origin
-    exit 0
-    ;;
+        git submodule foreach git fetch origin
+        exit 0
+        ;;
 esac
 
 echo

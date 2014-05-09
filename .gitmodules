@@ -430,3 +430,7 @@
 	path = ui/ext.UIButton/ButtonIndicatorView
 	url = https://github.com/liaojinxing/ButtonIndicatorView.git
 	branch = master
+[submodule "network/browser/SVWebViewController"]
+	path = network/browser/SVWebViewController
+	url = https://github.com/samvermette/SVWebViewController.git
+	branch = master
