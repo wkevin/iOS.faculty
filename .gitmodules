@@ -482,3 +482,7 @@
 	path = foundation/runtime/Aspects
 	url = https://github.com/steipete/Aspects.git
 	branch = master
+[submodule "ui/req.menu/RUMSlidingMenu"]
+	path = ui/req.menu/RUMSlidingMenu
+	url = https://github.com/timsearle/RUMSlidingMenu.git
+	branch = master
