@@ -490,3 +490,7 @@
 	path = ui/ext.UITableView/SAScrollTableViewCell
 	url = https://github.com/shams-ahmed/SAScrollTableViewCell.git
 	branch = master
+[submodule "network/JSON/NSDictionary-Accessors"]
+	path = network/JSON/NSDictionary-Accessors
+	url = https://github.com/allenhsu/NSDictionary-Accessors.git
+	branch = master
