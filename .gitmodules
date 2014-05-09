@@ -498,3 +498,7 @@
 	path = ui/req.page2page/PSStackedView
 	url = https://github.com/steipete/PSStackedView.git
 	branch = master
+[submodule "ui/req.share/HBShare"]
+	path = ui/req.share/HBShare
+	url = https://github.com/lzyy/HBShare.git
+	branch = master
