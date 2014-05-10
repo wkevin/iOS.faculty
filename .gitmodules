@@ -514,3 +514,7 @@
 	path = app/todo/Daily5
 	url = https://github.com/azamsharp/Daily5.git
 	branch = master
+[submodule "doc/article/dev-blog"]
+	path = doc/article/dev-blog
+	url = https://github.com/nixzhu/dev-blog.git
+	branch = master
