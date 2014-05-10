@@ -526,3 +526,7 @@
 	path = app/social/Dollarss
 	url = https://github.com/adow/Dollarss.git
 	branch = master
+[submodule "ui/ext.UIImage/EasyImage"]
+	path = ui/ext.UIImage/EasyImage
+	url = https://github.com/liaojinxing/EasyImage.git
+	branch = master
