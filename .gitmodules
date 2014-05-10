@@ -522,3 +522,7 @@
 	path = ui/req.menu/DKScrollingTabController
 	url = https://github.com/dkhamsing/DKScrollingTabController.git
 	branch = master
+[submodule "app/social/Dollarss"]
+	path = app/social/Dollarss
+	url = https://github.com/adow/Dollarss.git
+	branch = master
