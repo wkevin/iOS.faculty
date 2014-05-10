@@ -658,3 +658,7 @@
 	path = app/game/SharpShooter
 	url = https://github.com/liaojinxing/SharpShooter.git
 	branch = master
+[submodule "distribute/tool/shenzhen"]
+	path = distribute/tool/shenzhen
+	url = https://github.com/nomad/shenzhen.git
+	branch = master
