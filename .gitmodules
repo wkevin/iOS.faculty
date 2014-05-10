@@ -614,3 +614,7 @@
 	path = ui/req.message/ssmessagesviewcontroller
 	url = https://github.com/soffes/ssmessagesviewcontroller.git
 	branch = master
+[submodule "ui/req.message/MessageDisplayKit"]
+	path = ui/req.message/MessageDisplayKit
+	url = https://github.com/xhzengAIB/MessageDisplayKit.git
+	branch = master
