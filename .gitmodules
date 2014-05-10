@@ -674,3 +674,7 @@
 	path = ui/req.checkbox/TNCheckBoxGroup
 	url = https://github.com/frederik-jacques/TNCheckBoxGroup.git
 	branch = master
+[submodule "ui/ext.UIView/UIView-Animation-Extensions"]
+	path = ui/ext.UIView/UIView-Animation-Extensions
+	url = https://github.com/r3econ/UIView-Animation-Extensions.git
+	branch = master
