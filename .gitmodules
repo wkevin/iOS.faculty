@@ -542,3 +542,7 @@
 	path = cloud/update/HockeyKit
 	url = https://github.com/TheRealKerni/HockeyKit.git
 	branch = master
+[submodule "foundation/template/iOS-boilerplate"]
+	path = foundation/template/iOS-boilerplate
+	url = https://github.com/gimenete/iOS-boilerplate.git
+	branch = master
