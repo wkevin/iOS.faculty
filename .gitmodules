@@ -654,3 +654,7 @@
 	path = ui/req.audio/SCSiriWaveformView
 	url = https://github.com/stefanceriu/SCSiriWaveformView.git
 	branch = master
+[submodule "app/game/SharpShooter"]
+	path = app/game/SharpShooter
+	url = https://github.com/liaojinxing/SharpShooter.git
+	branch = master
