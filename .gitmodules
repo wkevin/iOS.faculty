@@ -558,3 +558,7 @@
 	path = doc/WWDC/WWDC_2013_Video_Subtitle
 	url = https://github.com/qiaoxueshi/WWDC_2013_Video_Subtitle.git
 	branch = master
+[submodule "app/social/VZ"]
+	path = app/social/VZ
+	url = https://github.com/trawor/VZ.git
+	branch = master
