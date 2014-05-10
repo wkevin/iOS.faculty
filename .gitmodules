@@ -642,3 +642,7 @@
 	path = foundation/authorize/PromiseKit
 	url = https://github.com/mxcl/PromiseKit.git
 	branch = master
+[submodule "ui/req.text/RSReadingBoard"]
+	path = ui/req.text/RSReadingBoard
+	url = https://github.com/yeahdongcn/RSReadingBoard.git
+	branch = master
