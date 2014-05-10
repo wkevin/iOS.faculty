@@ -618,3 +618,7 @@
 	path = ui/req.message/MessageDisplayKit
 	url = https://github.com/xhzengAIB/MessageDisplayKit.git
 	branch = master
+[submodule "app/game/MatchIt"]
+	path = app/game/MatchIt
+	url = https://github.com/hxy060799/MatchIt.git
+	branch = master
