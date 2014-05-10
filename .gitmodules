@@ -578,3 +578,7 @@
 	path = doc/codeguide/objective-c-style-guide_wantedly.com
 	url = https://github.com/wantedly/objective-c-style-guide.git
 	branch = master
+[submodule "doc/codeguide/objective-c-style-guide_RobotsAndPencils"]
+	path = doc/codeguide/objective-c-style-guide_RobotsAndPencils
+	url = https://github.com/RobotsAndPencils/objective-c-style-guide.git
+	branch = master
