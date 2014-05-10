@@ -650,3 +650,7 @@
 	path = ui/req.page2page/UIScrollSlidingPages
 	url = https://github.com/TomThorpe/UIScrollSlidingPages.git
 	branch = master
+[submodule "ui/req.audio/SCSiriWaveformView"]
+	path = ui/req.audio/SCSiriWaveformView
+	url = https://github.com/stefanceriu/SCSiriWaveformView.git
+	branch = master
