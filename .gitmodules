@@ -562,3 +562,7 @@
 	path = app/social/VZ
 	url = https://github.com/trawor/VZ.git
 	branch = master
+[submodule "ui/req.page2page/VZ_Server"]
+	path = ui/req.page2page/VZ_Server
+	url = https://github.com/trawor/VZ_Server.git
+	branch = master
