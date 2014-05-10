@@ -594,3 +594,7 @@
 	path = doc/codeguide/objective-c-style-guide_NYTimes
 	url = https://github.com/NYTimes/objective-c-style-guide.git
 	branch = master
+[submodule "app/social/oschina-iphone-app"]
+	path = app/social/oschina-iphone-app
+	url = http://git.oschina.net/oschina/iphone-app.git
+	branch = master
