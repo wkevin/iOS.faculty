@@ -598,3 +598,7 @@
 	path = app/social/oschina-iphone-app
 	url = http://git.oschina.net/oschina/iphone-app.git
 	branch = master
+[submodule "cloud/payment/PaymentKit"]
+	path = cloud/payment/PaymentKit
+	url = https://github.com/stripe/PaymentKit.git
+	branch = master
