@@ -530,3 +530,7 @@
 	path = ui/ext.UIImage/EasyImage
 	url = https://github.com/liaojinxing/EasyImage.git
 	branch = master
+[submodule "ui/req.page2page/FMPageViewController"]
+	path = ui/req.page2page/FMPageViewController
+	url = https://github.com/DeanCarter/FMPageViewController.git
+	branch = master
