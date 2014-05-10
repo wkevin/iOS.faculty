@@ -546,3 +546,7 @@
 	path = foundation/template/iOS-boilerplate
 	url = https://github.com/gimenete/iOS-boilerplate.git
 	branch = master
+[submodule "foundation/authorize/JLPermissions"]
+	path = foundation/authorize/JLPermissions
+	url = https://github.com/jlaws/JLPermissions.git
+	branch = master
