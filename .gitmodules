@@ -590,3 +590,7 @@
 	path = doc/codeguide/objective-c-style-guide_raywenderlich.com
 	url = https://github.com/raywenderlich/objective-c-style-guide.git
 	branch = master
+[submodule "doc/codeguide/objective-c-style-guide_NYTimes"]
+	path = doc/codeguide/objective-c-style-guide_NYTimes
+	url = https://github.com/NYTimes/objective-c-style-guide.git
+	branch = master
