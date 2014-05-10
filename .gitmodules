@@ -554,3 +554,7 @@
 	path = app/news/XTNews
 	url = https://github.com/xushao1990/XTNews.git
 	branch = master
+[submodule "doc/WWDC/WWDC_2013_Video_Subtitle"]
+	path = doc/WWDC/WWDC_2013_Video_Subtitle
+	url = https://github.com/qiaoxueshi/WWDC_2013_Video_Subtitle.git
+	branch = master
