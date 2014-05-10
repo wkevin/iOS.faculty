@@ -622,3 +622,7 @@
 	path = app/game/MatchIt
 	url = https://github.com/hxy060799/MatchIt.git
 	branch = master
+[submodule "ui/req.progressbar/JWGCircleCounter"]
+	path = ui/req.progressbar/JWGCircleCounter
+	url = https://github.com/johngraham262/JWGCircleCounter.git
+	branch = master
