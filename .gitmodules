@@ -602,3 +602,7 @@
 	path = cloud/payment/PaymentKit
 	url = https://github.com/stripe/PaymentKit.git
 	branch = master
+[submodule "ui/req.page2page/OpenFlow"]
+	path = ui/req.page2page/OpenFlow
+	url = https://github.com/thefaj/OpenFlow.git
+	branch = master
