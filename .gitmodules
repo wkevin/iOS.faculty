@@ -163,7 +163,7 @@
 	url = https://github.com/brocoo/BRFlabbyTable.git
 	branch = master
 [submodule "cloud/wechat/WechatPayDemo"]
-	path = cloud/wechat/WechatPayDemo
+	path = cloud/api/WechatPayDemo
 	url = https://github.com/gbammc/WechatPayDemo.git
 	branch = master
 [submodule "ui/alert/SIAlertView"]
@@ -537,4 +537,8 @@
 [submodule "ui/req.lock/GBSlideOutToUnlockView"]
 	path = ui/req.lock/GBSlideOutToUnlockView
 	url = https://github.com/barbosa/GBSlideOutToUnlockView.git
+	branch = master
+[submodule "cloud/update/HockeyKit"]
+	path = cloud/update/HockeyKit
+	url = https://github.com/TheRealKerni/HockeyKit.git
 	branch = master
