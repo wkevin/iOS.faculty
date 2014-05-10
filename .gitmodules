@@ -662,3 +662,7 @@
 	path = distribute/tool/shenzhen
 	url = https://github.com/nomad/shenzhen.git
 	branch = master
+[submodule "network/socket/SocketRocket"]
+	path = network/socket/SocketRocket
+	url = https://github.com/square/SocketRocket.git
+	branch = master
