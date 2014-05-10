@@ -506,3 +506,7 @@
 	path = coredata/ACECoreDataManager
 	url = https://github.com/acerbetti/ACECoreDataManager.git
 	branch = master
+[submodule "ui/req.animation/DEInfiniteTileMarqueeView"]
+	path = ui/req.animation/DEInfiniteTileMarqueeView
+	url = https://github.com/dreamengine/DEInfiniteTileMarqueeView.git
+	branch = master
