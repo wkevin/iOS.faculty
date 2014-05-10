@@ -638,3 +638,7 @@
 	path = ui/req.progressbar/MWKProgressIndicator
 	url = https://github.com/mwkoelb/MWKProgressIndicator.git
 	branch = master
+[submodule "foundation/authorize/PromiseKit"]
+	path = foundation/authorize/PromiseKit
+	url = https://github.com/mxcl/PromiseKit.git
+	branch = master
