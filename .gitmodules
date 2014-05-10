@@ -630,3 +630,7 @@
 	path = ui/req.animation/pop
 	url = https://github.com/facebook/pop.git
 	branch = master
+[submodule "ui/ext.UIImage/NHLinearShadow"]
+	path = ui/ext.UIImage/NHLinearShadow
+	url = https://github.com/nthegedus/NHLinearShadow.git
+	branch = master
