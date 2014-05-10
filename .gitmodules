@@ -510,3 +510,7 @@
 	path = ui/req.animation/DEInfiniteTileMarqueeView
 	url = https://github.com/dreamengine/DEInfiniteTileMarqueeView.git
 	branch = master
+[submodule "app/todo/Daily5"]
+	path = app/todo/Daily5
+	url = https://github.com/azamsharp/Daily5.git
+	branch = master
