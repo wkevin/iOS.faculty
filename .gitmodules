@@ -670,3 +670,7 @@
 	path = ui/req.text/TextFilter
 	url = https://github.com/detecyang/TextFilter.git
 	branch = master
+[submodule "ui/req.checkbox/TNCheckBoxGroup"]
+	path = ui/req.checkbox/TNCheckBoxGroup
+	url = https://github.com/frederik-jacques/TNCheckBoxGroup.git
+	branch = master
