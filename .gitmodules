@@ -634,3 +634,7 @@
 	path = ui/ext.UIImage/NHLinearShadow
 	url = https://github.com/nthegedus/NHLinearShadow.git
 	branch = master
+[submodule "ui/req.progressbar/MWKProgressIndicator"]
+	path = ui/req.progressbar/MWKProgressIndicator
+	url = https://github.com/mwkoelb/MWKProgressIndicator.git
+	branch = master
