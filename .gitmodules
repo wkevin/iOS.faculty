@@ -574,3 +574,7 @@
 	path = ui/req.page2page/ViewDeck
 	url = https://github.com/Inferis/ViewDeck.git
 	branch = master
+[submodule "doc/codeguide/objective-c-style-guide_wantedly.com"]
+	path = doc/codeguide/objective-c-style-guide_wantedly.com
+	url = https://github.com/wantedly/objective-c-style-guide.git
+	branch = master
