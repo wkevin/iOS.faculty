@@ -626,3 +626,7 @@
 	path = ui/req.progressbar/JWGCircleCounter
 	url = https://github.com/johngraham262/JWGCircleCounter.git
 	branch = master
+[submodule "ui/req.animation/pop"]
+	path = ui/req.animation/pop
+	url = https://github.com/facebook/pop.git
+	branch = master
