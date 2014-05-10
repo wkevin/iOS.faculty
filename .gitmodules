@@ -19,7 +19,7 @@
 	url = https://github.com/austiniam/DCDataForm.git
 	branch = master
 [submodule "ui/pin/THPinViewController"]
-	path = ui/req.password/THPinViewController
+	path = ui/req.lock/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
 	branch = master
 [submodule "ui/req.menu/iOSContextualMenu"]
@@ -533,4 +533,8 @@
 [submodule "ui/req.page2page/FMPageViewController"]
 	path = ui/req.page2page/FMPageViewController
 	url = https://github.com/DeanCarter/FMPageViewController.git
+	branch = master
+[submodule "ui/req.lock/GBSlideOutToUnlockView"]
+	path = ui/req.lock/GBSlideOutToUnlockView
+	url = https://github.com/barbosa/GBSlideOutToUnlockView.git
 	branch = master
