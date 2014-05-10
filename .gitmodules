@@ -610,3 +610,7 @@
 	path = ui/req.message/ChatMessageTableViewController
 	url = https://github.com/EvoRobin/ChatMessageTableViewController.git
 	branch = master
+[submodule "ui/req.message/ssmessagesviewcontroller"]
+	path = ui/req.message/ssmessagesviewcontroller
+	url = https://github.com/soffes/ssmessagesviewcontroller.git
+	branch = master
