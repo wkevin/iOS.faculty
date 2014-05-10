@@ -646,3 +646,7 @@
 	path = ui/req.text/RSReadingBoard
 	url = https://github.com/yeahdongcn/RSReadingBoard.git
 	branch = master
+[submodule "ui/req.page2page/UIScrollSlidingPages"]
+	path = ui/req.page2page/UIScrollSlidingPages
+	url = https://github.com/TomThorpe/UIScrollSlidingPages.git
+	branch = master
