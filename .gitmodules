@@ -666,3 +666,7 @@
 	path = network/socket/SocketRocket
 	url = https://github.com/square/SocketRocket.git
 	branch = master
+[submodule "ui/req.text/TextFilter"]
+	path = ui/req.text/TextFilter
+	url = https://github.com/detecyang/TextFilter.git
+	branch = master
