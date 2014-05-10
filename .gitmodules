@@ -518,3 +518,7 @@
 	path = doc/article/dev-blog
 	url = https://github.com/nixzhu/dev-blog.git
 	branch = master
+[submodule "ui/req.menu/DKScrollingTabController"]
+	path = ui/req.menu/DKScrollingTabController
+	url = https://github.com/dkhamsing/DKScrollingTabController.git
+	branch = master
