@@ -606,3 +606,7 @@
 	path = ui/req.page2page/OpenFlow
 	url = https://github.com/thefaj/OpenFlow.git
 	branch = master
+[submodule "ui/req.message/ChatMessageTableViewController"]
+	path = ui/req.message/ChatMessageTableViewController
+	url = https://github.com/EvoRobin/ChatMessageTableViewController.git
+	branch = master
