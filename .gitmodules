@@ -550,3 +550,7 @@
 	path = foundation/authorize/JLPermissions
 	url = https://github.com/jlaws/JLPermissions.git
 	branch = master
+[submodule "app/news/XTNews"]
+	path = app/news/XTNews
+	url = https://github.com/xushao1990/XTNews.git
+	branch = master
