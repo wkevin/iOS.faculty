@@ -690,3 +690,7 @@
 	path = ui/req.parallaxScroll/JMEParallaxView
 	url = https://github.com/JmeHsieh/JMEParallaxView.git
 	branch = master
+[submodule "ui/req.keyboard/DAKeyboardControl"]
+	path = ui/req.keyboard/DAKeyboardControl
+	url = https://github.com/danielamitay/DAKeyboardControl.git
+	branch = master
