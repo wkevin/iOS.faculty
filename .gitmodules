@@ -59,7 +59,7 @@
 	url = https://github.com/Ciechan/BCGenieEffect.git
 	branch = master
 [submodule "ui/exhibition/MJParallaxCollectionView"]
-	path = ui/ext.UICollectionView/MJParallaxCollectionView
+	path = ui/req.parallaxScroll/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 	branch = master
 [submodule "ui/animation/MVBouncyView"]
@@ -215,7 +215,7 @@
 	url = https://github.com/opedge/OMAMovingAnnotations.git
 	branch = master
 [submodule "ui/table/JBParallaxCell"]
-	path = ui/ext.UITableView/JBParallaxCell
+	path = ui/req.parallaxScroll/JBParallaxCell
 	url = https://github.com/jberlana/JBParallaxCell.git
 	branch = master
 [submodule "ui/graph/SHLineGraphView"]
@@ -251,7 +251,7 @@
 	url = https://github.com/xerxes235/HyperImageView.git
 	branch = master
 [submodule "ui/exhibition/PWParallaxScrollView"]
-	path = ui/req.page2page/PWParallaxScrollView
+	path = ui/req.parallaxScroll/PWParallaxScrollView
 	url = https://github.com/wpsteak/PWParallaxScrollView.git
 	branch = master
 [submodule "cloud/api/octokit.objc"]
@@ -685,4 +685,8 @@
 [submodule "ui/req.chart_graph/CSChartsView"]
 	path = ui/req.chart_graph/CSChartsView
 	url = https://github.com/sk344208651/CSChartsView.git
+	branch = master
+[submodule "ui/req.parallaxScroll/JMEParallaxView"]
+	path = ui/req.parallaxScroll/JMEParallaxView
+	url = https://github.com/JmeHsieh/JMEParallaxView.git
 	branch = master
