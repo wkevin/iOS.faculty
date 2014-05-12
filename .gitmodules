@@ -694,3 +694,7 @@
 	path = ui/req.keyboard/DAKeyboardControl
 	url = https://github.com/danielamitay/DAKeyboardControl.git
 	branch = master
+[submodule "ui/req.text/KTSecretTextView"]
+	path = ui/req.text/KTSecretTextView
+	url = https://github.com/kenshin03/KTSecretTextView.git
+	branch = master
