@@ -562,10 +562,6 @@
 	path = app/social/VZ
 	url = https://github.com/trawor/VZ.git
 	branch = master
-[submodule "ui/req.page2page/VZ_Server"]
-	path = ui/req.page2page/VZ_Server
-	url = https://github.com/trawor/VZ_Server.git
-	branch = master
 [submodule "ui/req.keyboard/WKInputAccessoryView"]
 	path = ui/req.keyboard/WKInputAccessoryView
 	url = https://github.com/adow/WKInputAccessoryView.git
@@ -713,4 +709,8 @@
 [submodule "location/utilities/Geo-Utilities"]
 	path = location/utilities/Geo-Utilities
 	url = https://github.com/Koolistov/Geo-Utilities.git
+	branch = master
+[submodule "app/social/JLOSChina-iPhone"]
+	path = app/social/JLOSChina-iPhone
+	url = http://git.oschina.net/jimneylee/JLOSChina-iPhone.git
 	branch = master
