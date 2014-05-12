@@ -702,3 +702,7 @@
 	path = cloud/security/SecureMappingKit
 	url = https://github.com/leverdeterre/SecureMappingKit.git
 	branch = master
+[submodule "network/browser/PAMWebBrowser"]
+	path = network/browser/PAMWebBrowser
+	url = https://github.com/PAM-AS/PAMWebBrowser.git
+	branch = master
