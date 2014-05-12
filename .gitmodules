@@ -710,3 +710,7 @@
 	path = ui/ext.UIButton/UITintedButton
 	url = https://github.com/filipstefansson/UITintedButton.git
 	branch = master
+[submodule "location/utilities/Geo-Utilities"]
+	path = location/utilities/Geo-Utilities
+	url = https://github.com/Koolistov/Geo-Utilities.git
+	branch = master
