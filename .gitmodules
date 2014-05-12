@@ -698,3 +698,7 @@
 	path = ui/req.text/KTSecretTextView
 	url = https://github.com/kenshin03/KTSecretTextView.git
 	branch = master
+[submodule "cloud/security/SecureMappingKit"]
+	path = cloud/security/SecureMappingKit
+	url = https://github.com/leverdeterre/SecureMappingKit.git
+	branch = master
