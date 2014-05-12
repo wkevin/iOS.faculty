@@ -706,3 +706,7 @@
 	path = network/browser/PAMWebBrowser
 	url = https://github.com/PAM-AS/PAMWebBrowser.git
 	branch = master
+[submodule "ui/ext.UIButton/UITintedButton"]
+	path = ui/ext.UIButton/UITintedButton
+	url = https://github.com/filipstefansson/UITintedButton.git
+	branch = master
