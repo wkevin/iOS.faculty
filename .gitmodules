@@ -682,3 +682,7 @@
 	path = ui/req.refresh/RefreshableScrollView
 	url = https://github.com/adib/RefreshableScrollView.git
 	branch = master
+[submodule "ui/req.chart_graph/CSChartsView"]
+	path = ui/req.chart_graph/CSChartsView
+	url = https://github.com/sk344208651/CSChartsView.git
+	branch = master
