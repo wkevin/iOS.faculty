@@ -27,14 +27,20 @@
 		*	蓝色的 cancelButton
 		*	红色的 destructiveButton
 		*	其他的 button 自己实现并添加
-	*	AHKActionButton 默认1个Cacelbutton，其他自己添加，使用 `- (void)addButtonWithTitle:(NSString *)title image:(UIImage *)image type:(AHKActionSheetButtonType)type handler:(AHKActionSheetHandler)handler`
-		*	image：添加button的同时设置小图标
-		*	type：目前是两种，default--白色，destructive--红色
-		*	handler：点击后的动作
+	*	AHKActionButton 默认1个Cacelbutton，其他自己添加，使用 `- (void)addButtonWithTitle:(NSString *)title ......` 参见下面的API
 *	AHKActionSheet 可以设置的属性也有很多：底色、透明度、button的高度、隔离线的粗细等
 
 ### API
 
+AHKActionSheet Class：
+
+```
+- (void)addButtonWithTitle:(NSString *)title 
+                     image:(UIImage *)image  //添加button的同时设置小图标
+                      type:(AHKActionSheetButtonType)type //default-白色，destructive-红色
+                   handler:(AHKActionSheetHandler)handler //点击后的动作
+- (void)show
+```
 
 ### Code
 
@@ -76,10 +82,10 @@
                            maskImage:(UIImage *)maskImage
 ```
 
-了解“高斯模糊”
-1.	[www.w3.org：高斯滤镜](http://www.w3.org/TR/SVG/filters.html#feGaussianBlurElement)
-2.	[维基：高斯模糊](http://zh.wikipedia.org/wiki/高斯模糊)
-3.	[百度：高斯模糊](http://baike.baidu.com/view/642651.htm)
+了解“高斯模糊”  
+1.	[www.w3.org：高斯滤镜](http://www.w3.org/TR/SVG/filters.html#feGaussianBlurElement)  
+2.	[维基：高斯模糊](http://zh.wikipedia.org/wiki/高斯模糊)  
+3.	[百度：高斯模糊](http://baike.baidu.com/view/642651.htm)  
 
 **UIWindow+AHKAdditions.h/m**
 
