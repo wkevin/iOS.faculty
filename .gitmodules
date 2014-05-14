@@ -71,7 +71,7 @@
 	url = https://github.com/bilby91/AsyncCollections.git
 	branch = master
 [submodule "ui/selector/BWSelectViewController"]
-	path = ui/req.checkbox/BWSelectViewController
+	path = ui/req.select/BWSelectViewController
 	url = https://github.com/brunow/BWSelectViewController.git
 	branch = master
 [submodule "foundation/module/Mantle"]
@@ -403,7 +403,7 @@
 	url = https://github.com/lmirosevic/GBLoading.git
 	branch = master
 [submodule "ui/req.checkbox/VDMultiplePickerView"]
-	path = ui/req.checkbox/VDMultiplePickerView
+	path = ui/req.select/VDMultiplePickerView
 	url = https://github.com/vilyever/VDMultiplePickerView.git
 	branch = master
 [submodule "foundation/language/GBToolbox"]
@@ -667,7 +667,7 @@
 	url = https://github.com/detecyang/TextFilter.git
 	branch = master
 [submodule "ui/req.checkbox/TNCheckBoxGroup"]
-	path = ui/req.checkbox/TNCheckBoxGroup
+	path = ui/req.select/TNCheckBoxGroup
 	url = https://github.com/frederik-jacques/TNCheckBoxGroup.git
 	branch = master
 [submodule "ui/ext.UIView/UIView-Animation-Extensions"]
@@ -737,4 +737,8 @@
 [submodule "ui/req.snippets/FSI"]
 	path = ui/req.snippets/FSI
 	url = https://github.com/tbaranes/FSI.git
+	branch = master
+[submodule "ui/req.select/ActionSheetPicker"]
+	path = ui/req.select/ActionSheetPicker
+	url = https://github.com/TimCinel/ActionSheetPicker.git
 	branch = master
