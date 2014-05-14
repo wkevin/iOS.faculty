@@ -734,3 +734,7 @@
 	path = ui/req.animation/VCTransitionsLibrary
 	url = https://github.com/ColinEberhardt/VCTransitionsLibrary.git
 	branch = master
+[submodule "ui/req.snippets/FSI"]
+	path = ui/req.snippets/FSI
+	url = https://github.com/tbaranes/FSI.git
+	branch = master
