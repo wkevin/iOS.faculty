@@ -730,3 +730,7 @@
 	path = ui/req.image/GDRSImageCache
 	url = https://github.com/gabrielar/GDRSImageCache.git
 	branch = master
+[submodule "ui/req.animation/VCTransitionsLibrary"]
+	path = ui/req.animation/VCTransitionsLibrary
+	url = https://github.com/ColinEberhardt/VCTransitionsLibrary.git
+	branch = master
