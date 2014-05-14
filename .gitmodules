@@ -718,3 +718,7 @@
 	path = ui/req.text/LazyFadeInView
 	url = https://github.com/itouch2/LazyFadeInView.git
 	branch = master
+[submodule "ui/req.chart_graph/TWRCharts"]
+	path = ui/req.chart_graph/TWRCharts
+	url = https://github.com/chasseurmic/TWRCharts.git
+	branch = master
