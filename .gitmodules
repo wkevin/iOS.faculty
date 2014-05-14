@@ -714,3 +714,7 @@
 	path = app/social/JLOSChina-iPhone
 	url = http://git.oschina.net/jimneylee/JLOSChina-iPhone.git
 	branch = master
+[submodule "ui/req.text/LazyFadeInView"]
+	path = ui/req.text/LazyFadeInView
+	url = https://github.com/itouch2/LazyFadeInView.git
+	branch = master
