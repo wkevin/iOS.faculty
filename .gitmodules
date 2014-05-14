@@ -722,3 +722,7 @@
 	path = ui/req.chart_graph/TWRCharts
 	url = https://github.com/chasseurmic/TWRCharts.git
 	branch = master
+[submodule "cloud/update/SSVC"]
+	path = cloud/update/SSVC
+	url = https://github.com/mrtom/SSVC.git
+	branch = master
