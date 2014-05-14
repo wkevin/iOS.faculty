@@ -726,3 +726,7 @@
 	path = cloud/update/SSVC
 	url = https://github.com/mrtom/SSVC.git
 	branch = master
+[submodule "ui/req.image/GDRSImageCache"]
+	path = ui/req.image/GDRSImageCache
+	url = https://github.com/gabrielar/GDRSImageCache.git
+	branch = master
