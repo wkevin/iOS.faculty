@@ -746,3 +746,7 @@
 	path = ui/ext.UIActionSheet/DoActionSheet
 	url = https://github.com/donobono/DoActionSheet.git
 	branch = master
+[submodule "ui/ext.UIActionSheet/RDActionSheet"]
+	path = ui/ext.UIActionSheet/RDActionSheet
+	url = https://github.com/reddavis/RDActionSheet.git
+	branch = master
