@@ -766,3 +766,7 @@
 	path = ui/ext.UIView/UIViewShadow
 	url = https://github.com/grigaci/UIViewShadow.git
 	branch = master
+[submodule "ui/req.animation/DynamicXray"]
+	path = ui/req.animation/DynamicXray
+	url = https://github.com/chrismiles/DynamicXray.git
+	branch = master
