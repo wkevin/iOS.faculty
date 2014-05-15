@@ -538,8 +538,8 @@
 	path = ui/req.lock/GBSlideOutToUnlockView
 	url = https://github.com/barbosa/GBSlideOutToUnlockView.git
 	branch = master
-[submodule "cloud/update/HockeyKit"]
-	path = cloud/update/HockeyKit
+[submodule "distribute/update/HockeyKit"]
+	path = distribute/update/HockeyKit
 	url = https://github.com/TheRealKerni/HockeyKit.git
 	branch = master
 [submodule "foundation/template/iOS-boilerplate"]
@@ -722,8 +722,8 @@
 	path = ui/req.chart_graph/TWRCharts
 	url = https://github.com/chasseurmic/TWRCharts.git
 	branch = master
-[submodule "cloud/update/SSVC"]
-	path = cloud/update/SSVC
+[submodule "distribute/update/SSVC"]
+	path = distribute/update/SSVC
 	url = https://github.com/mrtom/SSVC.git
 	branch = master
 [submodule "ui/req.image/GDRSImageCache"]
@@ -753,4 +753,8 @@
 [submodule "ui/ext.UIActionSheet/DJWActionSheet"]
 	path = ui/ext.UIActionSheet/DJWActionSheet
 	url = https://github.com/danwilliams64/DJWActionSheet.git
+	branch = master
+[submodule "ui/req.text/DSTextEntryValidation"]
+	path = ui/req.text/DSTextEntryValidation
+	url = https://github.com/DocuSignDev/DSTextEntryValidation.git
 	branch = master
