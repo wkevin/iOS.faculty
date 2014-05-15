@@ -770,3 +770,7 @@
 	path = ui/req.animation/DynamicXray
 	url = https://github.com/chrismiles/DynamicXray.git
 	branch = master
+[submodule "perfermence/optimization/splitforce"]
+	path = perfermence/optimization/splitforce
+	url = https://bitbucket.org/splitforce/splitforce.git
+	branch = master
