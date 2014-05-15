@@ -774,3 +774,7 @@
 	path = perfermence/optimization/splitforce
 	url = https://bitbucket.org/splitforce/splitforce.git
 	branch = master
+[submodule "ui/req.animation/BCMeshTransformView"]
+	path = ui/req.animation/BCMeshTransformView
+	url = https://github.com/Ciechan/BCMeshTransformView.git
+	branch = master
