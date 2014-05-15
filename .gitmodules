@@ -778,3 +778,7 @@
 	path = ui/req.animation/BCMeshTransformView
 	url = https://github.com/Ciechan/BCMeshTransformView.git
 	branch = master
+[submodule "ui/ext.UIView/CATransform3D-Test"]
+	path = ui/ext.UIView/CATransform3D-Test
+	url = https://github.com/honcheng/CATransform3D-Test.git
+	branch = master
