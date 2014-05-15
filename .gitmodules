@@ -758,3 +758,7 @@
 	path = ui/req.text/DSTextEntryValidation
 	url = https://github.com/DocuSignDev/DSTextEntryValidation.git
 	branch = master
+[submodule "ui/req.statusbar/Informative"]
+	path = ui/req.statusbar/Informative
+	url = https://github.com/davidlawson/Informative.git
+	branch = master
