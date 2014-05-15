@@ -762,3 +762,7 @@
 	path = ui/req.statusbar/Informative
 	url = https://github.com/davidlawson/Informative.git
 	branch = master
+[submodule "ui/ext.UIView/UIViewShadow"]
+	path = ui/ext.UIView/UIViewShadow
+	url = https://github.com/grigaci/UIViewShadow.git
+	branch = master
