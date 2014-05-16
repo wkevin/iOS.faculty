@@ -790,3 +790,7 @@
 	path = graphic/vector-drawing/TouchVG
 	url = https://github.com/touchvg/TouchVG.git
 	branch = master
+[submodule "ui/req.thumbnail/MERThumbnailKit"]
+	path = ui/req.thumbnail/MERThumbnailKit
+	url = https://github.com/MaestroElearning/MERThumbnailKit.git
+	branch = master
