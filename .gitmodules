@@ -794,3 +794,7 @@
 	path = ui/req.thumbnail/MERThumbnailKit
 	url = https://github.com/MaestroElearning/MERThumbnailKit.git
 	branch = master
+[submodule "ui/req.image/BASSquareCropper"]
+	path = ui/req.image/BASSquareCropper
+	url = https://github.com/Stakenborg/BASSquareCropper.git
+	branch = master
