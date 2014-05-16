@@ -782,3 +782,7 @@
 	path = ui/ext.UIView/CATransform3D-Test
 	url = https://github.com/honcheng/CATransform3D-Test.git
 	branch = master
+[submodule "ui/req.menu/LHSlideBar"]
+	path = ui/req.menu/LHSlideBar
+	url = https://github.com/Baza207/LHSlideBar.git
+	branch = master
