@@ -786,3 +786,7 @@
 	path = ui/req.menu/LHSlideBar
 	url = https://github.com/Baza207/LHSlideBar.git
 	branch = master
+[submodule "graphic/vector-drawing/TouchVG"]
+	path = graphic/vector-drawing/TouchVG
+	url = https://github.com/touchvg/TouchVG.git
+	branch = master
