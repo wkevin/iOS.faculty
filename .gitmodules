@@ -802,3 +802,7 @@
 	path = ui/req.select/MCSFishEye
 	url = https://github.com/macoscope/MCSFishEye.git
 	branch = master
+[submodule "ui/req.progressbar/FFCircularProgressView"]
+	path = ui/req.progressbar/FFCircularProgressView
+	url = https://github.com/elbryan/FFCircularProgressView.git
+	branch = master
