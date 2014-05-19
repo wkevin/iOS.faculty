@@ -798,3 +798,7 @@
 	path = ui/req.image/BASSquareCropper
 	url = https://github.com/Stakenborg/BASSquareCropper.git
 	branch = master
+[submodule "ui/req.select/MCSFishEye"]
+	path = ui/req.select/MCSFishEye
+	url = https://github.com/macoscope/MCSFishEye.git
+	branch = master
