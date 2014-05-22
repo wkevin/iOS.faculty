@@ -1,812 +1,812 @@
-[submodule "ui/form/FormKit.m"]
-	path = ui/req.form/FormKit.m
+[submodule "freshman/ui/req.form/FormKit.m"]
+	path = freshman/ui/req.form/FormKit.m
 	url = https://github.com/brunow/FormKit.m.git
 	branch = master
-[submodule "ui/req.date/DIDatepicker"]
-	path = ui/req.date/DIDatepicker
+[submodule "freshman/ui/req.date/DIDatepicker"]
+	path = freshman/ui/req.date/DIDatepicker
 	url = https://github.com/noxt/DIDatepicker.git
 	branch = master
-[submodule "ui/req.text/UIFloatLabelTextField"]
-	path = ui/req.text/UIFloatLabelTextField
+[submodule "freshman/ui/req.text/UIFloatLabelTextField"]
+	path = freshman/ui/req.text/UIFloatLabelTextField
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextField.git
 	branch = master
-[submodule "ui/req.text/UIFloatLabelTextView"]
-	path = ui/req.text/UIFloatLabelTextView
+[submodule "freshman/ui/req.text/UIFloatLabelTextView"]
+	path = freshman/ui/req.text/UIFloatLabelTextView
 	url = https://github.com/ArtSabintsev/UIFloatLabelTextView.git
 	branch = master
-[submodule "ui/form/DCDataForm"]
-	path = ui/req.form/DCDataForm
+[submodule "freshman/ui/req.form/DCDataForm"]
+	path = freshman/ui/req.form/DCDataForm
 	url = https://github.com/austiniam/DCDataForm.git
 	branch = master
-[submodule "ui/pin/THPinViewController"]
-	path = ui/req.lock/THPinViewController
+[submodule "freshman/ui/req.lock/THPinViewController"]
+	path = freshman/ui/req.lock/THPinViewController
 	url = https://github.com/antiraum/THPinViewController.git
 	branch = master
-[submodule "ui/req.menu/iOSContextualMenu"]
-	path = ui/req.menu/iOSContextualMenu
+[submodule "freshman/ui/req.menu/iOSContextualMenu"]
+	path = freshman/ui/req.menu/iOSContextualMenu
 	url = https://github.com/hectormatos2011/iOSContextualMenu.git
 	branch = master
-[submodule "ui/button/FlatButtons"]
-	path = ui/ext.UIButton/FlatButtons
+[submodule "freshman/ui/ext.UIButton/FlatButtons"]
+	path = freshman/ui/ext.UIButton/FlatButtons
 	url = https://github.com/brennanMKE/FlatButtons.git
 	branch = master
-[submodule "ui/slider/SSTTapSlider"]
-	path = ui/ext.UISlider/SSTTapSlider
+[submodule "freshman/ui/ext.UISlider/SSTTapSlider"]
+	path = freshman/ui/ext.UISlider/SSTTapSlider
 	url = https://github.com/brennanMKE/SSTTapSlider.git
 	branch = master
-[submodule "ui/slider/ASValueTrackingSlider"]
-	path = ui/ext.UISlider/ASValueTrackingSlider
+[submodule "freshman/ui/ext.UISlider/ASValueTrackingSlider"]
+	path = freshman/ui/ext.UISlider/ASValueTrackingSlider
 	url = https://github.com/alskipp/ASValueTrackingSlider.git
 	branch = master
-[submodule "ui/button/ACPButton"]
-	path = ui/ext.UIButton/ACPButton
+[submodule "freshman/ui/ext.UIButton/ACPButton"]
+	path = freshman/ui/ext.UIButton/ACPButton
 	url = https://github.com/antoniocasero/ACPButton.git
 	branch = master
-[submodule "doc/article/objc.io-articles"]
-	path = doc/article/objc.io-articles
+[submodule "freshman/doc/article/objc.io-articles"]
+	path = freshman/doc/article/objc.io-articles
 	url = https://github.com/objcio/articles.git
 	branch = master
-[submodule "ui/req.text/MVTextInputScroller"]
-	path = ui/req.text/MVTextInputScroller
+[submodule "freshman/ui/req.text/MVTextInputScroller"]
+	path = freshman/ui/req.text/MVTextInputScroller
 	url = https://github.com/bizz84/MVTextInputScroller.git
 	branch = master
-[submodule "foundation/date/DateTools"]
-	path = foundation/date/DateTools
+[submodule "freshman/foundation/date/DateTools"]
+	path = freshman/foundation/date/DateTools
 	url = https://github.com/MatthewYork/DateTools.git
 	branch = master
-[submodule "ui/animation/BCGenieEffect"]
-	path = ui/req.animation/BCGenieEffect
+[submodule "freshman/ui/req.animation/BCGenieEffect"]
+	path = freshman/ui/req.animation/BCGenieEffect
 	url = https://github.com/Ciechan/BCGenieEffect.git
 	branch = master
-[submodule "ui/exhibition/MJParallaxCollectionView"]
-	path = ui/req.parallaxScroll/MJParallaxCollectionView
+[submodule "freshman/ui/req.parallaxScroll/MJParallaxCollectionView"]
+	path = freshman/ui/req.parallaxScroll/MJParallaxCollectionView
 	url = https://github.com/mayuur/MJParallaxCollectionView.git
 	branch = master
-[submodule "ui/animation/MVBouncyView"]
-	path = ui/req.animation/MVBouncyView
+[submodule "freshman/ui/req.animation/MVBouncyView"]
+	path = freshman/ui/req.animation/MVBouncyView
 	url = https://github.com/bizz84/MVBouncyView.git
 	branch = master
-[submodule "ui/collection/AsyncCollections"]
-	path = ui/ext.UICollectionView/AsyncCollections
+[submodule "freshman/ui/ext.UICollectionView/AsyncCollections"]
+	path = freshman/ui/ext.UICollectionView/AsyncCollections
 	url = https://github.com/bilby91/AsyncCollections.git
 	branch = master
-[submodule "ui/selector/BWSelectViewController"]
-	path = ui/req.select/BWSelectViewController
+[submodule "freshman/ui/req.select/BWSelectViewController"]
+	path = freshman/ui/req.select/BWSelectViewController
 	url = https://github.com/brunow/BWSelectViewController.git
 	branch = master
-[submodule "foundation/module/Mantle"]
-	path = foundation/module/Mantle
+[submodule "freshman/foundation/module/Mantle"]
+	path = freshman/foundation/module/Mantle
 	url = https://github.com/Mantle/Mantle.git
 	branch = master
-[submodule "ui/animation/AnimatedTransitionGallery"]
-	path = ui/req.animation/AnimatedTransitionGallery
+[submodule "freshman/ui/req.animation/AnimatedTransitionGallery"]
+	path = freshman/ui/req.animation/AnimatedTransitionGallery
 	url = https://github.com/shu223/AnimatedTransitionGallery.git
 	branch = master
-[submodule "foundation/file/FCFileManager"]
-	path = foundation/file/FCFileManager
+[submodule "freshman/foundation/file/FCFileManager"]
+	path = freshman/foundation/file/FCFileManager
 	url = https://github.com/fabiocaccamo/FCFileManager.git
 	branch = master
-[submodule "coredata/KORData"]
-	path = coredata/KORData
+[submodule "freshman/coredata/KORData"]
+	path = freshman/coredata/KORData
 	url = https://github.com/olistaats/KORData.git
 	branch = master
-[submodule "ui/animation/UzysAnimatedGifPullToRefresh"]
-	path = ui/req.animation/UzysAnimatedGifPullToRefresh
+[submodule "freshman/ui/req.animation/UzysAnimatedGifPullToRefresh"]
+	path = freshman/ui/req.animation/UzysAnimatedGifPullToRefresh
 	url = https://github.com/uzysjung/UzysAnimatedGifPullToRefresh.git
 	branch = master
-[submodule "ui/segment/NYSegmentedControl"]
-	path = ui/ext.UISegmentControl/NYSegmentedControl
+[submodule "freshman/ui/ext.UISegmentControl/NYSegmentedControl"]
+	path = freshman/ui/ext.UISegmentControl/NYSegmentedControl
 	url = https://github.com/nealyoung/NYSegmentedControl.git
 	branch = master
-[submodule "ui/req.menu/APHorizontalMenu"]
-	path = ui/req.menu/APHorizontalMenu
+[submodule "freshman/ui/req.menu/APHorizontalMenu"]
+	path = freshman/ui/req.menu/APHorizontalMenu
 	url = https://github.com/apascual/APHorizontalMenu.git
 	branch = master
-[submodule "ui/wizard/TutorialKit"]
-	path = ui/req.wizard/TutorialKit
+[submodule "freshman/ui/req.wizard/TutorialKit"]
+	path = freshman/ui/req.wizard/TutorialKit
 	url = https://github.com/lostinthepines/TutorialKit.git
 	branch = master
-[submodule "ui/wizard/ACETelPrompt"]
-	path = ui/req.wizard/ACETelPrompt
+[submodule "freshman/ui/req.wizard/ACETelPrompt"]
+	path = freshman/ui/req.wizard/ACETelPrompt
 	url = https://github.com/acerbetti/ACETelPrompt.git
 	branch = master
-[submodule "ui/pages/RASlideInViewController"]
-	path = ui/req.page2page/RASlideInViewController
+[submodule "freshman/ui/req.page2page/RASlideInViewController"]
+	path = freshman/ui/req.page2page/RASlideInViewController
 	url = https://github.com/ra1028/RASlideInViewController.git
 	branch = master
-[submodule "ui/wizard/MFHWireframes"]
-	path = ui/req.wizard/MFHWireframes
+[submodule "freshman/ui/req.wizard/MFHWireframes"]
+	path = freshman/ui/req.wizard/MFHWireframes
 	url = https://github.com/matt-holden/MFHWireframes.git
 	branch = master
-[submodule "doc/article/objccn.io-articles"]
-	path = doc/article/objccn.io-articles
+[submodule "freshman/doc/article/objccn.io-articles"]
+	path = freshman/doc/article/objccn.io-articles
 	url = https://github.com/objccn/articles.git
 	branch = master
-[submodule "ui/exhibition/iCarousel"]
-	path = ui/req.page2page/iCarousel
+[submodule "freshman/ui/req.page2page/iCarousel"]
+	path = freshman/ui/req.page2page/iCarousel
 	url = https://github.com/nicklockwood/iCarousel.git
 	branch = master
-[submodule "ui/req.menu/RESideMenu"]
-	path = ui/req.menu/RESideMenu
+[submodule "freshman/ui/req.menu/RESideMenu"]
+	path = freshman/ui/req.menu/RESideMenu
 	url = https://github.com/romaonthego/RESideMenu.git
 	branch = master
-[submodule "ui/image/SDWebImage"]
-	path = ui/req.image/SDWebImage
+[submodule "freshman/ui/req.image/SDWebImage"]
+	path = freshman/ui/req.image/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
 	branch = master
-[submodule "ui/exhibition/PSCollectionView"]
-	path = ui/ext.UICollectionView/PSCollectionView
+[submodule "freshman/ui/ext.UICollectionView/PSCollectionView"]
+	path = freshman/ui/ext.UICollectionView/PSCollectionView
 	url = https://github.com/ptshih/PSCollectionView.git
 	branch = master
-[submodule "cloud/baas/RestKit"]
-	path = cloud/baas/RestKit
+[submodule "freshman/cloud/baas/RestKit"]
+	path = freshman/cloud/baas/RestKit
 	url = https://github.com/RestKit/RestKit.git
 	branch = master
-[submodule "cloud/baas/ios-SDK"]
-	path = cloud/baas/ios-SDK
+[submodule "freshman/cloud/baas/ios-SDK"]
+	path = freshman/cloud/baas/ios-SDK
 	url = https://github.com/Backendless/ios-SDK.git
 	branch = master
-[submodule "cloud/network/AFNetworking"]
-	path = network/appLayer/AFNetworking
+[submodule "junior/network/appLayer/AFNetworking"]
+	path = junior/network/appLayer/AFNetworking
 	url = https://github.com/AFNetworking/AFNetworking.git
 	branch = master
-[submodule "ui/req.menu/SMTabbedSplitViewController"]
-	path = ui/req.menu/SMTabbedSplitViewController
+[submodule "freshman/ui/req.menu/SMTabbedSplitViewController"]
+	path = freshman/ui/req.menu/SMTabbedSplitViewController
 	url = https://github.com/sergik-ru/SMTabbedSplitViewController.git
 	branch = master
-[submodule "foundation/kvo/KVOController"]
-	path = foundation/kvo/KVOController
+[submodule "freshman/foundation/kvo/KVOController"]
+	path = freshman/foundation/kvo/KVOController
 	url = https://github.com/facebook/KVOController.git
 	branch = master
-[submodule "ui/table/BRFlabbyTable"]
-	path = ui/ext.UITableView/BRFlabbyTable
+[submodule "freshman/ui/ext.UITableView/BRFlabbyTable"]
+	path = freshman/ui/ext.UITableView/BRFlabbyTable
 	url = https://github.com/brocoo/BRFlabbyTable.git
 	branch = master
-[submodule "cloud/wechat/WechatPayDemo"]
-	path = cloud/api/WechatPayDemo
+[submodule "freshman/cloud/api/WechatPayDemo"]
+	path = freshman/cloud/api/WechatPayDemo
 	url = https://github.com/gbammc/WechatPayDemo.git
 	branch = master
-[submodule "ui/alert/SIAlertView"]
-	path = ui/ext.UIAlertView/SIAlertView
+[submodule "freshman/ui/ext.UIAlertView/SIAlertView"]
+	path = freshman/ui/ext.UIAlertView/SIAlertView
 	url = https://github.com/Sumi-Interactive/SIAlertView.git
 	branch = master
-[submodule "database/sqlite/fmdb"]
-	path = database/sqlite/fmdb
+[submodule "junior/database/sqlite/fmdb"]
+	path = junior/database/sqlite/fmdb
 	url = https://github.com/ccgus/fmdb.git
 	branch = master
-[submodule "cloud/baas/avoscloud-sdk"]
-	path = cloud/baas/avoscloud-sdk
+[submodule "freshman/cloud/baas/avoscloud-sdk"]
+	path = freshman/cloud/baas/avoscloud-sdk
 	url = https://github.com/avoscloud/avoscloud-sdk.git
 	branch = master
-[submodule "foundation/language/Overline"]
-	path = foundation/language/Overline
+[submodule "freshman/foundation/language/Overline"]
+	path = freshman/foundation/language/Overline
 	url = https://github.com/yaakaito/Overline.git
 	branch = master
-[submodule "ui/req.text/JVFloatLabeledTextField"]
-	path = ui/req.text/JVFloatLabeledTextField
+[submodule "freshman/ui/req.text/JVFloatLabeledTextField"]
+	path = freshman/ui/req.text/JVFloatLabeledTextField
 	url = https://github.com/jverdi/JVFloatLabeledTextField.git
 	branch = master
-[submodule "ui/table/UITableViewCell-Swipe-for-Options"]
-	path = ui/ext.UITableView/UITableViewCell-Swipe-for-Options
+[submodule "freshman/ui/ext.UITableView/UITableViewCell-Swipe-for-Options"]
+	path = freshman/ui/ext.UITableView/UITableViewCell-Swipe-for-Options
 	url = https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options.git
 	branch = master
-[submodule "ui/req.menu/KEYPullDownMenu"]
-	path = ui/req.menu/KEYPullDownMenu
+[submodule "freshman/ui/req.menu/KEYPullDownMenu"]
+	path = freshman/ui/req.menu/KEYPullDownMenu
 	url = https://github.com/mmackh/KEYPullDownMenu.git
 	branch = master
-[submodule "ui/pages/SCStackViewController"]
-	path = ui/req.page2page/SCStackViewController
+[submodule "freshman/ui/req.page2page/SCStackViewController"]
+	path = freshman/ui/req.page2page/SCStackViewController
 	url = https://github.com/stefanceriu/SCStackViewController.git
 	branch = master
-[submodule "ui/keyboard/CustomKeyboard"]
-	path = ui/req.keyboard/CustomKeyboard
+[submodule "freshman/ui/req.keyboard/CustomKeyboard"]
+	path = freshman/ui/req.keyboard/CustomKeyboard
 	url = https://github.com/kalvish21/CustomKeyboard.git
 	branch = master
-[submodule "test/integration/Subliminal"]
-	path = test/integration/Subliminal
+[submodule "senior/test/integration/Subliminal"]
+	path = senior/test/integration/Subliminal
 	url = https://github.com/inkling/Subliminal.git
 	branch = master
-[submodule "ui/req.text/PSPDFTextView"]
-	path = ui/req.text/PSPDFTextView
+[submodule "freshman/ui/req.text/PSPDFTextView"]
+	path = freshman/ui/req.text/PSPDFTextView
 	url = https://github.com/steipete/PSPDFTextView.git
 	branch = master
-[submodule "map/annotation/OMAMovingAnnotations"]
-	path = map/annotation/OMAMovingAnnotations
+[submodule "freshman/map/annotation/map/annotation/OMAMovingAnnotations"]
+	path = freshman/map/annotation/map/annotation/OMAMovingAnnotations
 	url = https://github.com/opedge/OMAMovingAnnotations.git
 	branch = master
-[submodule "ui/table/JBParallaxCell"]
-	path = ui/req.parallaxScroll/JBParallaxCell
+[submodule "freshman/ui/req.parallaxScroll/JBParallaxCell"]
+	path = freshman/ui/req.parallaxScroll/JBParallaxCell
 	url = https://github.com/jberlana/JBParallaxCell.git
 	branch = master
-[submodule "ui/graph/SHLineGraphView"]
-	path = ui/req.chart_graph/SHLineGraphView
+[submodule "freshman/ui/req.chart_graph/SHLineGraphView"]
+	path = freshman/ui/req.chart_graph/SHLineGraphView
 	url = https://github.com/grevolution/SHLineGraphView.git
 	branch = master
-[submodule "ui/animation/MZLoading"]
-	path = ui/req.animation/MZLoading
+[submodule "freshman/ui/req.animation/MZLoading"]
+	path = freshman/ui/req.animation/MZLoading
 	url = https://github.com/SergheiMazur/MZLoading.git
 	branch = master
-[submodule "ui/req.text/CHChromaHashView"]
-	path = ui/req.text/CHChromaHashView
+[submodule "freshman/ui/req.text/CHChromaHashView"]
+	path = freshman/ui/req.text/CHChromaHashView
 	url = https://github.com/mattt/CHChromaHashView.git
 	branch = master
-[submodule "coredata/MagicalRecord"]
-	path = coredata/MagicalRecord
+[submodule "freshman/coredata/MagicalRecord"]
+	path = freshman/coredata/MagicalRecord
 	url = https://github.com/magicalpanda/MagicalRecord.git
 	branch = master
-[submodule "ui/form/XLForm"]
-	path = ui/req.form/XLForm
+[submodule "freshman/ui/req.form/XLForm"]
+	path = freshman/ui/req.form/XLForm
 	url = https://github.com/xmartlabs/XLForm.git
 	branch = master
-[submodule "ui/share/overshare-kit"]
-	path = ui/req.share/overshare-kit
+[submodule "freshman/ui/req.share/overshare-kit"]
+	path = freshman/ui/req.share/overshare-kit
 	url = https://github.com/overshare/overshare-kit.git
 	branch = master
-[submodule "ui/animation/CBHazeTransitionViewController"]
-	path = ui/req.animation/CBHazeTransitionViewController
+[submodule "freshman/ui/req.animation/CBHazeTransitionViewController"]
+	path = freshman/ui/req.animation/CBHazeTransitionViewController
 	url = https://github.com/coolbeet/CBHazeTransitionViewController.git
 	branch = master
-[submodule "ui/image/HyperImageView"]
-	path = ui/req.image/HyperImageView
+[submodule "freshman/ui/req.image/HyperImageView"]
+	path = freshman/ui/req.image/HyperImageView
 	url = https://github.com/xerxes235/HyperImageView.git
 	branch = master
-[submodule "ui/exhibition/PWParallaxScrollView"]
-	path = ui/req.parallaxScroll/PWParallaxScrollView
+[submodule "freshman/ui/req.parallaxScroll/PWParallaxScrollView"]
+	path = freshman/ui/req.parallaxScroll/PWParallaxScrollView
 	url = https://github.com/wpsteak/PWParallaxScrollView.git
 	branch = master
-[submodule "cloud/api/octokit.objc"]
-	path = cloud/api/octokit.objc
+[submodule "freshman/cloud/api/octokit.objc"]
+	path = freshman/cloud/api/octokit.objc
 	url = https://github.com/octokit/octokit.objc.git
 	branch = master
-[submodule "foundation/language/NSString-VTSubstringOccurrences"]
-	path = foundation/language/NSString-VTSubstringOccurrences
+[submodule "freshman/foundation/language/NSString-VTSubstringOccurrences"]
+	path = freshman/foundation/language/NSString-VTSubstringOccurrences
 	url = https://github.com/vtourraine/NSString-VTSubstringOccurrences.git
 	branch = master
-[submodule "ui/ticker/SBTickerView"]
-	path = ui/req.ticker/SBTickerView
+[submodule "freshman/ui/req.ticker/SBTickerView"]
+	path = freshman/ui/req.ticker/SBTickerView
 	url = https://github.com/blommegard/SBTickerView.git
 	branch = master
-[submodule "ui/graph/TEAChart"]
-	path = ui/req.chart_graph/TEAChart
+[submodule "freshman/ui/req.chart_graph/TEAChart"]
+	path = freshman/ui/req.chart_graph/TEAChart
 	url = https://github.com/xhacker/TEAChart.git
 	branch = master
-[submodule "ui/animation/PMTween"]
-	path = ui/req.animation/PMTween
+[submodule "freshman/ui/req.animation/PMTween"]
+	path = freshman/ui/req.animation/PMTween
 	url = https://github.com/poetmountain/PMTween.git
 	branch = master
-[submodule "ui/image/LVImageBrowser"]
-	path = ui/req.image/LVImageBrowser
+[submodule "freshman/ui/req.image/LVImageBrowser"]
+	path = freshman/ui/req.image/LVImageBrowser
 	url = https://github.com/CodeEagle/LVImageBrowser.git
 	branch = master
-[submodule "ui/req.menu/AKPickerView"]
-	path = ui/req.menu/AKPickerView
+[submodule "freshman/ui/req.menu/AKPickerView"]
+	path = freshman/ui/req.menu/AKPickerView
 	url = https://github.com/Akkyie/AKPickerView.git
 	branch = master
-[submodule "ui/pages/AMWaveTransition"]
-	path = ui/req.page2page/AMWaveTransition
+[submodule "freshman/ui/req.page2page/AMWaveTransition"]
+	path = freshman/ui/req.page2page/AMWaveTransition
 	url = https://github.com/andreamazz/AMWaveTransition.git
 	branch = master
-[submodule "ui/exhibition/HAPaperViewController"]
-	path = ui/req.page2page/HAPaperViewController
+[submodule "freshman/ui/req.page2page/HAPaperViewController"]
+	path = freshman/ui/req.page2page/HAPaperViewController
 	url = https://github.com/hebertialmeida/HAPaperViewController.git
 	branch = master
-[submodule "ui/date/CalendarIOS7"]
-	path = ui/req.date/CalendarIOS7
+[submodule "freshman/ui/req.date/CalendarIOS7"]
+	path = freshman/ui/req.date/CalendarIOS7
 	url = https://github.com/leverdeterre/CalendarIOS7.git
 	branch = master
-[submodule "ui/req.text/DDHTextView"]
-	path = ui/req.text/DDHTextView
+[submodule "freshman/ui/req.text/DDHTextView"]
+	path = freshman/ui/req.text/DDHTextView
 	url = https://github.com/dasdom/DDHTextView.git
 	branch = master
-[submodule "ui/date/FFCalendar"]
-	path = ui/req.date/FFCalendar
+[submodule "freshman/ui/req.date/FFCalendar"]
+	path = freshman/ui/req.date/FFCalendar
 	url = https://github.com/fggeraissate/FFCalendar.git
 	branch = master
-[submodule "ui/req.form/DCDataViews"]
-	path = ui/req.form/DCDataViews
+[submodule "freshman/ui/req.form/DCDataViews"]
+	path = freshman/ui/req.form/DCDataViews
 	url = https://github.com/daltoniam/DCDataViews.git
 	branch = master
-[submodule "ui/ext.UIActionSheet/AHKActionSheet"]
-	path = ui/ext.UIActionSheet/AHKActionSheet
+[submodule "freshman/ui/ext.UIActionSheet/AHKActionSheet"]
+	path = freshman/ui/ext.UIActionSheet/AHKActionSheet
 	url = https://github.com/fastred/AHKActionSheet.git
 	branch = master
-[submodule "ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout"]
-	path = ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout
+[submodule "freshman/ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout"]
+	path = freshman/ui/ext.UICollectionView/UICollectionViewLeftAlignedLayout
 	url = https://github.com/mokagio/UICollectionViewLeftAlignedLayout.git
 	branch = master
-[submodule "ui/req.chart_graph/GraphKit"]
-	path = ui/req.chart_graph/GraphKit
+[submodule "freshman/ui/req.chart_graph/GraphKit"]
+	path = freshman/ui/req.chart_graph/GraphKit
 	url = https://github.com/michalkonturek/GraphKit.git
 	branch = master
-[submodule "ui/req.page2page/SSStackedPageView"]
-	path = ui/req.page2page/SSStackedPageView
+[submodule "freshman/ui/req.page2page/SSStackedPageView"]
+	path = freshman/ui/req.page2page/SSStackedPageView
 	url = https://github.com/PlenipotentSS/SSStackedPageView.git
 	branch = master
-[submodule "ui/req.search/ILRemoteSearchBar"]
-	path = ui/req.search/ILRemoteSearchBar
+[submodule "freshman/ui/req.search/ILRemoteSearchBar"]
+	path = freshman/ui/req.search/ILRemoteSearchBar
 	url = https://github.com/Adrian2112/ILRemoteSearchBar.git
 	branch = master
-[submodule "cloud/personal/liquid-sdk-ios"]
-	path = cloud/personal/liquid-sdk-ios
+[submodule "freshman/cloud/personal/liquid-sdk-ios"]
+	path = freshman/cloud/personal/liquid-sdk-ios
 	url = https://github.com/lqd-io/liquid-sdk-ios.git
 	branch = master
-[submodule "ui/ext.UIStepper/SAStepperControl"]
-	path = ui/ext.UIStepper/SAStepperControl
+[submodule "freshman/ui/ext.UIStepper/SAStepperControl"]
+	path = freshman/ui/ext.UIStepper/SAStepperControl
 	url = https://github.com/shams-ahmed/SAStepperControl.git
 	branch = master
-[submodule "ui/ext.UIAlertView/AMSmoothAlert"]
-	path = ui/ext.UIAlertView/AMSmoothAlert
+[submodule "freshman/ui/ext.UIAlertView/AMSmoothAlert"]
+	path = freshman/ui/ext.UIAlertView/AMSmoothAlert
 	url = https://github.com/mtonio91/AMSmoothAlert.git
 	branch = master
-[submodule "ui/ext.UIImage/KBTemplateImage"]
-	path = ui/ext.UIImage/KBTemplateImage
+[submodule "freshman/ui/ext.UIImage/KBTemplateImage"]
+	path = freshman/ui/ext.UIImage/KBTemplateImage
 	url = https://github.com/kam800/KBTemplateImage.git
 	branch = master
-[submodule "ui/req.chart_graph/JCStockGraph"]
-	path = ui/req.chart_graph/JCStockGraph
+[submodule "freshman/ui/req.chart_graph/JCStockGraph"]
+	path = freshman/ui/req.chart_graph/JCStockGraph
 	url = https://github.com/jconst/JCStockGraph.git
 	branch = master
-[submodule "ui/req.message/JSQMessagesViewController"]
-	path = ui/req.message/JSQMessagesViewController
+[submodule "freshman/ui/req.message/JSQMessagesViewController"]
+	path = freshman/ui/req.message/JSQMessagesViewController
 	url = https://github.com/jessesquires/JSQMessagesViewController.git
 	branch = master
-[submodule "ui/req.image/GPUImage"]
-	path = ui/req.image/GPUImage
+[submodule "freshman/ui/req.image/GPUImage"]
+	path = freshman/ui/req.image/GPUImage
 	url = https://github.com/BradLarson/GPUImage.git
 	branch = master
-[submodule "ui/req.time/BEMAnalogClock"]
-	path = ui/req.time/BEMAnalogClock
+[submodule "freshman/ui/req.time/BEMAnalogClock"]
+	path = freshman/ui/req.time/BEMAnalogClock
 	url = https://github.com/Boris-Em/BEMAnalogClock.git
 	branch = master
-[submodule "foundation/language/AutoNSCoding"]
-	path = foundation/language/AutoNSCoding
+[submodule "freshman/foundation/language/AutoNSCoding"]
+	path = freshman/foundation/language/AutoNSCoding
 	url = https://github.com/shjborage/AutoNSCoding.git
 	branch = master
-[submodule "foundation/language/AutoCoding"]
-	path = foundation/language/AutoCoding
+[submodule "freshman/foundation/language/AutoCoding"]
+	path = freshman/foundation/language/AutoCoding
 	url = https://github.com/nicklockwood/AutoCoding.git
 	branch = master
-[submodule "ui/req.progressbar/ASProgressPopUpView"]
-	path = ui/req.progressbar/ASProgressPopUpView
+[submodule "freshman/ui/req.progressbar/ASProgressPopUpView"]
+	path = freshman/ui/req.progressbar/ASProgressPopUpView
 	url = https://github.com/alskipp/ASProgressPopUpView.git
 	branch = master
-[submodule "ui/ext.UIButton/CMDAwesomeButton"]
-	path = ui/ext.UIButton/CMDAwesomeButton
+[submodule "freshman/ui/ext.UIButton/CMDAwesomeButton"]
+	path = freshman/ui/ext.UIButton/CMDAwesomeButton
 	url = https://github.com/calebd/CMDAwesomeButton.git
 	branch = master
-[submodule "cloud/network/CocoaAsyncSocket"]
-	path = network/socket/CocoaAsyncSocket
+[submodule "junior/network/socket/CocoaAsyncSocket"]
+	path = junior/network/socket/CocoaAsyncSocket
 	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
 	branch = master
-[submodule "ui/ext.UINavigationBar/CustomNavigationBar"]
-	path = ui/ext.UINavigationBar/CustomNavigationBar
+[submodule "freshman/ui/ext.UINavigationBar/CustomNavigationBar"]
+	path = freshman/ui/ext.UINavigationBar/CustomNavigationBar
 	url = https://github.com/jimple/CustomNavigationBar.git
 	branch = master
-[submodule "cloud/protocol/CocoaSSDP"]
-	path = network/appLayer/CocoaSSDP
+[submodule "junior/network/appLayer/CocoaSSDP"]
+	path = junior/network/appLayer/CocoaSSDP
 	url = https://github.com/sboisson/CocoaSSDP.git
 	branch = master
-[submodule "ui/req.page2page/TGLStackedViewController"]
-	path = ui/req.page2page/TGLStackedViewController
+[submodule "freshman/ui/req.page2page/TGLStackedViewController"]
+	path = freshman/ui/req.page2page/TGLStackedViewController
 	url = https://github.com/gleue/TGLStackedViewController.git
 	branch = master
-[submodule "app/life/AYi"]
-	path = app/life/AYi
+[submodule "junior/app/life/AYi"]
+	path = junior/app/life/AYi
 	url = https://github.com/xu54/AYi.git
 	branch = master
-[submodule "ui/ext.UITableView/CleanTableViewDataSource"]
-	path = ui/ext.UITableView/CleanTableViewDataSource
+[submodule "freshman/ui/ext.UITableView/CleanTableViewDataSource"]
+	path = freshman/ui/ext.UITableView/CleanTableViewDataSource
 	url = https://github.com/phatle/CleanTableViewDataSource.git
 	branch = master
-[submodule "network/appLayer/GBLoading"]
-	path = network/appLayer/GBLoading
+[submodule "junior/network/appLayer/GBLoading"]
+	path = junior/network/appLayer/GBLoading
 	url = https://github.com/lmirosevic/GBLoading.git
 	branch = master
-[submodule "ui/req.checkbox/VDMultiplePickerView"]
-	path = ui/req.select/VDMultiplePickerView
+[submodule "freshman/ui/req.select/VDMultiplePickerView"]
+	path = freshman/ui/req.select/VDMultiplePickerView
 	url = https://github.com/vilyever/VDMultiplePickerView.git
 	branch = master
-[submodule "foundation/language/GBToolbox"]
-	path = foundation/language/GBToolbox
+[submodule "freshman/foundation/language/GBToolbox"]
+	path = freshman/foundation/language/GBToolbox
 	url = https://github.com/lmirosevic/GBToolbox.git
 	branch = master
-[submodule "foundation/language/GBStorageController"]
-	path = foundation/language/GBStorageController
+[submodule "freshman/foundation/language/GBStorageController"]
+	path = freshman/foundation/language/GBStorageController
 	url = https://github.com/lmirosevic/GBStorageController.git
 	branch = master
-[submodule "cloud/sync/GBCloudBoxClient"]
-	path = cloud/sync/GBCloudBoxClient
+[submodule "freshman/cloud/sync/GBCloudBoxClient"]
+	path = freshman/cloud/sync/GBCloudBoxClient
 	url = https://github.com/lmirosevic/GBCloudBoxClient.git
 	branch = master
-[submodule "ui/req.animation/GBStickyViews"]
-	path = ui/req.animation/GBStickyViews
+[submodule "freshman/ui/req.animation/GBStickyViews"]
+	path = freshman/ui/req.animation/GBStickyViews
 	url = https://github.com/lmirosevic/GBStickyViews.git
 	branch = master
-[submodule "ui/req.statusbar/JDStatusBarNotification"]
-	path = ui/req.statusbar/JDStatusBarNotification
+[submodule "freshman/ui/req.statusbar/JDStatusBarNotification"]
+	path = freshman/ui/req.statusbar/JDStatusBarNotification
 	url = https://github.com/jaydee3/JDStatusBarNotification.git
 	branch = master
-[submodule "ui/ext.UIButton/ButtonIndicatorView"]
-	path = ui/ext.UIButton/ButtonIndicatorView
+[submodule "freshman/ui/ext.UIButton/ButtonIndicatorView"]
+	path = freshman/ui/ext.UIButton/ButtonIndicatorView
 	url = https://github.com/liaojinxing/ButtonIndicatorView.git
 	branch = master
-[submodule "network/browser/SVWebViewController"]
-	path = network/browser/SVWebViewController
+[submodule "junior/network/browser/SVWebViewController"]
+	path = junior/network/browser/SVWebViewController
 	url = https://github.com/samvermette/SVWebViewController.git
 	branch = master
-[submodule "ui/ext.UIView/GFTransparentView"]
-	path = ui/ext.UIView/GFTransparentView
+[submodule "freshman/ui/ext.UIView/GFTransparentView"]
+	path = freshman/ui/ext.UIView/GFTransparentView
 	url = https://github.com/fila95/GFTransparentView.git
 	branch = master
-[submodule "ui/req.image/PhotoZoom"]
-	path = ui/req.image/PhotoZoom
+[submodule "freshman/ui/req.image/PhotoZoom"]
+	path = freshman/ui/req.image/PhotoZoom
 	url = https://github.com/brennanMKE/PhotoZoom.git
 	branch = master
-[submodule "database/sqlite/DCFSQLite"]
-	path = database/sqlite/DCFSQLite
+[submodule "junior/database/sqlite/DCFSQLite"]
+	path = junior/database/sqlite/DCFSQLite
 	url = https://github.com/diegocfreire/DCFSQLite.git
 	branch = master
-[submodule "ui/req.keyboard/ACEAutocompleteBar"]
-	path = ui/req.keyboard/ACEAutocompleteBar
+[submodule "freshman/ui/req.keyboard/ACEAutocompleteBar"]
+	path = freshman/ui/req.keyboard/ACEAutocompleteBar
 	url = https://github.com/acerbetti/ACEAutocompleteBar.git
 	branch = master
-[submodule "ui/req.progressbar/GradientProgressView"]
-	path = ui/req.progressbar/GradientProgressView
+[submodule "freshman/ui/req.progressbar/GradientProgressView"]
+	path = freshman/ui/req.progressbar/GradientProgressView
 	url = https://github.com/nrj/GradientProgressView.git
 	branch = master
-[submodule "ui/req.ticker/MAOFlipViewController"]
-	path = ui/req.ticker/MAOFlipViewController
+[submodule "freshman/ui/req.ticker/MAOFlipViewController"]
+	path = freshman/ui/req.ticker/MAOFlipViewController
 	url = https://github.com/nishimao/MAOFlipViewController.git
 	branch = master
-[submodule "ui/req.text/RQShineLabel"]
-	path = ui/req.text/RQShineLabel
+[submodule "freshman/ui/req.text/RQShineLabel"]
+	path = freshman/ui/req.text/RQShineLabel
 	url = https://github.com/zipme/RQShineLabel.git
 	branch = master
-[submodule "ui/req.image/A3ParallaxScrollView"]
-	path = ui/req.image/A3ParallaxScrollView
+[submodule "freshman/ui/req.image/A3ParallaxScrollView"]
+	path = freshman/ui/req.image/A3ParallaxScrollView
 	url = https://github.com/allaboutapps/A3ParallaxScrollView.git
 	branch = master
-[submodule "network/appLayer/dm-request"]
-	path = network/appLayer/dm-request
+[submodule "junior/network/appLayer/dm-request"]
+	path = junior/network/appLayer/dm-request
 	url = https://github.com/devmode/dm-request.git
 	branch = master
-[submodule "foundation/language/dm-foundation"]
-	path = foundation/language/dm-foundation
+[submodule "freshman/foundation/language/dm-foundation"]
+	path = freshman/foundation/language/dm-foundation
 	url = https://github.com/devmode/dm-foundation.git
 	branch = master
-[submodule "ui/ext.UIView/CustomScrollView"]
-	path = ui/ext.UIView/CustomScrollView
+[submodule "freshman/ui/ext.UIView/CustomScrollView"]
+	path = freshman/ui/ext.UIView/CustomScrollView
 	url = https://github.com/ole/CustomScrollView.git
 	branch = master
-[submodule "foundation/runtime/Aspects"]
-	path = foundation/runtime/Aspects
+[submodule "freshman/foundation/runtime/Aspects"]
+	path = freshman/foundation/runtime/Aspects
 	url = https://github.com/steipete/Aspects.git
 	branch = master
-[submodule "ui/req.menu/RUMSlidingMenu"]
-	path = ui/req.menu/RUMSlidingMenu
+[submodule "freshman/ui/req.menu/RUMSlidingMenu"]
+	path = freshman/ui/req.menu/RUMSlidingMenu
 	url = https://github.com/timsearle/RUMSlidingMenu.git
 	branch = master
-[submodule "ui/ext.UITableView/SAScrollTableViewCell"]
-	path = ui/ext.UITableView/SAScrollTableViewCell
+[submodule "freshman/ui/ext.UITableView/SAScrollTableViewCell"]
+	path = freshman/ui/ext.UITableView/SAScrollTableViewCell
 	url = https://github.com/shams-ahmed/SAScrollTableViewCell.git
 	branch = master
-[submodule "network/JSON/NSDictionary-Accessors"]
-	path = network/JSON/NSDictionary-Accessors
+[submodule "junior/network/JSON/NSDictionary-Accessors"]
+	path = junior/network/JSON/NSDictionary-Accessors
 	url = https://github.com/allenhsu/NSDictionary-Accessors.git
 	branch = master
-[submodule "ui/req.page2page/PSStackedView"]
-	path = ui/req.page2page/PSStackedView
+[submodule "freshman/ui/req.page2page/PSStackedView"]
+	path = freshman/ui/req.page2page/PSStackedView
 	url = https://github.com/steipete/PSStackedView.git
 	branch = master
-[submodule "ui/req.share/HBShare"]
-	path = ui/req.share/HBShare
+[submodule "freshman/ui/req.share/HBShare"]
+	path = freshman/ui/req.share/HBShare
 	url = https://github.com/lzyy/HBShare.git
 	branch = master
-[submodule "coredata/ACECoreDataManager"]
-	path = coredata/ACECoreDataManager
+[submodule "freshman/coredata/ACECoreDataManager"]
+	path = freshman/coredata/ACECoreDataManager
 	url = https://github.com/acerbetti/ACECoreDataManager.git
 	branch = master
-[submodule "ui/req.animation/DEInfiniteTileMarqueeView"]
-	path = ui/req.animation/DEInfiniteTileMarqueeView
+[submodule "freshman/ui/req.animation/DEInfiniteTileMarqueeView"]
+	path = freshman/ui/req.animation/DEInfiniteTileMarqueeView
 	url = https://github.com/dreamengine/DEInfiniteTileMarqueeView.git
 	branch = master
-[submodule "app/todo/Daily5"]
-	path = app/todo/Daily5
+[submodule "junior/app/todo/Daily5"]
+	path = junior/app/todo/Daily5
 	url = https://github.com/azamsharp/Daily5.git
 	branch = master
-[submodule "doc/article/dev-blog"]
-	path = doc/article/dev-blog
+[submodule "freshman/doc/article/dev-blog"]
+	path = freshman/doc/article/dev-blog
 	url = https://github.com/nixzhu/dev-blog.git
 	branch = master
-[submodule "ui/req.menu/DKScrollingTabController"]
-	path = ui/req.menu/DKScrollingTabController
+[submodule "freshman/ui/req.menu/DKScrollingTabController"]
+	path = freshman/ui/req.menu/DKScrollingTabController
 	url = https://github.com/dkhamsing/DKScrollingTabController.git
 	branch = master
-[submodule "app/social/Dollarss"]
-	path = app/social/Dollarss
+[submodule "junior/app/social/Dollarss"]
+	path = junior/app/social/Dollarss
 	url = https://github.com/adow/Dollarss.git
 	branch = master
-[submodule "ui/ext.UIImage/EasyImage"]
-	path = ui/ext.UIImage/EasyImage
+[submodule "freshman/ui/ext.UIImage/EasyImage"]
+	path = freshman/ui/ext.UIImage/EasyImage
 	url = https://github.com/liaojinxing/EasyImage.git
 	branch = master
-[submodule "ui/req.page2page/FMPageViewController"]
-	path = ui/req.page2page/FMPageViewController
+[submodule "freshman/ui/req.page2page/FMPageViewController"]
+	path = freshman/ui/req.page2page/FMPageViewController
 	url = https://github.com/DeanCarter/FMPageViewController.git
 	branch = master
-[submodule "ui/req.lock/GBSlideOutToUnlockView"]
-	path = ui/req.lock/GBSlideOutToUnlockView
+[submodule "freshman/ui/req.lock/GBSlideOutToUnlockView"]
+	path = freshman/ui/req.lock/GBSlideOutToUnlockView
 	url = https://github.com/barbosa/GBSlideOutToUnlockView.git
 	branch = master
-[submodule "distribute/update/HockeyKit"]
-	path = distribute/update/HockeyKit
+[submodule "junior/distribute/update/HockeyKit"]
+	path = junior/distribute/update/HockeyKit
 	url = https://github.com/TheRealKerni/HockeyKit.git
 	branch = master
-[submodule "foundation/template/iOS-boilerplate"]
-	path = foundation/template/iOS-boilerplate
+[submodule "freshman/foundation/template/iOS-boilerplate"]
+	path = freshman/foundation/template/iOS-boilerplate
 	url = https://github.com/gimenete/iOS-boilerplate.git
 	branch = master
-[submodule "foundation/authorize/JLPermissions"]
-	path = foundation/authorize/JLPermissions
+[submodule "freshman/foundation/authorize/JLPermissions"]
+	path = freshman/foundation/authorize/JLPermissions
 	url = https://github.com/jlaws/JLPermissions.git
 	branch = master
-[submodule "app/news/XTNews"]
-	path = app/news/XTNews
+[submodule "junior/app/news/XTNews"]
+	path = junior/app/news/XTNews
 	url = https://github.com/xushao1990/XTNews.git
 	branch = master
-[submodule "doc/WWDC/WWDC_2013_Video_Subtitle"]
-	path = doc/WWDC/WWDC_2013_Video_Subtitle
+[submodule "freshman/doc/WWDC/WWDC_2013_Video_Subtitle"]
+	path = freshman/doc/WWDC/WWDC_2013_Video_Subtitle
 	url = https://github.com/qiaoxueshi/WWDC_2013_Video_Subtitle.git
 	branch = master
-[submodule "app/social/VZ"]
-	path = app/social/VZ
+[submodule "junior/app/social/VZ"]
+	path = junior/app/social/VZ
 	url = https://github.com/trawor/VZ.git
 	branch = master
-[submodule "ui/req.keyboard/WKInputAccessoryView"]
-	path = ui/req.keyboard/WKInputAccessoryView
+[submodule "freshman/ui/req.keyboard/WKInputAccessoryView"]
+	path = freshman/ui/req.keyboard/WKInputAccessoryView
 	url = https://github.com/adow/WKInputAccessoryView.git
 	branch = master
-[submodule "ui/req.page2page/ViewDeck"]
-	path = ui/req.page2page/ViewDeck
+[submodule "freshman/ui/req.page2page/ViewDeck"]
+	path = freshman/ui/req.page2page/ViewDeck
 	url = https://github.com/Inferis/ViewDeck.git
 	branch = master
-[submodule "doc/codeguide/objective-c-style-guide_wantedly.com"]
-	path = doc/codeguide/objective-c-style-guide_wantedly.com
+[submodule "freshman/doc/codeguide/objective-c-style-guide_wantedly.com"]
+	path = freshman/doc/codeguide/objective-c-style-guide_wantedly.com
 	url = https://github.com/wantedly/objective-c-style-guide.git
 	branch = master
-[submodule "doc/codeguide/objective-c-style-guide_RobotsAndPencils"]
-	path = doc/codeguide/objective-c-style-guide_RobotsAndPencils
+[submodule "freshman/doc/codeguide/objective-c-style-guide_RobotsAndPencils"]
+	path = freshman/doc/codeguide/objective-c-style-guide_RobotsAndPencils
 	url = https://github.com/RobotsAndPencils/objective-c-style-guide.git
 	branch = master
-[submodule "doc/codeguide/Objective-C-Style-Guide_Doejo"]
-	path = doc/codeguide/Objective-C-Style-Guide_Doejo
+[submodule "freshman/doc/codeguide/Objective-C-Style-Guide_Doejo"]
+	path = freshman/doc/codeguide/Objective-C-Style-Guide_Doejo
 	url = https://github.com/doejo/Objective-C-Style-Guide.git
 	branch = master
-[submodule "doc/codeguide/objective-c-style-guide_raywenderlich.com"]
-	path = doc/codeguide/objective-c-style-guide_raywenderlich.com
+[submodule "freshman/doc/codeguide/objective-c-style-guide_raywenderlich.com"]
+	path = freshman/doc/codeguide/objective-c-style-guide_raywenderlich.com
 	url = https://github.com/raywenderlich/objective-c-style-guide.git
 	branch = master
-[submodule "doc/codeguide/objective-c-style-guide_NYTimes"]
-	path = doc/codeguide/objective-c-style-guide_NYTimes
+[submodule "freshman/doc/codeguide/objective-c-style-guide_NYTimes"]
+	path = freshman/doc/codeguide/objective-c-style-guide_NYTimes
 	url = https://github.com/NYTimes/objective-c-style-guide.git
 	branch = master
-[submodule "app/social/oschina-iphone-app"]
-	path = app/social/oschina-iphone-app
+[submodule "junior/app/social/oschina-iphone-app"]
+	path = junior/app/social/oschina-iphone-app
 	url = http://git.oschina.net/oschina/iphone-app.git
 	branch = master
-[submodule "cloud/payment/PaymentKit"]
-	path = cloud/payment/PaymentKit
+[submodule "freshman/cloud/payment/PaymentKit"]
+	path = freshman/cloud/payment/PaymentKit
 	url = https://github.com/stripe/PaymentKit.git
 	branch = master
-[submodule "ui/req.page2page/OpenFlow"]
-	path = ui/req.page2page/OpenFlow
+[submodule "freshman/ui/req.page2page/OpenFlow"]
+	path = freshman/ui/req.page2page/OpenFlow
 	url = https://github.com/thefaj/OpenFlow.git
 	branch = master
-[submodule "ui/req.message/ChatMessageTableViewController"]
-	path = ui/req.message/ChatMessageTableViewController
+[submodule "freshman/ui/req.message/ChatMessageTableViewController"]
+	path = freshman/ui/req.message/ChatMessageTableViewController
 	url = https://github.com/EvoRobin/ChatMessageTableViewController.git
 	branch = master
-[submodule "ui/req.message/ssmessagesviewcontroller"]
-	path = ui/req.message/ssmessagesviewcontroller
+[submodule "freshman/ui/req.message/ssmessagesviewcontroller"]
+	path = freshman/ui/req.message/ssmessagesviewcontroller
 	url = https://github.com/soffes/ssmessagesviewcontroller.git
 	branch = master
-[submodule "ui/req.message/MessageDisplayKit"]
-	path = ui/req.message/MessageDisplayKit
+[submodule "freshman/ui/req.message/MessageDisplayKit"]
+	path = freshman/ui/req.message/MessageDisplayKit
 	url = https://github.com/xhzengAIB/MessageDisplayKit.git
 	branch = master
-[submodule "app/game/MatchIt"]
-	path = app/game/MatchIt
+[submodule "junior/app/game/MatchIt"]
+	path = junior/app/game/MatchIt
 	url = https://github.com/hxy060799/MatchIt.git
 	branch = master
-[submodule "ui/req.progressbar/JWGCircleCounter"]
-	path = ui/req.progressbar/JWGCircleCounter
+[submodule "freshman/ui/req.progressbar/JWGCircleCounter"]
+	path = freshman/ui/req.progressbar/JWGCircleCounter
 	url = https://github.com/johngraham262/JWGCircleCounter.git
 	branch = master
-[submodule "ui/req.animation/pop"]
-	path = ui/req.animation/pop
+[submodule "freshman/ui/req.animation/pop"]
+	path = freshman/ui/req.animation/pop
 	url = https://github.com/facebook/pop.git
 	branch = master
-[submodule "ui/ext.UIImage/NHLinearShadow"]
-	path = ui/ext.UIImage/NHLinearShadow
+[submodule "freshman/ui/ext.UIImage/NHLinearShadow"]
+	path = freshman/ui/ext.UIImage/NHLinearShadow
 	url = https://github.com/nthegedus/NHLinearShadow.git
 	branch = master
-[submodule "ui/req.progressbar/MWKProgressIndicator"]
-	path = ui/req.progressbar/MWKProgressIndicator
+[submodule "freshman/ui/req.progressbar/MWKProgressIndicator"]
+	path = freshman/ui/req.progressbar/MWKProgressIndicator
 	url = https://github.com/mwkoelb/MWKProgressIndicator.git
 	branch = master
-[submodule "foundation/authorize/PromiseKit"]
-	path = foundation/authorize/PromiseKit
+[submodule "freshman/foundation/authorize/PromiseKit"]
+	path = freshman/foundation/authorize/PromiseKit
 	url = https://github.com/mxcl/PromiseKit.git
 	branch = master
-[submodule "ui/req.text/RSReadingBoard"]
-	path = ui/req.text/RSReadingBoard
+[submodule "freshman/ui/req.text/RSReadingBoard"]
+	path = freshman/ui/req.text/RSReadingBoard
 	url = https://github.com/yeahdongcn/RSReadingBoard.git
 	branch = master
-[submodule "ui/req.page2page/UIScrollSlidingPages"]
-	path = ui/req.page2page/UIScrollSlidingPages
+[submodule "freshman/ui/req.page2page/UIScrollSlidingPages"]
+	path = freshman/ui/req.page2page/UIScrollSlidingPages
 	url = https://github.com/TomThorpe/UIScrollSlidingPages.git
 	branch = master
-[submodule "ui/req.audio/SCSiriWaveformView"]
-	path = ui/req.audio/SCSiriWaveformView
+[submodule "freshman/ui/req.audio/SCSiriWaveformView"]
+	path = freshman/ui/req.audio/SCSiriWaveformView
 	url = https://github.com/stefanceriu/SCSiriWaveformView.git
 	branch = master
-[submodule "app/game/SharpShooter"]
-	path = app/game/SharpShooter
+[submodule "junior/app/game/SharpShooter"]
+	path = junior/app/game/SharpShooter
 	url = https://github.com/liaojinxing/SharpShooter.git
 	branch = master
-[submodule "distribute/tool/shenzhen"]
-	path = distribute/tool/shenzhen
+[submodule "junior/distribute/tool/shenzhen"]
+	path = junior/distribute/tool/shenzhen
 	url = https://github.com/nomad/shenzhen.git
 	branch = master
-[submodule "network/socket/SocketRocket"]
-	path = network/socket/SocketRocket
+[submodule "junior/network/socket/SocketRocket"]
+	path = junior/network/socket/SocketRocket
 	url = https://github.com/square/SocketRocket.git
 	branch = master
-[submodule "ui/req.text/TextFilter"]
-	path = ui/req.text/TextFilter
+[submodule "freshman/ui/req.text/TextFilter"]
+	path = freshman/ui/req.text/TextFilter
 	url = https://github.com/detecyang/TextFilter.git
 	branch = master
-[submodule "ui/req.checkbox/TNCheckBoxGroup"]
-	path = ui/req.select/TNCheckBoxGroup
+[submodule "freshman/ui/req.select/TNCheckBoxGroup"]
+	path = freshman/ui/req.select/TNCheckBoxGroup
 	url = https://github.com/frederik-jacques/TNCheckBoxGroup.git
 	branch = master
-[submodule "ui/ext.UIView/UIView-Animation-Extensions"]
-	path = ui/ext.UIView/UIView-Animation-Extensions
+[submodule "freshman/ui/ext.UIView/UIView-Animation-Extensions"]
+	path = freshman/ui/ext.UIView/UIView-Animation-Extensions
 	url = https://github.com/r3econ/UIView-Animation-Extensions.git
 	branch = master
-[submodule "ui/req.refresh/RefreshableScrollView"]
-	path = ui/req.refresh/RefreshableScrollView
+[submodule "freshman/ui/req.refresh/RefreshableScrollView"]
+	path = freshman/ui/req.refresh/RefreshableScrollView
 	url = https://github.com/adib/RefreshableScrollView.git
 	branch = master
-[submodule "ui/req.chart_graph/CSChartsView"]
-	path = ui/req.chart_graph/CSChartsView
+[submodule "freshman/ui/req.chart_graph/CSChartsView"]
+	path = freshman/ui/req.chart_graph/CSChartsView
 	url = https://github.com/sk344208651/CSChartsView.git
 	branch = master
-[submodule "ui/req.parallaxScroll/JMEParallaxView"]
-	path = ui/req.parallaxScroll/JMEParallaxView
+[submodule "freshman/ui/req.parallaxScroll/JMEParallaxView"]
+	path = freshman/ui/req.parallaxScroll/JMEParallaxView
 	url = https://github.com/JmeHsieh/JMEParallaxView.git
 	branch = master
-[submodule "ui/req.keyboard/DAKeyboardControl"]
-	path = ui/req.keyboard/DAKeyboardControl
+[submodule "freshman/ui/req.keyboard/DAKeyboardControl"]
+	path = freshman/ui/req.keyboard/DAKeyboardControl
 	url = https://github.com/danielamitay/DAKeyboardControl.git
 	branch = master
-[submodule "ui/req.text/KTSecretTextView"]
-	path = ui/req.text/KTSecretTextView
+[submodule "freshman/ui/req.text/KTSecretTextView"]
+	path = freshman/ui/req.text/KTSecretTextView
 	url = https://github.com/kenshin03/KTSecretTextView.git
 	branch = master
-[submodule "cloud/security/SecureMappingKit"]
-	path = cloud/security/SecureMappingKit
+[submodule "freshman/cloud/security/SecureMappingKit"]
+	path = freshman/cloud/security/SecureMappingKit
 	url = https://github.com/leverdeterre/SecureMappingKit.git
 	branch = master
-[submodule "network/browser/PAMWebBrowser"]
-	path = network/browser/PAMWebBrowser
+[submodule "junior/network/browser/PAMWebBrowser"]
+	path = junior/network/browser/PAMWebBrowser
 	url = https://github.com/PAM-AS/PAMWebBrowser.git
 	branch = master
-[submodule "ui/ext.UIButton/UITintedButton"]
-	path = ui/ext.UIButton/UITintedButton
+[submodule "freshman/ui/ext.UIButton/UITintedButton"]
+	path = freshman/ui/ext.UIButton/UITintedButton
 	url = https://github.com/filipstefansson/UITintedButton.git
 	branch = master
-[submodule "location/utilities/Geo-Utilities"]
-	path = location/utilities/Geo-Utilities
+[submodule "senior/location/utilities/Geo-Utilities"]
+	path = senior/location/utilities/Geo-Utilities
 	url = https://github.com/Koolistov/Geo-Utilities.git
 	branch = master
-[submodule "app/social/JLOSChina-iPhone"]
-	path = app/social/JLOSChina-iPhone
+[submodule "junior/app/social/JLOSChina-iPhone"]
+	path = junior/app/social/JLOSChina-iPhone
 	url = http://git.oschina.net/jimneylee/JLOSChina-iPhone.git
 	branch = master
-[submodule "ui/req.text/LazyFadeInView"]
-	path = ui/req.text/LazyFadeInView
+[submodule "freshman/ui/req.text/LazyFadeInView"]
+	path = freshman/ui/req.text/LazyFadeInView
 	url = https://github.com/itouch2/LazyFadeInView.git
 	branch = master
-[submodule "ui/req.chart_graph/TWRCharts"]
-	path = ui/req.chart_graph/TWRCharts
+[submodule "freshman/ui/req.chart_graph/TWRCharts"]
+	path = freshman/ui/req.chart_graph/TWRCharts
 	url = https://github.com/chasseurmic/TWRCharts.git
 	branch = master
-[submodule "distribute/update/SSVC"]
-	path = distribute/update/SSVC
+[submodule "junior/distribute/update/SSVC"]
+	path = junior/distribute/update/SSVC
 	url = https://github.com/mrtom/SSVC.git
 	branch = master
-[submodule "ui/req.image/GDRSImageCache"]
-	path = ui/req.image/GDRSImageCache
+[submodule "freshman/ui/req.image/GDRSImageCache"]
+	path = freshman/ui/req.image/GDRSImageCache
 	url = https://github.com/gabrielar/GDRSImageCache.git
 	branch = master
-[submodule "ui/req.animation/VCTransitionsLibrary"]
-	path = ui/req.animation/VCTransitionsLibrary
+[submodule "freshman/ui/req.animation/VCTransitionsLibrary"]
+	path = freshman/ui/req.animation/VCTransitionsLibrary
 	url = https://github.com/ColinEberhardt/VCTransitionsLibrary.git
 	branch = master
-[submodule "ui/req.snippets/FSI"]
-	path = ui/req.snippets/FSI
+[submodule "freshman/ui/req.snippets/FSI"]
+	path = freshman/ui/req.snippets/FSI
 	url = https://github.com/tbaranes/FSI.git
 	branch = master
-[submodule "ui/req.select/ActionSheetPicker"]
-	path = ui/req.select/ActionSheetPicker
+[submodule "freshman/ui/req.select/ActionSheetPicker"]
+	path = freshman/ui/req.select/ActionSheetPicker
 	url = https://github.com/TimCinel/ActionSheetPicker.git
 	branch = master
-[submodule "ui/ext.UIActionSheet/DoActionSheet"]
-	path = ui/ext.UIActionSheet/DoActionSheet
+[submodule "freshman/ui/ext.UIActionSheet/DoActionSheet"]
+	path = freshman/ui/ext.UIActionSheet/DoActionSheet
 	url = https://github.com/donobono/DoActionSheet.git
 	branch = master
-[submodule "ui/ext.UIActionSheet/RDActionSheet"]
-	path = ui/ext.UIActionSheet/RDActionSheet
+[submodule "freshman/ui/ext.UIActionSheet/RDActionSheet"]
+	path = freshman/ui/ext.UIActionSheet/RDActionSheet
 	url = https://github.com/reddavis/RDActionSheet.git
 	branch = master
-[submodule "ui/ext.UIActionSheet/DJWActionSheet"]
-	path = ui/ext.UIActionSheet/DJWActionSheet
+[submodule "freshman/ui/ext.UIActionSheet/DJWActionSheet"]
+	path = freshman/ui/ext.UIActionSheet/DJWActionSheet
 	url = https://github.com/danwilliams64/DJWActionSheet.git
 	branch = master
-[submodule "ui/req.text/DSTextEntryValidation"]
-	path = ui/req.text/DSTextEntryValidation
+[submodule "freshman/ui/req.text/DSTextEntryValidation"]
+	path = freshman/ui/req.text/DSTextEntryValidation
 	url = https://github.com/DocuSignDev/DSTextEntryValidation.git
 	branch = master
-[submodule "ui/req.statusbar/Informative"]
-	path = ui/req.statusbar/Informative
+[submodule "freshman/ui/req.statusbar/Informative"]
+	path = freshman/ui/req.statusbar/Informative
 	url = https://github.com/davidlawson/Informative.git
 	branch = master
-[submodule "ui/ext.UIView/UIViewShadow"]
-	path = ui/ext.UIView/UIViewShadow
+[submodule "freshman/ui/ext.UIView/UIViewShadow"]
+	path = freshman/ui/ext.UIView/UIViewShadow
 	url = https://github.com/grigaci/UIViewShadow.git
 	branch = master
-[submodule "ui/req.animation/DynamicXray"]
-	path = ui/req.animation/DynamicXray
+[submodule "freshman/ui/req.animation/DynamicXray"]
+	path = freshman/ui/req.animation/DynamicXray
 	url = https://github.com/chrismiles/DynamicXray.git
 	branch = master
-[submodule "perfermence/optimization/splitforce"]
-	path = perfermence/optimization/splitforce
+[submodule "senior/perfermence/optimization/splitforce"]
+	path = senior/perfermence/optimization/splitforce
 	url = https://bitbucket.org/splitforce/splitforce.git
 	branch = master
-[submodule "ui/req.animation/BCMeshTransformView"]
-	path = ui/req.animation/BCMeshTransformView
+[submodule "freshman/ui/req.animation/BCMeshTransformView"]
+	path = freshman/ui/req.animation/BCMeshTransformView
 	url = https://github.com/Ciechan/BCMeshTransformView.git
 	branch = master
-[submodule "ui/ext.UIView/CATransform3D-Test"]
-	path = ui/ext.UIView/CATransform3D-Test
+[submodule "freshman/ui/ext.UIView/CATransform3D-Test"]
+	path = freshman/ui/ext.UIView/CATransform3D-Test
 	url = https://github.com/honcheng/CATransform3D-Test.git
 	branch = master
-[submodule "ui/req.menu/LHSlideBar"]
-	path = ui/req.menu/LHSlideBar
+[submodule "freshman/ui/req.menu/LHSlideBar"]
+	path = freshman/ui/req.menu/LHSlideBar
 	url = https://github.com/Baza207/LHSlideBar.git
 	branch = master
-[submodule "graphic/vector-drawing/TouchVG"]
-	path = graphic/vector-drawing/TouchVG
+[submodule "junior/graphic/vector-drawing/TouchVG"]
+	path = junior/graphic/vector-drawing/TouchVG
 	url = https://github.com/touchvg/TouchVG.git
 	branch = master
-[submodule "ui/req.thumbnail/MERThumbnailKit"]
-	path = ui/req.thumbnail/MERThumbnailKit
+[submodule "freshman/ui/req.thumbnail/MERThumbnailKit"]
+	path = freshman/ui/req.thumbnail/MERThumbnailKit
 	url = https://github.com/MaestroElearning/MERThumbnailKit.git
 	branch = master
-[submodule "ui/req.image/BASSquareCropper"]
-	path = ui/req.image/BASSquareCropper
+[submodule "freshman/ui/req.image/BASSquareCropper"]
+	path = freshman/ui/req.image/BASSquareCropper
 	url = https://github.com/Stakenborg/BASSquareCropper.git
 	branch = master
-[submodule "ui/req.select/MCSFishEye"]
-	path = ui/req.select/MCSFishEye
+[submodule "freshman/ui/req.select/MCSFishEye"]
+	path = freshman/ui/req.select/MCSFishEye
 	url = https://github.com/macoscope/MCSFishEye.git
 	branch = master
-[submodule "ui/req.progressbar/FFCircularProgressView"]
-	path = ui/req.progressbar/FFCircularProgressView
+[submodule "freshman/ui/req.progressbar/FFCircularProgressView"]
+	path = freshman/ui/req.progressbar/FFCircularProgressView
 	url = https://github.com/elbryan/FFCircularProgressView.git
 	branch = master
-[submodule "ui/ext.UIActionSheet/MTDActionSheet"]
-	path = ui/ext.UIActionSheet/MTDActionSheet
+[submodule "freshman/ui/ext.UIActionSheet/MTDActionSheet"]
+	path = freshman/ui/ext.UIActionSheet/MTDActionSheet
 	url = https://github.com/myell0w/MTDActionSheet.git
 	branch = master
