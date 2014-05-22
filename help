@@ -40,6 +40,10 @@ case $1 in
         git submodule foreach git fetch origin
         exit 0
         ;;
+    5 )
+        cat -n .gitmodules |awk -f subm.awk
+        exit 0
+        ;;
 esac
 
 echo
@@ -50,4 +54,5 @@ echo 1: list submodules by path
 echo 2: list submodules by size
 echo 3: list submodules by author
 echo 4: update submodules with git fetch , no pull
+echo 5: check .gitmodules file if name is eque path 
 echo ==========================================
