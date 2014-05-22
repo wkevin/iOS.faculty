@@ -6,15 +6,13 @@
 
 ## AHKActionSheet
 
-<table>
-<tr>
-<img src ="https://raw.githubusercontent.com/fastred/AHKActionSheet/master/example.gif" alt="ActionSheet Reveal" width=320pixels align="middle"/>
-</tr>
-<tr>
+<table><tr><td width=50%>
+<img src ="https://raw.githubusercontent.com/fastred/AHKActionSheet/master/example.gif"/>
+</td><td  width=50%>
 <a   href="http://wkevin.qiniudn.com/Blog_ActionSheet-Reveal.png" title="点击放大">
-<img src ="http://wkevin.qiniudn.com/Blog_ActionSheet-Reveal.png" alt="ActionSheet Reveal 显示图" height=568pixels align="middle"/></a>
-</tr>
-</table>
+<img src ="http://wkevin.qiniudn.com/Blog_ActionSheet-Reveal.png" alt="ActionSheet Reveal 显示图" align="middle"/></a>
+</td></tr></table>
+
 
 ### Feature
 
@@ -89,4 +87,53 @@ AHKActionSheet Class：
 
 **UIWindow+AHKAdditions.h/m**
 
-实现抓取 window 当前快照的功能：`- (UIImage *)ahk_snapshot`
+实现抓取 window 当前快照的功能：  
+`- (UIImage *)ahk_snapshot`
+
+## DJWActionSheet
+
+<table><tr><td width=50%>
+<img src ="http://wkevin.qiniudn.com/Blog_DJWActionSheet.png-w320"/>
+</td><td  width=50%>
+<img src ="http://wkevin.qiniudn.com/Blog_DJWActionSheet-reveal.png-w320"/></a>
+</td></tr></table>
+
+### Feature
+*	DJWActionSheet 也没有继承 UIActionSheet，而是直接继承 UIView。
+*	也是没有使用 delegate ，而是使用 Block，但是整个actionSheet一个Block，而不是像AHKActionSheet
+*	相比 AHKActionSheet，DJWActionSheet没有对背景做高斯模糊操作
+
+### API
+```objective-c
++ (void)showInView:(UIView *)view
+         withTitle:(NSString *)title
+ cancelButtonTitle:(NSString *)cancelButtonTitle
+destructiveButtonTitle:(NSString *)destructiveButtonTitle
+ otherButtonTitles:(NSArray *)otherButtonTitles
+          tapBlock:(DJWActionSheetTapBlock)tapBlock;
+```
+
+### Code
+
+**DJWActionSheet.h/m**
+
+*	使用 UIView 的 `- (UIView *)snapshotViewAfterScreenUpdates:(BOOL)afterUpdates` 方法截取快照view，然后把这个view addSubview 到当前view
+*	给这个快照view增加手势：无论什么手势，都是走到 `cancelButtonTapped:` 上去
+*	计算 actionSheet 的位置和高度等，addSubview 进来
+*	增加button，没有使用tableView，比AHKActionSheet 轻量级了一点
+*	动画部分
+	*	快照view 做 x、y 轴的缩小
+	```objc
+    [UIView animateWithDuration:0.3 animations:^{
+        self.containerSnapShotView.alpha = (scale < 1) ? 0.6 : 1.0;
+        self.containerSnapShotView.layer.transform = CATransform3DMakeScale(scale, scale, 1);
+    }];
+    ```
+    *	actionSheet 的view放在视野外
+    *	把 actionSheet view 抬上来
+    ```objc
+    [UIView animateWithDuration:DJWActionSheetPresentationAnimationSpeed delay:0 usingSpringWithDamping:0.6 initialSpringVelocity:0 options:0 animations:^{
+        self.actionSheetBackgroundView.frame = actionSheetBackgroundViewEndFrame;
+    } completion:^(BOOL finished) {
+    }];
+    ```
