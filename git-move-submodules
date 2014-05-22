@@ -1,0 +1,136 @@
+#!/bin/bash
+# git-mv-submodules
+# (c) Copyright 2013 wkevin <wkevin27@gmail.com>
+# Licensed on the terms of the GNU GPL version 3
+# 需求：
+# 指定"源目录/文件夹"、"目的目录"
+# 根据 .gitmodules 文件，逐个移动"文件夹"中的submodule到"目的目录"中
+# 目录树结构不变
+# 移动的是"文件夹"，而不是"源目录"
+
+function usage ()
+{
+	echo -----------------------------------------------------------
+	echo "usage: $(basename $0) [-v] [-t] oldParentPath/Folder newParentPath/"
+	echo "Folder will move from oldParentPath to newParentPath"
+	echo "oldParentPath can be NONE"
+	echo "[-v] verbose"
+	echo "[-t] test: only show whitch submodule will move without real move"
+	echo -----------------------------------------------------------
+	return
+} 
+
+function eo()
+{
+	$VERBOSE && echo $1
+}
+
+VERBOSE=false
+TEST=false
+for arg in $*; do
+if [ $arg = "-v" -o $arg = '--verbose' ]; then
+	VERBOSE=true
+	shift
+fi
+if [ $arg = '-t' -o $arg = '--test' ]; then
+	TEST=true
+	shift
+fi
+done
+
+
+# check the number of args
+if [ $# -lt 2 ]; then
+	usage
+	exit 0
+fi
+
+# check the availability of source and targe path
+if [ ! -d ${1} ]; then
+	echo [ERROR] Source path must exist
+	usage
+	exit 2
+fi
+
+if [ ! -d ${2} ]; then
+	echo [ERROR] Target path must exist
+	usage
+	exit 2
+fi
+
+# check if in the root direct with .gitmodules
+if [ ! -r .gitmodules ]; then
+	echo [ERROR] Action this file in folder including .gitmodules 
+	usage
+	exit 2
+fi
+
+# split args
+OLDPATH=${1%%/}
+FOLDER=${OLDPATH##*/}
+OLDPARENT=${OLDPATH%/*}
+NEWPARENT=${2%%/}
+
+if [ ! "${OLDPARENT##/*}" = "$OLDPARENT" ]; then
+	OLDPARENT_CANONICAL="$OLDPARENT"
+else
+	OLDPARENT_CANONICAL="$PWD/$OLDPARENT"
+fi
+
+if [ ! "${NEWPARENT##/*}" = "$NEWPARENT" ]; then
+	NEWPARENT_CANONICAL="$NEWPARENT"
+else
+	NEWPARENT_CANONICAL="$PWD/$NEWPARENT"
+fi
+
+eo "VERBOSE  = $VERBOSE"
+eo "TEST  = $TEST"
+eo "OLDPATH   = $OLDPATH"
+eo "FOLDER = $FOLDER"
+eo "OLDPARENT = $OLDPARENT"
+eo "NEWPARENT = $NEWPARENT"
+eo "OLDPARENT_CANONICAL = $OLDPARENT_CANONICAL"
+eo "NEWPARENT_CANONICAL = $NEWPARENT_CANONICAL"
+eo "----"
+
+# step1. find the submodules in .gitmodules and $OLDPATH
+if [ -f targetSubmodules ]; then
+	eo "Delete targetSubmodules"
+	rm -rf targetSubmodules
+fi
+awk '/path \=/ {
+	if (1 == index($3, "'"$OLDPATH"'"))
+		print $3
+}' .gitmodules > targetSubmodules
+
+cat targetSubmodules
+
+if [ ! -f targetSubmodules ]; then
+	echo "Can not find submodule in $OLDPATH"
+fi
+
+# step2. creat new dir tree in $NEWPARENT
+while read line  
+do
+	l=${line%/*}
+	ll=$NEWPARENT_CANONICAL/${l/*$FOLDER/$FOLDER}
+	eo "mkdir -p $ll"
+	mkdir -p $ll
+done<targetSubmodules
+
+# step3. call git-submodule-move for submodules one by one
+while read line  
+do
+	SRC_PATH=${line%/*}
+	DEST_PATH=$NEWPARENT/${SRC_PATH/*$FOLDER/$FOLDER}
+	SUBMODULE=${line##*/}
+
+	echo "git mv $line $NEWPARENT/${line%/*}/"
+	echo "sed -i 's%^\(.submodule.\).*$line.*%\1"$DEST_PATH/$SUBMODULE"]%' .gitmodules"
+	if [ $TEST = false ]; then
+		git mv $line $NEWPARENT/${line%/*}/
+		sed -i 's%^\(.submodule.\).*$line.*%\1"$DEST_PATH/$SUBMODULE"]%' .gitmodules
+	fi
+	echo ===========================================
+done<targetSubmodules
+
