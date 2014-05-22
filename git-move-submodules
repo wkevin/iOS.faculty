@@ -11,9 +11,9 @@
 function usage ()
 {
 	echo -----------------------------------------------------------
-	echo "usage: $(basename $0) [-v] [-t] oldParentPath/Folder newParentPath/"
-	echo "Folder will move from oldParentPath to newParentPath"
-	echo "oldParentPath can be NONE"
+	echo "usage: $(basename $0) [-v] [-t] foo/Folder bar/"
+	echo "Folder will move from foo to bar"
+	echo "foo can be NONE"
 	echo "[-v] verbose"
 	echo "[-t] test: only show whitch submodule will move without real move"
 	echo -----------------------------------------------------------
@@ -94,19 +94,21 @@ eo "NEWPARENT_CANONICAL = $NEWPARENT_CANONICAL"
 eo "----"
 
 # step1. find the submodules in .gitmodules and $OLDPATH
-if [ -f targetSubmodules ]; then
-	eo "Delete targetSubmodules"
-	rm -rf targetSubmodules
+if [ -f .targetSubmodules ]; then
+	eo "Delete .targetSubmodules"
+	rm -rf .targetSubmodules
 fi
 awk '/path \=/ {
 	if (1 == index($3, "'"$OLDPATH"'"))
 		print $3
-}' .gitmodules > targetSubmodules
+}' .gitmodules > .targetSubmodules
 
-cat targetSubmodules
+cat .targetSubmodules
 
-if [ ! -f targetSubmodules ]; then
+if [ ! -s .targetSubmodules -o ! -f .targetSubmodules ]; then
 	echo "Can not find submodule in $OLDPATH"
+	echo exit
+	exit 0
 fi
 
 # step2. creat new dir tree in $NEWPARENT
@@ -116,7 +118,7 @@ do
 	ll=$NEWPARENT_CANONICAL/${l/*$FOLDER/$FOLDER}
 	eo "mkdir -p $ll"
 	mkdir -p $ll
-done<targetSubmodules
+done<.targetSubmodules
 
 # step3. call git-submodule-move for submodules one by one
 while read line  
@@ -125,12 +127,23 @@ do
 	DEST_PATH=$NEWPARENT/${SRC_PATH/*$FOLDER/$FOLDER}
 	SUBMODULE=${line##*/}
 
+	eo "~~~~~~~~~"
+	eo "line = $line"
+	eo "SRC_PATH = $SRC_PATH"
+	eo "DEST_PATH = $DEST_PATH"
+	eo "SUBMODULE = $SUBMODULE"
+
 	echo "git mv $line $NEWPARENT/${line%/*}/"
-	echo "sed -i 's%^\(.submodule.\).*$line.*%\1"$DEST_PATH/$SUBMODULE"]%' .gitmodules"
+	echo "sed -i \"\" 's%^\(.submodule.\).*$line.*%\1\"$DEST_PATH/$SUBMODULE\"]%' .gitmodules"
 	if [ $TEST = false ]; then
 		git mv $line $NEWPARENT/${line%/*}/
-		sed -i 's%^\(.submodule.\).*$line.*%\1"$DEST_PATH/$SUBMODULE"]%' .gitmodules
+		if [ 0 != $? ]; then
+			echo exit
+			exit 3
+		fi
+		sed -i "" 's%^\(.submodule.\).*'$line'.*%\1"'$DEST_PATH'/'$SUBMODULE'"]%' .gitmodules
+		git add .gitmodules
 	fi
 	echo ===========================================
-done<targetSubmodules
+done<.targetSubmodules
 
