@@ -810,3 +810,7 @@
 	path = freshman/ui/ext.UIActionSheet/MTDActionSheet
 	url = https://github.com/myell0w/MTDActionSheet.git
 	branch = master
+[submodule "freshman/ui/ext.UIButton/MRoundedButton"]
+	path = freshman/ui/ext.UIButton/MRoundedButton
+	url = https://github.com/mrcrow/MRoundedButton.git
+	branch = master
