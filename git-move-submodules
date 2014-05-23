@@ -2,6 +2,12 @@
 # git-mv-submodules
 # (c) Copyright 2013 wkevin <wkevin27@gmail.com>
 # Licensed on the terms of the GNU GPL version 3
+# Require:
+# When I collect many submodules ,it is necessary to move them from 
+# one folder to another folder for ordering them.
+# Genearaly we put submodules in a independent folder,such as vender whitch parent folder
+# such as foo. So, I want to move all submodules in this vender folder 
+# from "foo" folder to another path (such as "bar" folder)with same direction tree struction.
 # 需求：
 # 指定"源目录/文件夹"、"目的目录"
 # 根据 .gitmodules 文件，逐个移动"文件夹"中的submodule到"目的目录"中
@@ -13,9 +19,12 @@ function usage ()
 	echo -----------------------------------------------------------
 	echo "usage: $(basename $0) [-v] [-t] foo/Folder bar/"
 	echo "Folder will move from foo to bar"
-	echo "foo can be NONE"
 	echo "[-v] verbose"
 	echo "[-t] test: only show whitch submodule will move without real move"
+	echo "Attention:"
+	echo "1.git-move-submodules file must in same dir with .gitmodules"
+	echo "2.bar must exist "
+    echo "3.foo can be NONE"
 	echo -----------------------------------------------------------
 	return
 } 
@@ -120,7 +129,7 @@ do
 	mkdir -p $ll
 done<.targetSubmodules
 
-# step3. call git-submodule-move for submodules one by one
+# step3. move submodules one by one
 while read line  
 do
 	SRC_PATH=${line%/*}
@@ -133,16 +142,39 @@ do
 	eo "DEST_PATH = $DEST_PATH"
 	eo "SUBMODULE = $SUBMODULE"
 
-	echo "git mv $line $NEWPARENT/${line%/*}/"
-	echo "sed -i \"\" 's%^\(.submodule.\).*$line.*%\1\"$DEST_PATH/$SUBMODULE\"]%' .gitmodules"
-	if [ $TEST = false ]; then
-		git mv $line $NEWPARENT/${line%/*}/
-		if [ 0 != $? ]; then
-			echo exit
-			exit 3
+	echo "git mv $line $DEST_PATH/"
+	echo "sed -i 's%^\(.submodule.\).*$line.*%\1\"$DEST_PATH/$SUBMODULE\"]%' .gitmodules"
+	if [ $TEST = true ]; then
+		continue
+	fi
+
+	# step3.1 call git mv, it can 
+	# i)    modify path in .gitmodules file, but not name
+	# ii)   create submodule new path and copy contents of submodule
+	# iii)  modify worktree in .git/modules/xxx/config file if this file exist
+	git mv $line $DEST_PATH/
+	if [ 0 != $? ]; then
+		echo exit
+		exit 3
+	fi
+
+	# step3.2 modify name in .gitmodules file and add it to index
+	sed -i 's%^\(.submodule.\).*'$line'.*%\1"'$DEST_PATH'/'$SUBMODULE'"]%' .gitmodules
+	git add .gitmodules
+
+	# step3.3 move .git/modules/xxx and modify gitdir in xxx/.git file 
+	#         They are not exist when you havnt git update this submodule
+	if [ 1 -eq 2 ]; then
+		if [ -d .git/modules/$SRC_PATH ]; then
+			mkdir -p .git/modules/$DEST_PATH
+			mv .git/modules/$SRC_PATH/$SUBMODULE .git/modules/$DEST_PATH/
+			sed -i -e s%\(.*gitdir:.\)\(.*\)%\1''% $DEST_PATH/$SUBMODULE/.git
 		fi
-		sed -i "" 's%^\(.submodule.\).*'$line'.*%\1"'$DEST_PATH'/'$SUBMODULE'"]%' .gitmodules
-		git add .gitmodules
+	else
+		# need not do this
+		# the .git/modules/xxx will not disturb your git work
+		# and when you git clone a new repo,and then git update -i, all things will be ok
+		echo 
 	fi
 	echo ===========================================
 done<.targetSubmodules
